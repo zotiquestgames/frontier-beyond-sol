@@ -1,30 +1,6 @@
----
-layout: home
----
-
 # Rim: Beyond Sol
 
 ## L'Unione di Sol
-
-### Sistemi del "Nucleo"
-Questi sistemi sono più vicini alla Terra e presumibilmente più sviluppati, con una maggiore densità di popolazione umana e infrastrutture avanzate. Sono i centri di potere politico, economico e tecnologico.
-
-- **Alpha Centauri**: Come sistema stellare più vicino alla Terra, sarebbe logico che diventasse uno dei primi e più sviluppati centri di colonizzazione umana.
-- **Sirius**: Data la sua luminosità e visibilità dalla Terra, Sirius potrebbe facilmente diventare un punto focale per il commercio e l'industria.
-- **Tau Ceti**: La sua somiglianza con il Sole lo rende un candidato ideale per una delle prime e più confortevoli colonie umane.
-- **Epsilon Eridani (Ran)**: La sua relativa vicinanza e la giovinezza della stella la rendono un luogo dinamico per lo sviluppo umano, con un forte potenziale per essere al centro di conflitti su risorse e territori.
-- **Delta Pavonis**: Per la sua somiglianza con il Sole, potrebbe essere uno dei pilastri dell'umanità nello spazio, simbolo di speranza e prosperità.
-
-### Sistemi di "Frontiera"
-Questi sistemi sono più lontani, meno sviluppati e rappresentano la vera frontiera dell'esplorazione e colonizzazione umana. Sono regioni ricche di opportunità ma anche di pericoli, dove le leggi e le infrastrutture centrali potrebbero non avere ancora una presa forte.
-
-- **Wolf 359**: La sua bassa luminosità e minor visibilità lo rendono un luogo ideale per attività lontano dagli occhi indiscreti, come basi segrete o esperimenti al limite della legalità.
-- **Lalande 21185**: Anche se relativamente vicina, la sua mancanza di pianeti confermati potrebbe significare che è stata una delle ultime ad essere colonizzata.
-- **Lacaille 9352**: La sua posizione la rende una candidata per un avamposto di ricerca o una base militare, piuttosto che un centro abitato sviluppato.
-- **Luyten's Star**: Un sistema che potrebbe offrire un rifugio per coloro che cercano di sfuggire alla vita nei sistemi core sovraffollati.
-- **Keid (Omicron2 Eridani)**: Il suo essere un sistema stellare triplo con caratteristiche uniche lo rende un ambiente affascinante ma complesso per la colonizzazione.
-- **Alsafi (Sigma Draconis)**: La relativa vicinanza e somiglianza al Sole potrebbero farla sembrare un candidato per "core", ma potrebbe essere stata trascurata a favore di sistemi con risorse più evidenti o posizioni strategiche.
-- **82 G. Eridani**: Senza giganti gassosi e con un ambiente potenzialmente stabile, potrebbe essere un sistema di frontiera emergente, con recenti sforzi di colonizzazione e sviluppo.
 
 ## Cronologia
 
@@ -218,7 +194,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta Principale
 
-**Nome del Pianeta:** Alpha
+**Nome:** Alpha
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 1.241 AU (circa 1.9E+08 km)
 - **Ambiente Superficiale:** Clima fresco con poche nuvole e un'atmosfera sottile ma respirabile, composta principalmente da azoto (N2) e ossigeno (O2). Il pianeta presenta una gamma di temperature che varia notevolmente tra il giorno e la notte.
@@ -249,9 +225,9 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Distanza dalla Terra:** Circa 4.37 anni luce
 - **Stella Principale:** Alpha Centauri B (Tipo K1V)
 
-#### Pianeta Principale
+#### Pianeta Principale:
 
-**Nome del Pianeta:** Aqua
+**Nome:** Aqua
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 0.685 AU (circa 1E+08 km)
 - **Ambiente Superficiale:** Predominantemente acquatico, con un'atmosfera ricca di ossigeno e azoto. Il clima è moderato con temperature che oscillano piacevolmente tra il giorno e la notte.
@@ -259,7 +235,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Atmosfera:** Respirabile, con una pressione atmosferica più elevata della Terra, composta da 79.7% di azoto e 19.5% di ossigeno.
 
 #### Abitabilità e Colonizzazione:
-- **Storia della Colonizzazione:** Aqua è stato colonizzato nel terzo decennio del 23° secolo, attirando comunità orientate alla ricerca marina e allo sviluppo sostenibile.
+- **Storia della Colonizzazione:** Aqua è stato colonizzato nel terzo decennio del 22° secolo, attirando comunità orientate alla ricerca marina e allo sviluppo sostenibile.
 - **Popolazione Attuale:** Approssimativamente 3 milioni, con una presenza umana concentrata su piattaforme flottanti e arcipelaghi.
 - **Principali Insediamenti:** Marina Haven (capitale politica e centro di ricerca marina), Archipelago City (comunità residenziale e turistica), Deepwater (centro industriale per l'estrazione di risorse marine).
 - **Economia:** Dominata dall'esplorazione oceanica, biotecnologie marine, turismo e la coltivazione di alghe per alimenti e biocarburanti.
@@ -284,7 +260,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta Principale
 
-**Nome del Pianeta:** Frost
+**Nome:** Frost
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 0.569 AU (circa 8.5E+07 km)
 - **Ambiente Superficiale:** Clima freddo con poche nuvole e un'atmosfera sottile ma respirabile, composta principalmente da ossigeno (O2) e azoto (N2). Caratterizzato da vaste distese ghiacciate e regioni temperate più mite durante il giorno.
@@ -317,7 +293,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta Principale
 
-**Nome del Pianeta:** Tau Ceti Prime
+**Nome:** Tau Ceti Prime
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 0.785 AU (circa 1.2E+08 km)
 - **Ambiente Superficiale:** Con un'atmosfera ricca di ossigeno e azoto, il pianeta è caratterizzato da un clima moderato, con vaste distese d'acqua che coprono l'86.9% della superficie e un'abbondante copertura nuvolosa.
@@ -356,7 +332,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta Principale
 
-**Nome del Pianeta:** (Non specificato, chiamiamolo "Eridani Aqua")
+**Nome:** (Non specificato, chiamiamolo "Eridani Aqua")
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 0.590 AU (circa 8.8E+07 km)
 - **Ambiente Superficiale:** Il pianeta presenta un clima temperato con una distribuzione equilibrata di oceani e masse terrestri. L'atmosfera respirabile e le abbondanti precipitazioni sostengono una vasta gamma di ecosistemi.
@@ -389,7 +365,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta Principale
 
-**Nome del Pianeta:** Cassiopeia Prime
+**Nome:** Cassiopeia Prime
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 1.217 AU (circa 1.8E+08 km)
 - **Ambiente Superficiale:** Il pianeta presenta un clima generalmente freddo con poche nuvole, ma l'atmosfera respirabile e le zone temperate permettono una vasta gamma di ecosistemi.
@@ -422,7 +398,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta Principale
 
-**Nome del Pianeta:** (Non specificato, chiamiamolo "Eridani Oceanus")
+**Nome:** (Non specificato, chiamiamolo "Eridani Oceanus")
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 0.822 AU (circa 1.2E+08 km)
 - **Ambiente Superficiale:** Un mondo ricco d'acqua con un'atmosfera densa e umida, caratterizzato da una gravità significativamente più elevata della Terra. La superficie è dominata da oceani profondi, con poche isole e archipelaghi emergenti.
@@ -430,7 +406,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Atmosfera:** Spessa e pressurizzata, con 2.971 atmosfere terrestri, ricca di azoto e ossigeno, rendendo il pianeta caldo e umido.
 
 #### Abitabilità e Colonizzazione:
-- **Storia della Colonizzazione:** La colonizzazione di Eridani Oceanus ha rappresentato una sfida significativa a causa della sua alta gravità e atmosfera densa. Iniziata nel tardo 24° secolo, si è focalizzata su insediamenti costieri e piattaforme oceaniche.
+- **Storia della Colonizzazione:** La colonizzazione di Eridani Oceanus ha rappresentato una sfida significativa a causa della sua alta gravità e atmosfera densa. Iniziata nel tardo 23° secolo, si è focalizzata su insediamenti costieri e piattaforme oceaniche.
 - **Popolazione Attuale:** Circa 800,000, prevalentemente ricercatori, ingegneri e famiglie dedite all'acquacoltura.
 - **Principali Insediamenti:** Deepwater Station (complesso di ricerca e abitazione galleggiante), High Tide City (centro commerciale e culturale), Gravity's End (comunità di adattamento alla vita ad alta gravità).
 - **Economia:** Dedicata principalmente all'acquacoltura, alla ricerca scientifica, alla produzione di energia dalle maree e al turismo ecologico.
@@ -488,7 +464,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta principale
 
-**Nome del Pianeta:** Hydra
+**Nome:** Hydra
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 1.731 AU (circa 2.6E+08 km)
 - **Ambiente Superficiale:** Con un clima caldo e un'atmosfera respirabile, Hydra presenta un'ampia varietà di biomi, da lussureggianti foreste tropicali a vaste savane e deserti temperati.
@@ -521,7 +497,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta principale
 
-**Nome del Pianeta:** Nova Terra
+**Nome:** Nova Terra
 - **Tipo di Pianeta:** Terrestre, simile alla Terra
 - **Distanza dalla Stella Principale:** 1.185 AU (circa 1.8E+08 km)
 - **Ambiente Superficiale:** Un pianeta che condivide molte caratteristiche con la Terra, incluse estese masse d'acqua e una varietà di biomi. La superficie presenta temperature temperate che supportano una vasta biodiversità.
@@ -545,3 +521,68 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Ricerca e Sviluppo:** Nova Terra ospita diversi centri di ricerca all'avanguardia, specializzati in ecologia, bioingegneria e astrofisica, contribuendo a importanti scoperte scientifiche.
 - **Difesa e Sicurezza:** Un complesso sistema di difesa protegge il pianeta da potenziali minacce, assicurando un ambiente sicuro per i suoi abitanti e le loro attività.
 
+### Kappa Ceti: Vivace Mondo Tropicale
+
+**Nome del Sistema Stellare:** Kappa Ceti
+
+- **Distanza dalla Terra:** Circa 30 anni luce
+- **Stella Principale:** Kappa Ceti, una giovane stella di tipo G simile al Sole ma con maggiore attività stellare.
+
+#### Pianeta principale:
+
+**Nome:** Verdant
+- **Tipo di Pianeta:** Terrestre
+- **Distanza dalla Stella Principale:** 0.861 AU (circa 1.3E+08 km)
+- **Ambiente Superficiale:** Il pianeta è caratterizzato da un clima caldo e umido, con un'atmosfera densa e ricca di ossigeno e azoto. La superficie è dominata da vaste foreste tropicali, oceani riscaldati e una costante copertura nuvolosa.
+- **Presenza d'Acqua:** Abbondante, con un elevato tasso di umidità atmosferica e ampie riserve d'acqua superficiali che coprono gran parte del pianeta.
+- **Atmosfera:** Spessa e pressurizzata, con una pressione atmosferica di 2.170 atmosfere terrestri, composta prevalentemente da azoto (79.7%) e ossigeno (20.0%).
+
+#### Abitabilità e Colonizzazione:
+- **Storia della Colonizzazione:** Verdant è stato colonizzato nel primo quarto del 24° secolo, principalmente per il suo potenziale agricolo e la biodiversità.
+- **Popolazione Attuale:** Circa 4 milioni, la maggior parte dei quali vive in città elevate o insediamenti costruiti su piattaforme sopra la fitta vegetazione.
+- **Principali Insediamenti:** Canopy City (centro amministrativo e di ricerca), Mistharbor (porto commerciale principale), Green Haven (comunità agricola avanzata).
+- **Economia:** Focalizzata sull'agricoltura sostenibile, biofarmaceutica, turismo ecologico e ricerca biologica.
+- **Cultura e Società:** La vita su Verdant è fortemente influenzata dall'ambiente rigoglioso e dalla necessità di armonia con la natura. La società valorizza l'ecologia, l'innovazione nel campo della biologia e il rispetto per la vita in tutte le sue forme.
+- **Relazioni con l'Unione di Sol:** Il pianeta è un punto di riferimento per la ricerca ecologica e biologica all'interno dell'Unione, esportando conoscenze e risorse bio-genetiche preziose.
+- **Curiosità:** "La Danza delle Spore," un evento annuale in cui molte piante rilasciano contemporaneamente le loro spore luminose, creando uno spettacolo di luci bioluminescenti visibile anche dallo spazio.
+
+#### Note su Fauna e Flora:
+- **Specie Notevoli:** "I Volatori di Nebbia," specie di grandi uccelli che sfruttano le correnti aeree calde per planare tra le cime degli alberi; "Gli Arboreali Brillanti," piante che utilizzano la fotosintesi per convertire la luce in energia e la bioluminescenza per comunicare tra loro durante la notte.
+- **Conservazione e Biodiversità:** Esistono rigorosi programmi di conservazione per proteggere gli ecosistemi unici del pianeta, con zone di riserva naturale che coprono vasti territori inesplorati.
+
+#### Importanza Strategica o Scientifica:
+- **Ricerca e Sviluppo:** Verdant ospita il "Centro di Biodiversità Kappa," che conduce ricerche all'avanguardia su nuove specie, ecologia planetaria e potenziali applicazioni mediche delle piante e degli animali autoctoni.
+- **Difesa e Sicurezza:** La sicurezza del pianeta è garantita da una combinazione di monitoraggio satellitare e difese aeree per proteggere contro le minacce naturali e quelle indotte da attività umane.
+
+### Chi1 Orionis A
+
+**Nome del Sistema Stellare:** Chi1 Orionis A
+
+- **Distanza dalla Terra:** Circa 28 anni luce
+- **Stella Principale:** Chi1 Orionis A, una stella di tipo G0, leggermente più calda e luminosa del Sole.
+
+#### Pianeta principale:
+
+**Nome:** Orionis Refuge
+- **Tipo di Pianeta:** Terrestre (Luna di un pianeta gigante)
+- **Distanza dalla Stella Principale:** 0.956 AU (circa 1.4E+08 km)
+- **Ambiente Superficiale:** Caratterizzata da un clima caldo con una copertura nuvolosa persistente, Orionis Refuge offre un habitat accogliente con vaste foreste, oceani rigogliosi e un'atmosfera densa e respirabile.
+- **Presenza d'Acqua:** Abbondante, con l'79.4% della superficie coperta da acqua. Le zone emerse ospitano una ricca vegetazione e diversi ecosistemi.
+- **Atmosfera:** Densa e umida, con una pressione atmosferica di 1.890 atmosfere terrestri, composta principalmente da azoto (78.0%) e ossigeno (21.6%).
+
+#### Abitabilità e Colonizzazione:
+- **Storia della Colonizzazione:** Orionis Refuge è stata colonizzata verso la fine del 24° secolo, principalmente per le sue condizioni abitabili simili alla Terra e il suo potenziale per l'agricoltura e l'abitabilità a lungo termine.
+- **Popolazione Attuale:** Circa 3.5 milioni, con una comunità diversificata che include scienziati, agricoltori, e famiglie alla ricerca di una nuova vita.
+- **Principali Insediamenti:** Celestial Haven (capitale e centro di ricerca), Aqua Frontier (insediamento costiero e centro di aquacoltura avanzata), Skyward Grove (area agricola forestale).
+- **Economia:** Basata su agricoltura avanzata, ricerca scientifica, turismo spaziale e acquacoltura, sfruttando l'abbondanza d'acqua e le condizioni climatiche favorevoli.
+- **Cultura e Società:** Fortemente legata al rispetto per l'ambiente naturale, la società di Orionis Refuge enfatizza la sostenibilità e la coesistenza armoniosa con gli ecosistemi autoctoni.
+- **Relazioni con l'Unione di Sol:** Considerata una gemma ecologica, Orionis Refuge contribuisce significativamente alla biodiversità dell'Unione di Sol e serve come modello di colonizzazione ecocompatibile.
+- **Curiosità:** "Le Notti di Luce," dove la riflessione luminosa dal pianeta madre crea spettacolari cieli notturni, sono momenti di celebrazione e apprezzamento della bellezza naturale di Orionis Refuge.
+
+#### Note su Fauna e Flora:
+- **Specie Notevoli:** "Draghi delle Nuvole," grandi creature volanti che sfruttano le correnti termiche elevate; "Fiori di Vapore," piante che assorbono e rilasciano umidità, contribuendo al clima umido della luna.
+- **Conservazione e Biodiversità:** Vaste aree protette e riserve naturali sono state stabilite per preservare l'unicità della flora e fauna di Orionis Refuge, con programmi di ricerca dedicati alla loro conservazione.
+
+#### Importanza Strategica o Scientifica:
+- **Ricerca e Sviluppo:** La luna ospita diversi centri di ricerca di punta focalizzati sull'ecologia, la climatologia e la biologia extraterrestre, offrendo approfondimenti sui modelli di vita adattabili e sostenibili.
+- **Difesa e Sicurezza:** Sistemi di difesa orbitale e una presenza di sicurezza discreta ma efficace proteggono la luna e i suoi abitanti da eventuali minacce esterne.
