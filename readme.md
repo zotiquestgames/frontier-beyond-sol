@@ -242,6 +242,39 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Ricerca e Sviluppo:** Centauri Prime ospita diverse istituzioni di ricerca di primo piano, focalizzate sullo studio delle scienze planetarie, biologia extraterrestre e adattamenti umani.
 - **Difesa e Sicurezza:** La sicurezza del pianeta è garantita da sofisticate difese orbitali e una presenza militare discreta, riflettendo l'importanza strategica di Centauri Prime come avamposto umano nel sistema di Alpha Centauri.
 
+### Alpha Centauri B
+
+**Nome del Sistema Stellare:** Alpha Centauri B
+
+- **Distanza dalla Terra:** Circa 4.37 anni luce
+- **Stella Principale:** Alpha Centauri B (Tipo K1V)
+
+#### Pianeta Principale
+
+**Nome del Pianeta:** Aqua
+- **Tipo di Pianeta:** Terrestre
+- **Distanza dalla Stella Principale:** 0.685 AU (circa 1E+08 km)
+- **Ambiente Superficiale:** Predominantemente acquatico, con un'atmosfera ricca di ossigeno e azoto. Il clima è moderato con temperature che oscillano piacevolmente tra il giorno e la notte.
+- **Presenza d'Acqua:** Estremamente abbondante, coprendo l'81.9% della superficie del pianeta, caratterizzato da vasti oceani e innumerevoli isole.
+- **Atmosfera:** Respirabile, con una pressione atmosferica più elevata della Terra, composta da 79.7% di azoto e 19.5% di ossigeno.
+
+#### Abitabilità e Colonizzazione:
+- **Storia della Colonizzazione:** Aqua è stato colonizzato nel terzo decennio del 23° secolo, attirando comunità orientate alla ricerca marina e allo sviluppo sostenibile.
+- **Popolazione Attuale:** Approssimativamente 3 milioni, con una presenza umana concentrata su piattaforme flottanti e arcipelaghi.
+- **Principali Insediamenti:** Marina Haven (capitale politica e centro di ricerca marina), Archipelago City (comunità residenziale e turistica), Deepwater (centro industriale per l'estrazione di risorse marine).
+- **Economia:** Dominata dall'esplorazione oceanica, biotecnologie marine, turismo e la coltivazione di alghe per alimenti e biocarburanti.
+- **Cultura e Società:** Profondamente legata agli oceani, la cultura di Aqua Centauri enfatizza il rispetto per l'acqua come risorsa vitale e fonte di vita. Celebrazioni e festival acquatici sono comuni, riflettendo l'importanza dell'acqua nella vita quotidiana.
+- **Relazioni con l'Unione di Sol:** Importante centro per la ricerca oceanografica interstellare, Aqua mantiene una relazione di collaborazione con l'Unione, contribuendo significativamente alla conoscenza delle scienze marine a livello galattico.
+- **Curiosità:** Le "Notti di Luce," causate da bioluminescenza marina, trasformano le coste e gli oceani in spettacoli di luce naturale, attirando visitatori da tutto il sistema.
+
+#### Note su Fauna e Flora:
+- **Specie Notevoli:** "Meduse Solari", organismi che raccolgono energia solare durante il giorno per alimentare la loro bioluminescenza notturna; "Alberi di Corallo," una forma di vita vegetale unica che cresce nelle acque poco profonde, creando foreste sottomarine.
+- **Conservazione e Biodiversità:** La protezione degli ecosistemi marini è una priorità, con ampie aree marine protette dedicate alla conservazione della biodiversità unica di Aqua Centauri.
+
+#### Importanza Strategica o Scientifica:
+- **Ricerca e Sviluppo:** Aqua ospita il "Centro Interstellare per le Scienze Marine," un istituto di ricerca all'avanguardia che studia gli ecosistemi marini sia del pianeta che di altri mondi acquatici della galassia.
+- **Difesa e Sicurezza:** La sicurezza del pianeta è garantita attraverso una combinazione di sorveglianza satellitare e pattugliamenti navali, proteggendo sia le risorse naturali che le infrastrutture critiche.
+
 
 
 
