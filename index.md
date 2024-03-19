@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Rim: Beyond Sol
 
 ## L'Unione di Sol
