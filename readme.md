@@ -1,7 +1,5 @@
 # Rim: Beyond Sol
 
-## L'Unione di Sol
-
 ## Cronologia
 
 ### 2090-2124: L'era dell'Esplorazione Solare
