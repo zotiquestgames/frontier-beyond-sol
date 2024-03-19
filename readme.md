@@ -40,7 +40,7 @@ Questi sono gli abitanti e i difensori dei sistemi "core", che vedono l'espansio
 ### **Pionieri di Frontiera**
 Questa fazione è composta da coloro che vivono ai confini dell'Unione di Sol e spingono per l'esplorazione e la colonizzazione aggressiva di nuovi mondi. Credono nella libertà di espansione e nel diritto di sfruttare le risorse dei nuovi mondi per garantire la prosperità dell'umanità. Questa fazione è spesso in contrasto con i Conservatori Stellari su questioni di politica spaziale e gestione delle risorse.
 
-### 3. **Innovatori Tecnologici**
+### **Innovatori Tecnologici**
 Gli Innovatori Tecnologici sono un gruppo trasversale che comprende scienziati, ingegneri e visionari. Sono i principali promotori dell'innovazione e dello sviluppo tecnologico, spingendo per la creazione e l'adozione di nuove tecnologie per risolvere i problemi dell'umanità, migliorare la vita nelle colonie e facilitare l'esplorazione spaziale. Collaborano strettamente con corporation come NovaKyushu Robotics e CosmoSoft.
 
 ### **Custodi Ambientali**
