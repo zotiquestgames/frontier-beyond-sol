@@ -14,22 +14,25 @@
 - **2128**: Il primo viaggio con equipaggio umano verso Alpha Centauri segna un'epoca di esplorazione interstellare, anche se l'energia richiesta e i pericoli limitano inizialmente l'uso della tecnologia.
 - **2140**: L'esplorazione interstellare si espande lentamente a causa delle sfide tecniche e dei costi elevati. L'umanità stabilisce avamposti scientifici in sistemi stellari vicini come Sirius e Tau Ceti.
 - **2155:** Firma del Trattato di Unificazione di Sol, risultato di decenni di negoziati, che segna l'unione formale delle potenze maggiori e dei blocchi interplanetari in un'unica entità governativa: l'**Unione di Sol**.
-- **2160**: Il primo "stargate" stabile viene costruito tra Sol e Alpha Centauri, facilitando il viaggio e il trasporto interstellare, ma a un costo energetico ancora elevato.
+- **2160**: Il primo "portale" stabile viene costruito tra Sol e Alpha Centauri, facilitando il viaggio e il trasporto interstellare, ma a un costo energetico ancora elevato.
 
 ### 2161-2294: Espansione e Colonizzazione
-- **2175**: Con il miglioramento della tecnologia degli wormhole, altri sistemi stellari come Luyten's Star e Epsilon Eridani vengono collegati alla rete di "stargate".
+- **2175**: Con il miglioramento della tecnologia degli wormhole, altri sistemi stellari come Luyten's Star e Tau Ceti vengono collegati alla rete di "stargate".
 - **2200**: La colonizzazione umana si estende a numerosi sistemi stellari. Le sfide di vivere in mondi alieni portano a nuove scoperte scientifiche e tecnologiche.
 - **2220**: Le prime forme di vita aliene non intelligenti vengono scoperte, provocando eccitazione e dibattiti sulla biologia extraterrestre e sulla conservazione.
 - **2250**: Nonostante l'assenza di vita intelligente extraterrestre, l'umanità apprende molto dalle forme di vita aliene animali e vegetali, adattando le tecnologie per l'esplorazione e la colonizzazione di ambienti alieni.
 
 ### 2290: Il Conflitto dei Sistemi
-- **2290**: Le tensioni tra i sistemi di "frontiera", desiderosi di maggiore autonomia, e la Federazione, determinata a mantenere il controllo, esplodono in un breve ma intenso conflitto interstellare. L'insoddisfazione per le restrizioni commerciali e il controllo delle risorse si trasforma in azioni armate, culminando in una guerra che mette in luce le profonde divisioni politiche e culturali tra i mondi "core" e quelli di "frontiera". Il conflitto si conclude con un trattato che concede più autonomia ai sistemi di frontiera, segnando un nuovo inizio per la cooperazione interstellare e stabilendo un equilibrio tra unità e indipendenza all'interno dell'umanità sparsa tra le stelle.
+- **2290**: Le tensioni tra i sistemi di "frontiera", desiderosi di maggiore autonomia, e l'Unione, determinata a mantenere il controllo, esplodono in un breve ma intenso conflitto interstellare. L'insoddisfazione per le restrizioni commerciali e il controllo delle risorse si trasforma in azioni armate, culminando in una guerra che mette in luce le profonde divisioni politiche e culturali tra i mondi "core" e quelli di "frontiera". Il conflitto si conclude con un trattato che concede più autonomia ai sistemi di frontiera, segnando un nuovo inizio per la cooperazione interstellare e stabilendo un equilibrio tra unità e indipendenza all'interno dell'umanità sparsa tra le stelle.
 
 ### 2295: La Scoperta che Cambia Tutto
-- **2295**: La scoperta di antiche rovine aliene su Keid (Omicron2 Eridani) rivela che l'umanità non è sola nell'universo, anche se i creatori di tali strutture sono da tempo scomparsi. Questo evento segna un punto di svolta, spingendo l'umanità a riflettere sulla propria posizione nell'universo e a intensificare l'esplorazione interstellare in cerca di altre civiltà perdute.
+- **2295**: La scoperta di antiche rovine aliene su Delta Pavonis rivela che l'umanità non è sola nell'universo, anche se i creatori di tali strutture sono da tempo scomparsi. Questo evento segna un punto di svolta, spingendo l'umanità a riflettere sulla propria posizione nell'universo e a intensificare l'esplorazione interstellare in cerca di altre civiltà perdute.
 
-### 2296-2300: Nuovi Orizzonti
-- **2300**: L'umanità è ben stabilita in dozzine di sistemi stellari, con una rete di "stargate" che collega i mondi "core" e di "frontiera". Le antiche rovine aliene alimentano una nuova era di esplorazione, con la speranza di scoprire più sulla storia galattica e forse, un giorno, incontrare altre forme di vita intelligente.
+### 2296-2399: Stabilizzazione e Integrazione
+- **2300-2380**: Stabilizzazione delle relazioni interstellari e integrazione dei sistemi di frontiera nell'economia e nella cultura dell'Unione di Sol.
+- **2385**: Scoperta di un secondo sito di rovine aliene su Kappa Ceti, rafforzando ulteriormente l'interesse e gli sforzi nell'esplorazione interstellare.
+- **2390**: La colonizzazione di Nova Terra nel sistema di Chara diventa un evento di rilevanza galattica. La somiglianza di Nova Terra con la Terra stessa la rende un ideale "ponte" per future espansioni umane nella galassia. Questo pianeta, caratterizzato da un ambiente estremamente adatto alla vita umana, diventa rapidamente un fulcro per la ricerca, l'innovazione e la cultura, segnando l'inizio di una nuova era di prosperità e cooperazione interstellare.
+- **2400**: L'umanità è ben stabilita in dozzine di sistemi stellari, con una rete di "stargate" che collega i mondi "centrali" e di "frontiera". Le antiche rovine aliene alimentano una nuova era di esplorazione, con la speranza di scoprire più sulla storia galattica e forse, un giorno, incontrare altre forme di vita intelligente.
 
 ## Fazioni maggiori
 
@@ -185,6 +188,47 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 ## I sistemi dell'Unione
 
+### Cronologia di Colonizzazione dei Pianeti
+
+1. **Alpha Centauri A (Alpha)**: Metà del 22° secolo.
+2. **Alpha Centauri B (Aqua)**: Terzo decennio del 22° secolo.
+3. **Tau Ceti (Tau Ceti Prime)**: Prima metà del 23° secolo.
+4. **40 Eridani A (Eridani Aqua)**: Inizio del 23° secolo.
+5. **Ran (Epsilon Eridani) (Frost)**: Metà del 23° secolo.
+6. **Eta Cassiopeiae A (Cassiopeia Prime)**: Metà del 23° secolo.
+7. **82 Eridani (Eridani Oceanus)**: Tardo 23° secolo.
+8. **Delta Pavonis (Haven)**: Fine del 23° secolo.
+9. **Beta Hydri (Hydra)**: Fine del 23° secolo.
+10. **Chara (Beta Canum Venaticorum) (Nova Terra)**: Tardo 23° secolo.
+11. **Kappa Ceti (Verdant)**: Primo quarto del 24° secolo.
+12. **Chi1 Orionis A (Orionis Refuge)**: Fine del 24° secolo.
+
+### Riassunto dei Pianeti
+
+- **Alpha (Alpha Centauri A)**: Un laboratorio vivente per l'adattamento umano, con una popolazione di 500,000 concentrata in biodomi e insediamenti protetti.
+  
+- **Aqua (Alpha Centauri B)**: Mondo acquatico con una popolazione di 3 milioni, specializzato in esplorazione oceanica, biotecnologie marine e turismo.
+  
+- **Frost (Ran)**: Pianeta freddo con una popolazione di 250,000, incentrato su esplorazione, turismo estremo e ricerca scientifica in climi freddi.
+  
+- **Tau Ceti Prime**: Un mondo ricco d'acqua con 4 milioni di abitanti, famoso per l'acquacoltura, il turismo e la ricerca oceanografica.
+  
+- **Eridani Aqua (40 Eridani A)**: Pianeta temperato con 2 milioni di abitanti, equilibrato tra terra e acqua, con un'ampia biodiversità marina e terrestre.
+  
+- **Cassiopeia Prime (Eta Cassiopeiae A)**: Un mondo freddo e sparsamente popolato con 1.5 milioni di abitanti, noto per il rispetto dell'ambiente e la ricerca scientifica.
+  
+- **Eridani Oceanus (82 Eridani)**: Un gigante acquatico sotto pressione con 800,000 abitanti, specializzato in acquacoltura e ricerca marina profonda.
+  
+- **Haven (Delta Pavonis)**: Una luna abitabile con 3 milioni di abitanti, rifugio per coloro che cercano una vita su un corpo celeste unico con un'atmosfera densa.
+  
+- **Hydra (Beta Hydri)**: Pianeta caldo e biodiverso con 5 milioni di abitanti, centro di agricoltura sostenibile e biodiversità.
+  
+- **Nova Terra (Chara)**: Simile alla Terra, con 5 milioni di abitanti, è un modello di successo di colonizzazione e sostenibilità.
+  
+- **Verdant (Kappa Ceti)**: Mondo tropicale umido con 4 milioni di abitanti, caratterizzato da vaste foreste tropicali e biodiversità.
+  
+- **Orionis Refuge (Chi1 Orionis A)**: Un rifugio caldo e accogliente su una luna, con 3.5 milioni di abitanti, noto per le sue foreste, oceani rigogliosi e una società orientata alla sostenibilità.
+
 ### Alpha Centauri A
 
 **Nome del Sistema Stellare:** Alpha Centauri A
@@ -225,9 +269,9 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Distanza dalla Terra:** Circa 4.37 anni luce
 - **Stella Principale:** Alpha Centauri B (Tipo K1V)
 
-#### Pianeta Principale:
+#### Pianeta Principale
 
-**Nome:** Aqua
+**Nome del Pianeta:** Aqua
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 0.685 AU (circa 1E+08 km)
 - **Ambiente Superficiale:** Predominantemente acquatico, con un'atmosfera ricca di ossigeno e azoto. Il clima è moderato con temperature che oscillano piacevolmente tra il giorno e la notte.
@@ -293,7 +337,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta Principale
 
-**Nome:** Tau Ceti Prime
+**Nome del Pianeta:** Tau Ceti Prime
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 0.785 AU (circa 1.2E+08 km)
 - **Ambiente Superficiale:** Con un'atmosfera ricca di ossigeno e azoto, il pianeta è caratterizzato da un clima moderato, con vaste distese d'acqua che coprono l'86.9% della superficie e un'abbondante copertura nuvolosa.
@@ -365,7 +409,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta Principale
 
-**Nome:** Cassiopeia Prime
+**Nome del Pianeta:** Cassiopeia Prime
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 1.217 AU (circa 1.8E+08 km)
 - **Ambiente Superficiale:** Il pianeta presenta un clima generalmente freddo con poche nuvole, ma l'atmosfera respirabile e le zone temperate permettono una vasta gamma di ecosistemi.
@@ -398,7 +442,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta Principale
 
-**Nome:** (Non specificato, chiamiamolo "Eridani Oceanus")
+**Nome del Pianeta:** (Non specificato, chiamiamolo "Eridani Oceanus")
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 0.822 AU (circa 1.2E+08 km)
 - **Ambiente Superficiale:** Un mondo ricco d'acqua con un'atmosfera densa e umida, caratterizzato da una gravità significativamente più elevata della Terra. La superficie è dominata da oceani profondi, con poche isole e archipelaghi emergenti.
@@ -464,7 +508,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta principale
 
-**Nome:** Hydra
+**Nome del Pianeta:** Hydra
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 1.731 AU (circa 2.6E+08 km)
 - **Ambiente Superficiale:** Con un clima caldo e un'atmosfera respirabile, Hydra presenta un'ampia varietà di biomi, da lussureggianti foreste tropicali a vaste savane e deserti temperati.
@@ -497,7 +541,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta principale
 
-**Nome:** Nova Terra
+**Nome del Pianeta:** Nova Terra
 - **Tipo di Pianeta:** Terrestre, simile alla Terra
 - **Distanza dalla Stella Principale:** 1.185 AU (circa 1.8E+08 km)
 - **Ambiente Superficiale:** Un pianeta che condivide molte caratteristiche con la Terra, incluse estese masse d'acqua e una varietà di biomi. La superficie presenta temperature temperate che supportano una vasta biodiversità.
@@ -530,7 +574,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta principale:
 
-**Nome:** Verdant
+**Nome del Pianeta:** Verdant
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 0.861 AU (circa 1.3E+08 km)
 - **Ambiente Superficiale:** Il pianeta è caratterizzato da un clima caldo e umido, con un'atmosfera densa e ricca di ossigeno e azoto. La superficie è dominata da vaste foreste tropicali, oceani riscaldati e una costante copertura nuvolosa.
