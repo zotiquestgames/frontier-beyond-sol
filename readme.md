@@ -209,6 +209,39 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 ## I sistemi dell'Unione
 
+### Alpha Centauri A
+
+**Nome del Sistema Stellare:** Alpha Centauri A
+
+- **Distanza dalla Terra:** Circa 4.37 anni luce
+- **Stella Principale:** Alpha Centauri A (Tipo G2V, simile al Sole)
+
+#### Pianeta Principale
+
+**Nome del Pianeta:** Alpha
+- **Tipo di Pianeta:** Terrestre
+- **Distanza dalla Stella Principale:** 1.241 AU (circa 1.9E+08 km)
+- **Ambiente Superficiale:** Clima fresco con poche nuvole e un'atmosfera sottile ma respirabile, composta principalmente da azoto (N2) e ossigeno (O2). Il pianeta presenta una gamma di temperature che varia notevolmente tra il giorno e la notte.
+- **Presenza d'Acqua:** Sì, con una copertura idrica del 52.8%, indicando oceani, laghi e fiumi.
+- **Atmosfera:** La pressione atmosferica è circa 0.272 atmosfere terrestri con una composizione di 53.1% di azoto, 46.4% di ossigeno e tracce di argon.
+
+#### Abitabilità e Colonizzazione:
+- **Storia della Colonizzazione:** Colonizzato a metò del 22° secolo, Centauri Prime è diventato un laboratorio vivente per l'adattamento umano a mondi extrasolari simili alla Terra.
+- **Popolazione Attuale:** Approssimativamente 500,000, focalizzati in biodomi e insediamenti protetti per adattarsi alle condizioni atmosferiche uniche.
+- **Principali Insediamenti:** Nova Harmonia (capitale scientifica e culturale), Port Astra (porto spaziale principale), Biome Haven (centro di ricerca sulla biodiversità).
+- **Economia:** Basata sulla ricerca scientifica, turismo ecologico, agricoltura adattata e commercio interstellare.
+- **Cultura e Società:** La società su Centauri Prime è caratterizzata dall'innovazione e dalla sostenibilità, con un forte impegno per la ricerca e la conservazione ambientale.
+- **Relazioni con l'Unione di Sol:** Centauri Prime è considerato un modello di successo di colonizzazione e sostenibilità, mantenendo stretti legami economici e culturali con l'Unione di Sol.
+- **Curiosità:** La "Notte delle Luci," quando le temperature notturne sono ideali per l'osservazione stellare, è un evento celebrato con festival di luci bioluminescenti.
+
+#### Note su Fauna e Flora:
+- **Specie Notevoli:** La flora e fauna sono adattate al clima variabile, incluse le "Piante Solari" che chiudono le loro foglie durante il picco di calore e "Gli Striscianti d'Ombra," piccoli organismi che prosperano nelle temperature fresche notturne.
+- **Conservazione e Biodiversità:** Diverse riserve naturali sono state stabilite per proteggere la biodiversità unica di Centauri Prime, con programmi di ricerca dedicati allo studio delle specie native.
+
+#### Importanza Strategica o Scientifica:
+- **Ricerca e Sviluppo:** Centauri Prime ospita diverse istituzioni di ricerca di primo piano, focalizzate sullo studio delle scienze planetarie, biologia extraterrestre e adattamenti umani.
+- **Difesa e Sicurezza:** La sicurezza del pianeta è garantita da sofisticate difese orbitali e una presenza militare discreta, riflettendo l'importanza strategica di Centauri Prime come avamposto umano nel sistema di Alpha Centauri.
+
 
 
 
