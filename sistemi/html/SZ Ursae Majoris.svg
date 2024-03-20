@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" version="1.1" viewBox="-20 -20 800 160">
+
+<title>stargen 2135783623-0.2</title>
+<desc>Created by: stargen - $Revision: 1.46 $</desc>
+
+<g stroke="black" stroke-width="1">
+    <line x1="0" y1="100" x2="760" y2="100"/>
+    <line x1="0" y1="90" x2="0" y2="110"/>
+    <line x1="88" y1="95" x2="88" y2="105"/>
+    <line x1="139" y1="95" x2="139" y2="105"/>
+    <line x1="176" y1="95" x2="176" y2="105"/>
+    <line x1="204" y1="95" x2="204" y2="105"/>
+    <line x1="227" y1="95" x2="227" y2="105"/>
+    <line x1="247" y1="95" x2="247" y2="105"/>
+    <line x1="264" y1="95" x2="264" y2="105"/>
+    <line x1="279" y1="95" x2="279" y2="105"/>
+    <line x1="292" y1="90" x2="292" y2="110"/>
+    <line x1="380" y1="95" x2="380" y2="105"/>
+    <line x1="431" y1="95" x2="431" y2="105"/>
+    <line x1="468" y1="95" x2="468" y2="105"/>
+    <line x1="496" y1="95" x2="496" y2="105"/>
+    <line x1="519" y1="95" x2="519" y2="105"/>
+    <line x1="539" y1="95" x2="539" y2="105"/>
+    <line x1="556" y1="95" x2="556" y2="105"/>
+    <line x1="571" y1="95" x2="571" y2="105"/>
+    <line x1="584" y1="90" x2="584" y2="110"/>
+    <line x1="672" y1="95" x2="672" y2="105"/>
+    <line x1="724" y1="95" x2="724" y2="105"/>
+    <line x1="760" y1="95" x2="760" y2="105"/>
+</g>
+
+<line x1="-65" y1="95" x2="-65" y2="105" stroke="blue" stroke-width="1"/>
+<line x1="-91" y1="100" x2="-19" y2="100" stroke="#66c" stroke-width="10" stroke-opacity="0.5"/>
+<g font-family="Arial" font-size="10" font-style="normal" font-weight="normal" fill="black" text-anchor="middle">
+    <text x="0" y="120"> 0 AU </text>
+    <text x="292" y="120"> 1 AU </text>
+    <text x="584" y="120"> 10 AU </text>
+
+    <circle cx="89" cy="30" r="1" fill="none" stroke="black" stroke-width="1"/>
+    <line x1="67" y1="85" x2="107" y2="85" stroke="black" stroke-width="8" stroke-opacity="0.3"/>
+    <text x="89" y="80">0.02</text>
+
+    <circle cx="150" cy="30" r="1" fill="none" stroke="black" stroke-width="1"/>
+    <line x1="141" y1="85" x2="159" y2="85" stroke="black" stroke-width="8" stroke-opacity="0.3"/>
+    <text x="150" y="80">0.01</text>
+
+    <circle cx="204" cy="30" r="2" fill="none" stroke="black" stroke-width="1"/>
+    <line x1="193" y1="85" x2="215" y2="85" stroke="black" stroke-width="8" stroke-opacity="0.3"/>
+    <text x="204" y="80">0.05</text>
+
+    <circle cx="237" cy="30" r="3" fill="none" stroke="black" stroke-width="1"/>
+    <line x1="236" y1="85" x2="237" y2="85" stroke="black" stroke-width="8" stroke-opacity="0.3"/>
+    <text x="237" y="80">0.17</text>
+
+    <circle cx="292" cy="30" r="2" fill="none" stroke="black" stroke-width="1"/>
+    <line x1="281" y1="85" x2="303" y2="85" stroke="black" stroke-width="8" stroke-opacity="0.3"/>
+    <text x="292" y="80">0.07</text>
+
+    <circle cx="316" cy="30" r="2" fill="none" stroke="black" stroke-width="1"/>
+    <line x1="313" y1="85" x2="319" y2="85" stroke="black" stroke-width="8" stroke-opacity="0.3"/>
+    <text x="316" y="80">0.06</text>
+
+    <circle cx="341" cy="30" r="5" fill="none" stroke="black" stroke-width="1"/>
+    <line x1="330" y1="85" x2="351" y2="85" stroke="black" stroke-width="8" stroke-opacity="0.3"/>
+    <text x="341" y="80">1.2</text>
+
+    <circle cx="419" cy="30" r="6" fill="none" stroke="black" stroke-width="1"/>
+    <line x1="416" y1="85" x2="421" y2="85" stroke="black" stroke-width="8" stroke-opacity="0.3"/>
+    <text x="419" y="80">1.9</text>
+
+    <circle cx="506" cy="30" r="4" fill="none" stroke="black" stroke-width="1"/>
+    <line x1="475" y1="85" x2="531" y2="85" stroke="black" stroke-width="8" stroke-opacity="0.3"/>
+    <text x="506" y="80">0.42</text>
+
+    <circle cx="546" cy="30" r="7" fill="none" stroke="black" stroke-width="1"/>
+    <line x1="541" y1="85" x2="551" y2="85" stroke="black" stroke-width="8" stroke-opacity="0.3"/>
+    <text x="546" y="80">3.0</text>
+
+    <circle cx="615" cy="30" r="5" fill="none" stroke="black" stroke-width="1"/>
+    <line x1="614" y1="85" x2="616" y2="85" stroke="black" stroke-width="8" stroke-opacity="0.3"/>
+    <text x="615" y="80">1.2</text>
+
+    <circle cx="715" cy="30" r="5" fill="none" stroke="black" stroke-width="1"/>
+    <line x1="676" y1="85" x2="744" y2="85" stroke="black" stroke-width="8" stroke-opacity="0.3"/>
+    <text x="715" y="80">0.89</text>
+
+</g>
+</svg>

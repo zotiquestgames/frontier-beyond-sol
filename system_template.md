@@ -1,0 +1,33 @@
+### [System Name] System Overview
+
+**Star:** [Star Name]  
+**Mass:** [Star's Mass] Solar Masses  
+**Luminosity:** [Star's Luminosity] Solar Luminosity  
+**Age:** [Star's Age] Billion Years  
+**Habitable Zone:** [Habitable Zone Range] AU
+
+### Planetary Bodies Summary
+
+- **Number of Planets:** [Total Number] (Including any notable classifications like Terrestrial, Sub-Jovians, Jovians)
+- **Habitable Planets:** [Number of potentially habitable planets]
+- **Notable Moons:** [Brief description of any moons with interesting features]
+
+### Highlighted Planets and Moons
+
+#### [Planet/Moon Name]: [Notable Feature or Characteristic]
+- **Type:** [Planet/Moon Type]
+- **Distance from [Star Name]:** [Distance] AU
+- **Mass & Size:** [Mass in Earth Masses, Size in Earth Radii or comparison]
+- **Atmosphere:** [Brief description if applicable]
+- **Surface Conditions:** [Brief description of conditions, e.g., icy, temperate, volcanic]
+
+(Repeat for up to 3-4 significant bodies of interest)
+
+### System Characteristics
+- **Diversity:** [Brief description of the variety within the system, e.g., gas giants with rings, rocky moons, asteroid belts]
+- **Potential for Exploration:** [General exploration potential, e.g., rich mineral moons, potential for life, scientific interest]
+- **Challenges:** [Any notable challenges for exploration or colonization, e.g., extreme temperatures, radiation, lack of atmosphere]
+
+### Key Notes
+- [1-2 sentences summarizing the appeal or unique aspects of the system, e.g., a system ripe for adventure, with mysteries to uncover and diverse worlds to explore.]
+

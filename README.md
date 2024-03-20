@@ -188,18 +188,18 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 ### Cronologia di Colonizzazione dei Pianeti
 
-1. **Alpha Centauri A (Alpha)**: Metà del 22° secolo.
+1. **Alpha Centauri A (Alpha)**: Secondo decennio del 22° secolo.
 2. **Alpha Centauri B (Aqua)**: Terzo decennio del 22° secolo.
-3. **Tau Ceti (Tau Ceti Prime)**: Prima metà del 23° secolo.
-4. **40 Eridani A (Eridani Aqua)**: Inizio del 23° secolo.
-5. **Ran (Epsilon Eridani) (Frost)**: Metà del 23° secolo.
+3. **Tau Ceti (Tau Ceti Prime)**: Metà del 22° secolo.
+4. **40 Eridani A (Eridani Aqua)**: Fine del 22° secolo.
+5. **Ran (Epsilon Eridani) (Frost)**: Prima metà del 23° secolo.
 6. **Eta Cassiopeiae A (Cassiopeia Prime)**: Metà del 23° secolo.
 7. **82 Eridani (Eridani Oceanus)**: Tardo 23° secolo.
-8. **Delta Pavonis (Haven)**: Fine del 23° secolo.
-9. **Beta Hydri (Hydra)**: Fine del 23° secolo.
 10. **Chara (Beta Canum Venaticorum) (Nova Terra)**: Tardo 23° secolo.
-11. **Kappa Ceti (Verdant)**: Primo quarto del 24° secolo.
-12. **Chi1 Orionis A (Orionis Refuge)**: Fine del 24° secolo.
+11. **Beta Hydri (Hydra)**: Fine del 23° secolo.
+12. **Delta Pavonis (Haven)**: Inizio del 24° secolo.
+12. **Kappa Ceti (Verdant)**: Metà del 24° secolo.
+13. **Chi1 Orionis A (Orionis Refuge)**: Tardo 24° secolo.
 
 ### Riassunto dei Pianeti
 
@@ -244,7 +244,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Atmosfera:** La pressione atmosferica è circa 0.272 atmosfere terrestri con una composizione di 53.1% di azoto, 46.4% di ossigeno e tracce di argon.
 
 #### Abitabilità e Colonizzazione:
-- **Storia della Colonizzazione:** Colonizzato a metò del 22° secolo, Centauri Prime è diventato un laboratorio vivente per l'adattamento umano a mondi extrasolari simili alla Terra.
+- **Storia della Colonizzazione:** Colonizzato nel secondo del 22° secolo, Centauri Prime è diventato un laboratorio vivente per l'adattamento umano a mondi extrasolari simili alla Terra.
 - **Popolazione Attuale:** Approssimativamente 500,000, focalizzati in biodomi e insediamenti protetti per adattarsi alle condizioni atmosferiche uniche.
 - **Principali Insediamenti:** Nova Harmonia (capitale scientifica e culturale), Port Astra (porto spaziale principale), Biome Haven (centro di ricerca sulla biodiversità).
 - **Economia:** Basata sulla ricerca scientifica, turismo ecologico, agricoltura adattata e commercio interstellare.
@@ -293,39 +293,6 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Ricerca e Sviluppo:** Aqua ospita il "Centro Interstellare per le Scienze Marine," un istituto di ricerca all'avanguardia che studia gli ecosistemi marini sia del pianeta che di altri mondi acquatici della galassia.
 - **Difesa e Sicurezza:** La sicurezza del pianeta è garantita attraverso una combinazione di sorveglianza satellitare e pattugliamenti navali, proteggendo sia le risorse naturali che le infrastrutture critiche.
 
-### Ran (Epsilon Eridani)
-
-**Nome del Sistema Stellare:** Ran (Epsilon Eridani)
-
-- **Distanza dalla Terra:** Circa 10.5 anni luce
-- **Stella Principale:** Epsilon Eridani, una giovane stella di tipo K2
-
-#### Pianeta Principale
-
-**Nome:** Frost
-- **Tipo di Pianeta:** Terrestre
-- **Distanza dalla Stella Principale:** 0.569 AU (circa 8.5E+07 km)
-- **Ambiente Superficiale:** Clima freddo con poche nuvole e un'atmosfera sottile ma respirabile, composta principalmente da ossigeno (O2) e azoto (N2). Caratterizzato da vaste distese ghiacciate e regioni temperate più mite durante il giorno.
-- **Presenza d'Acqua:** Elevata, con il 65.1% della superficie coperta da acqua, principalmente sotto forma di ghiacciai e calotte polari, ma anche laghi e fiumi nelle zone temperate.
-- **Atmosfera:** Sottile, con una pressione atmosferica di 0.278 atmosfere terrestri, dominata da ossigeno e azoto.
-
-#### Abitabilità e Colonizzazione:
-- **Storia della Colonizzazione:** Frost è stato colonizzato nella metà del 23° secolo, attirando esploratori, scienziati e quei cercatori di avventure desiderosi di sfidare i suoi ambienti estremi.
-- **Popolazione Attuale:** Circa 250,000, prevalentemente concentrata in insediamenti protetti e cupole geodetiche termo-regolate.
-- **Principali Insediamenti:** Frosthold (centro di comando e di ricerca scientifica), Glacial Bay (comunità portuale e centro logistico), Polar Zenith (osservatorio astronomico e stazione di ricerca).
-- **Economia:** Basata sull'esplorazione e sfruttamento di risorse minerali, turismo estremo e ricerca scientifica specializzata in climatologia e astrobiologia.
-- **Cultura e Società:** Caratterizzata da una forte resilienza e adattabilità, la società di Frost valorizza la cooperazione e l'innovazione per prosperare in un ambiente così inospitale.
-- **Relazioni con l'Unione di Sol:** Considerato un importante avamposto scientifico e strategico, Frost mantiene stretti legami con l'Unione, sebbene la distanza e le condizioni ambientali presentino sfide uniche.
-- **Curiosità:** Il Festival della Notte Polare celebra il periodo annuale di completa oscurità polare, con giochi di luce, arti performative e celebrazioni che illuminano il buio.
-
-#### Note su Fauna e Flora:
-- **Specie Notevoli:** "Ghiacciofiore", una pianta in grado di sopravvivere alle temperature sottozero e fiorire durante i brevi periodi temperati; "Crawler di Neve", una creatura simile a un insetto che si nutre di alghe sotto la superficie ghiacciata.
-- **Conservazione e Biodiversità:** Le iniziative di conservazione si concentrano sulla protezione delle delicate biosfere polari e delle zone temperate, con particolare attenzione alla ricerca sull'adattamento delle specie alle condizioni climatiche estreme.
-
-#### Importanza Strategica o Scientifica:
-- **Ricerca e Sviluppo:** Frost ospita istituzioni di ricerca d'avanguardia focalizzate su studi ambientali estremi, biologia delle specie adattate al freddo e tecniche di sopravvivenza in ambienti ostili.
-- **Difesa e Sicurezza:** La posizione strategica e le risorse uniche del pianeta hanno portato allo sviluppo di infrastrutture di difesa avanzate, garantendo la sicurezza delle attività di ricerca e delle comunità locali.
-
 ### Tau Ceti
 
 **Nome del Sistema Stellare:** Tau Ceti
@@ -343,7 +310,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Atmosfera:** Densa e respirabile, con una pressione di 1.248 atmosfere terrestri, composta da 73.8% di azoto e 25.7% di ossigeno.
 
 #### Abitabilità e Colonizzazione:
-- **Storia della Colonizzazione:** Colonizzato nella prima metà del 23° secolo, Tau Ceti Prime ha attirato un'ampia varietà di coloni grazie alle sue condizioni climatiche favorevoli e alla sua abbondante disponibilità di acqua.
+- **Storia della Colonizzazione:** Colonizzato a metà del 22° secolo, Tau Ceti Prime ha attirato un'ampia varietà di coloni grazie alle sue condizioni climatiche favorevoli e alla sua abbondante disponibilità di acqua.
 - **Popolazione Attuale:** Approssimativamente 4 milioni, con insediamenti sparsi lungo le coste degli oceani e sulle numerose isole.
 - **Principali Insediamenti:** Oceanus City (capitale e maggiore centro commerciale), Atoll Haven (comunità di ricerca e turismo), Deep Blue (piattaforma di ricerca oceanografica avanzata).
 - **Economia:** Focalizzata sull'acquacoltura, il turismo, la ricerca oceanografica e la desalinizzazione.
@@ -374,7 +341,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 
 #### Pianeta Principale
 
-**Nome:** (Non specificato, chiamiamolo "Eridani Aqua")
+**Nome:** Eridani Aqua
 - **Tipo di Pianeta:** Terrestre
 - **Distanza dalla Stella Principale:** 0.590 AU (circa 8.8E+07 km)
 - **Ambiente Superficiale:** Il pianeta presenta un clima temperato con una distribuzione equilibrata di oceani e masse terrestri. L'atmosfera respirabile e le abbondanti precipitazioni sostengono una vasta gamma di ecosistemi.
@@ -382,7 +349,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Atmosfera:** Composta principalmente da azoto (55.5%) e ossigeno (44.1%), con una pressione atmosferica leggermente inferiore a quella terrestre.
 
 #### Abitabilità e Colonizzazione:
-- **Storia della Colonizzazione:** Colonizzato all'inizio del 23° secolo, Eridani Aqua ha attratto una varietà di coloni grazie alle sue condizioni favorevoli alla vita e all'agricoltura.
+- **Storia della Colonizzazione:** Colonizzato all'inizio del 22° secolo, Eridani Aqua ha attratto una varietà di coloni grazie alle sue condizioni favorevoli alla vita e all'agricoltura.
 - **Popolazione Attuale:** Circa 2 milioni, in gran parte distribuiti lungo le coste e le isole.
 - **Principali Insediamenti:** New Port Eridani (capitale commerciale e culturale), Hydro Haven (centro di ricerca e sviluppo sostenibile), Aquarius City (hub turistico e porto spaziale).
 - **Economia:** Fortemente legata all'acquacoltura, al turismo, alla ricerca scientifica e alla produzione di energia rinnovabile.
@@ -397,6 +364,39 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 #### Importanza Strategica o Scientifica:
 - **Ricerca e Sviluppo:** Il pianeta ospita il "Centro Interplanetario di Studi Oceanografici," dedicato all'esplorazione degli oceani e allo studio delle tecniche di desalinizzazione e di conservazione delle risorse idriche.
 - **Difesa e Sicurezza:** La sua posizione strategica vicino ai confini dell'Unione di Sol e le sue risorse vitali sono protette da sofisticate difese planetarie e una flotta orbitale permanente.
+
+### Ran (Epsilon Eridani)
+
+**Nome del Sistema Stellare:** Ran (Epsilon Eridani)
+
+- **Distanza dalla Terra:** Circa 10.5 anni luce
+- **Stella Principale:** Epsilon Eridani, una giovane stella di tipo K2
+
+#### Pianeta Principale
+
+**Nome:** Frost
+- **Tipo di Pianeta:** Terrestre
+- **Distanza dalla Stella Principale:** 0.569 AU (circa 8.5E+07 km)
+- **Ambiente Superficiale:** Clima freddo con poche nuvole e un'atmosfera sottile ma respirabile, composta principalmente da ossigeno (O2) e azoto (N2). Caratterizzato da vaste distese ghiacciate e regioni temperate più mite durante il giorno.
+- **Presenza d'Acqua:** Elevata, con il 65.1% della superficie coperta da acqua, principalmente sotto forma di ghiacciai e calotte polari, ma anche laghi e fiumi nelle zone temperate.
+- **Atmosfera:** Sottile, con una pressione atmosferica di 0.278 atmosfere terrestri, dominata da ossigeno e azoto.
+
+#### Abitabilità e Colonizzazione:
+- **Storia della Colonizzazione:** Frost è stato colonizzato nella prima metà del 23° secolo, attirando esploratori, scienziati e quei cercatori di avventure desiderosi di sfidare i suoi ambienti estremi.
+- **Popolazione Attuale:** Circa 250,000, prevalentemente concentrata in insediamenti protetti e cupole geodetiche termo-regolate.
+- **Principali Insediamenti:** Frosthold (centro di comando e di ricerca scientifica), Glacial Bay (comunità portuale e centro logistico), Polar Zenith (osservatorio astronomico e stazione di ricerca).
+- **Economia:** Basata sull'esplorazione e sfruttamento di risorse minerali, turismo estremo e ricerca scientifica specializzata in climatologia e astrobiologia.
+- **Cultura e Società:** Caratterizzata da una forte resilienza e adattabilità, la società di Frost valorizza la cooperazione e l'innovazione per prosperare in un ambiente così inospitale.
+- **Relazioni con l'Unione di Sol:** Considerato un importante avamposto scientifico e strategico, Frost mantiene stretti legami con l'Unione, sebbene la distanza e le condizioni ambientali presentino sfide uniche.
+- **Curiosità:** Il Festival della Notte Polare celebra il periodo annuale di completa oscurità polare, con giochi di luce, arti performative e celebrazioni che illuminano il buio.
+
+#### Note su Fauna e Flora:
+- **Specie Notevoli:** "Ghiacciofiore", una pianta in grado di sopravvivere alle temperature sottozero e fiorire durante i brevi periodi temperati; "Crawler di Neve", una creatura simile a un insetto che si nutre di alghe sotto la superficie ghiacciata.
+- **Conservazione e Biodiversità:** Le iniziative di conservazione si concentrano sulla protezione delle delicate biosfere polari e delle zone temperate, con particolare attenzione alla ricerca sull'adattamento delle specie alle condizioni climatiche estreme.
+
+#### Importanza Strategica o Scientifica:
+- **Ricerca e Sviluppo:** Frost ospita istituzioni di ricerca d'avanguardia focalizzate su studi ambientali estremi, biologia delle specie adattate al freddo e tecniche di sopravvivenza in ambienti ostili.
+- **Difesa e Sicurezza:** La posizione strategica e le risorse uniche del pianeta hanno portato allo sviluppo di infrastrutture di difesa avanzate, garantendo la sicurezza delle attività di ricerca e delle comunità locali.
 
 ### Eta Cassiopeiae A
 
@@ -431,7 +431,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Ricerca e Sviluppo:** Il "Cassiopeia Polar Research Institute" è un leader mondiale negli studi sul clima freddo, ecologia aliena e tecnologie di sostenibilità energetica.
 - **Difesa e Sicurezza:** Sebbene pacifico, il pianeta è protetto da un sistema di sorveglianza spaziale per monitorare gli spazi vicini e garantire la sicurezza dei suoi abitanti.
 
-### 82 Eridani: Gigante Acquatico sotto Pressione
+### 82 Eridani
 
 **Nome del Sistema Stellare:** 82 Eridani
 
@@ -463,72 +463,6 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 #### Importanza Strategica o Scientifica:
 - **Ricerca e Sviluppo:** Il pianeta ospita il "Deep Ocean Research Institute," specializzato nello studio di ecologie marine profonde e nella tecnologia adatta a sopravvivere in condizioni di alta pressione e gravità.
 - **Difesa e Sicurezza:** La posizione strategica e il valore scientifico di Eridani Oceanus sono protetti da sofisticate difese planetarie e una presenza navale dell'Unione.
-
-### Delta Pavonis
-
-**Nome del Sistema Stellare:** Delta Pavonis
-
-- **Distanza dalla Terra:** Circa 20 anni luce
-- **Stella Principale:** Delta Pavonis, una stella di tipo G (simile al Sole)
-
-#### Pianeta principale:
-
-**Nome della Luna:** Haven
-- **Tipo di Pianeta:** Terrestre (Luna di un pianeta maggiore oceanico e con atmosfera tossica)
-- **Distanza dalla Stella Principale:** 1.164 AU (circa 1.7E+08 km)
-- **Ambiente Superficiale:** Con un'atmosfera spessa e ricca di azoto, Pavonis Haven presenta condizioni climatiche temperate e una gravità leggermente superiore alla Terra. La superficie varia tra vasti altipiani, profonde vallate e un'abbondante presenza d'acqua.
-- **Presenza d'Acqua:** Significativa, con il 77.8% della superficie caratterizzata da oceani, laghi e fiumi.
-- **Atmosfera:** Respirabile, ma con una pressione atmosferica molto elevata, dominata da azoto (92.4%) e una minore presenza di ossigeno (6.7%).
-
-#### Abitabilità e Colonizzazione:
-- **Storia della Colonizzazione:** La luna è stata colonizzata alla fine del 23° secolo come alternativa alla colonizzazione del suo pianeta principale, la cui atmosfera tossica rendeva impossibile una colonizzazione diretta.
-- **Popolazione Attuale:** Circa 3 milioni, concentrati in insediamenti adattati alla pressione atmosferica elevata e alla gravità superiore.
-- **Principali Insediamenti:** Nova Pavonis (capitale e centro amministrativo), High Ridge (insediamento scientifico e osservatorio), Bluewater (comunità costiera e centro di ricerca marina).
-- **Economia:** Dedicata all'estrazione di risorse, alla ricerca scientifica, all'agricoltura ad alta efficienza e al turismo, sfruttando la bellezza unica dell'ambiente lunare.
-- **Cultura e Società:** La vita su Pavonis Haven è profondamente influenzata dalla vicinanza al pianeta principale e dalle sfide poste dalla sua atmosfera densa e gravità elevata, promuovendo valori di resilienza e innovazione.
-- **Relazioni con l'Unione di Sol:** Pavonis Haven è vista come un esempio di adattabilità umana e di gestione sostenibile di ambienti extraterrestri, mantenendo stretti legami con l'Unione per lo scambio di conoscenze e risorse.
-- **Curiosità:** "La Danza dei Giganti," un fenomeno naturale in cui la luce riflessa dal pianeta principale illumina il cielo notturno di Pavonis Haven, creando scenari di straordinaria bellezza.
-
-#### Note su Fauna e Flora:
-- **Specie Notevoli:** Adattamenti unici alla vita in condizioni di alta pressione atmosferica e gravità, incluse varietà di piante in grado di fiorire in queste condizioni estreme e piccoli animali che hanno sviluppato forme di vita sotterranee.
-- **Conservazione e Biodiversità:** Programmi di conservazione mirano a proteggere gli ecosistemi unici della luna, con particolare attenzione alle zone acquatiche e alla biodiversità terrestre.
-
-#### Importanza Strategica o Scientifica:
-- **Ricerca e Sviluppo:** Pavonis Haven offre opportunità uniche per la ricerca in astrobiologia, geologia e studi ambientali, contribuendo alla comprensione della vita in condizioni estreme.
-- **Difesa e Sicurezza:** Le infrastrutture di difesa proteggono la luna dalle minacce esterne, garantendo la sicurezza dei suoi abitanti e delle sue risorse vitali.
-
-### Beta Hydri
-
-**Nome del Sistema Stellare:** Beta Hydri
-
-- **Distanza dalla Terra:** Circa 24 anni luce
-- **Stella Principale:** Beta Hydri, una stella più vecchia e più grande del Sole, di tipo G2IV.
-
-#### Pianeta principale
-
-**Nome del Pianeta:** Hydra
-- **Tipo di Pianeta:** Terrestre
-- **Distanza dalla Stella Principale:** 1.731 AU (circa 2.6E+08 km)
-- **Ambiente Superficiale:** Con un clima caldo e un'atmosfera respirabile, Hydra presenta un'ampia varietà di biomi, da lussureggianti foreste tropicali a vaste savane e deserti temperati.
-- **Presenza d'Acqua:** Abbondante, con il 65.3% della superficie coperta da acqua, comprensiva di oceani, laghi e fiumi.
-- **Atmosfera:** Composta principalmente da azoto (69.4%) e ossigeno (30.1%), con una pressione atmosferica quasi uguale a quella terrestre.
-
-#### Abitabilità e Colonizzazione:
-- **Storia della Colonizzazione:** Hydra è stato colonizzato verso la fine del 23° secolo, diventando rapidamente un centro di biodiversità e un laboratorio vivente per la biologia extraterrestre.
-- **Popolazione Attuale:** Circa 5 milioni, vivendo in armonia con la natura in città ecologicamente sostenibili e comunità rurali.
-- **Principali Insediamenti:** Edenport (capitale politica e commerciale), Green Haven (centro di ricerca sulla biodiversità), Solaris City (innovativa città solare).
-- **Economia:** Focalizzata sull'agricoltura sostenibile, il turismo ecologico, la ricerca scientifica e le energie rinnovabili.
-- **Cultura e Società:** La società di Hydra pone un forte accento sulla sostenibilità, la conservazione della natura e la ricerca di un equilibrio tra progresso tecnologico e conservazione ambientale.
-- **Relazioni con l'Unione di Sol:** Contribuisce significativamente alla biodiversità dell'Unione di Sol e serve come modello per lo sviluppo sostenibile e la colonizzazione ecologica.
-- **Curiosità:** "La Festa del Solstizio," che celebra il giorno più lungo dell'anno su Hydra, è nota per le sue spettacolari celebrazioni di luce e colore.
-
-#### Note su Fauna e Flora:
-- **Specie Notevoli:** "Giraffe Volanti," creature che planano tra le canopie delle foreste usando grandi membrane; "Fiori del Sole," piante che tracciano il movimento della stella principale e brillano di notte.
-- **Conservazione e Biodiversità:** Vaste aree del pianeta sono protette come riserve naturali, con programmi intensivi di ricerca dedicati alla protezione delle specie uniche di Hydra.
-
-#### Importanza Strategica o Scientifica:
-- **Ricerca e Sviluppo:** Il pianeta è un hub per la biologia e l'ecologia extraterrestre, ospitando diversi centri di ricerca internazionali dedicati allo studio degli ecosistemi alieni e delle tecnologie sostenibili.
-- **Difesa e Sicurezza:** La sua posizione strategica è salvaguardata da sofisticate difese orbitali per proteggere il pianeta e i suoi abitanti da potenziali minacce.
 
 ### Chara (Beta Canum Venaticorum)
 
@@ -563,7 +497,73 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Ricerca e Sviluppo:** Nova Terra ospita diversi centri di ricerca all'avanguardia, specializzati in ecologia, bioingegneria e astrofisica, contribuendo a importanti scoperte scientifiche.
 - **Difesa e Sicurezza:** Un complesso sistema di difesa protegge il pianeta da potenziali minacce, assicurando un ambiente sicuro per i suoi abitanti e le loro attività.
 
-### Kappa Ceti: Vivace Mondo Tropicale
+### Beta Hydri
+
+**Nome del Sistema Stellare:** Beta Hydri
+
+- **Distanza dalla Terra:** Circa 24 anni luce
+- **Stella Principale:** Beta Hydri, una stella più vecchia e più grande del Sole, di tipo G2IV.
+
+#### Pianeta principale
+
+**Nome del Pianeta:** Hydra
+- **Tipo di Pianeta:** Terrestre
+- **Distanza dalla Stella Principale:** 1.731 AU (circa 2.6E+08 km)
+- **Ambiente Superficiale:** Con un clima caldo e un'atmosfera respirabile, Hydra presenta un'ampia varietà di biomi, da lussureggianti foreste tropicali a vaste savane e deserti temperati.
+- **Presenza d'Acqua:** Abbondante, con il 65.3% della superficie coperta da acqua, comprensiva di oceani, laghi e fiumi.
+- **Atmosfera:** Composta principalmente da azoto (69.4%) e ossigeno (30.1%), con una pressione atmosferica quasi uguale a quella terrestre.
+
+#### Abitabilità e Colonizzazione:
+- **Storia della Colonizzazione:** Hydra è stato colonizzato verso la fine del 23° secolo, diventando rapidamente un centro di biodiversità e un laboratorio vivente per la biologia extraterrestre.
+- **Popolazione Attuale:** Circa 5 milioni, vivendo in armonia con la natura in città ecologicamente sostenibili e comunità rurali.
+- **Principali Insediamenti:** Edenport (capitale politica e commerciale), Green Haven (centro di ricerca sulla biodiversità), Solaris City (innovativa città solare).
+- **Economia:** Focalizzata sull'agricoltura sostenibile, il turismo ecologico, la ricerca scientifica e le energie rinnovabili.
+- **Cultura e Società:** La società di Hydra pone un forte accento sulla sostenibilità, la conservazione della natura e la ricerca di un equilibrio tra progresso tecnologico e conservazione ambientale.
+- **Relazioni con l'Unione di Sol:** Contribuisce significativamente alla biodiversità dell'Unione di Sol e serve come modello per lo sviluppo sostenibile e la colonizzazione ecologica.
+- **Curiosità:** "La Festa del Solstizio," che celebra il giorno più lungo dell'anno su Hydra, è nota per le sue spettacolari celebrazioni di luce e colore.
+
+#### Note su Fauna e Flora:
+- **Specie Notevoli:** "Giraffe Volanti," creature che planano tra le canopie delle foreste usando grandi membrane; "Fiori del Sole," piante che tracciano il movimento della stella principale e brillano di notte.
+- **Conservazione e Biodiversità:** Vaste aree del pianeta sono protette come riserve naturali, con programmi intensivi di ricerca dedicati alla protezione delle specie uniche di Hydra.
+
+#### Importanza Strategica o Scientifica:
+- **Ricerca e Sviluppo:** Il pianeta è un hub per la biologia e l'ecologia extraterrestre, ospitando diversi centri di ricerca internazionali dedicati allo studio degli ecosistemi alieni e delle tecnologie sostenibili.
+- **Difesa e Sicurezza:** La sua posizione strategica è salvaguardata da sofisticate difese orbitali per proteggere il pianeta e i suoi abitanti da potenziali minacce.
+
+### Delta Pavonis
+
+**Nome del Sistema Stellare:** Delta Pavonis
+
+- **Distanza dalla Terra:** Circa 20 anni luce
+- **Stella Principale:** Delta Pavonis, una stella di tipo G (simile al Sole)
+
+#### Pianeta principale:
+
+**Nome della Luna:** Haven
+- **Tipo di Pianeta:** Terrestre (Luna di un pianeta maggiore oceanico e con atmosfera tossica)
+- **Distanza dalla Stella Principale:** 1.164 AU (circa 1.7E+08 km)
+- **Ambiente Superficiale:** Con un'atmosfera spessa e ricca di azoto, Pavonis Haven presenta condizioni climatiche temperate e una gravità leggermente superiore alla Terra. La superficie varia tra vasti altipiani, profonde vallate e un'abbondante presenza d'acqua.
+- **Presenza d'Acqua:** Significativa, con il 77.8% della superficie caratterizzata da oceani, laghi e fiumi.
+- **Atmosfera:** Respirabile, ma con una pressione atmosferica molto elevata, dominata da azoto (92.4%) e una minore presenza di ossigeno (6.7%).
+
+#### Abitabilità e Colonizzazione:
+- **Storia della Colonizzazione:** La luna è stata colonizzata all'inizio del 24° secolo come alternativa alla colonizzazione del suo pianeta principale, la cui atmosfera tossica rendeva impossibile una colonizzazione diretta.
+- **Popolazione Attuale:** Circa 3 milioni, concentrati in insediamenti adattati alla pressione atmosferica elevata e alla gravità superiore.
+- **Principali Insediamenti:** Nova Pavonis (capitale e centro amministrativo), High Ridge (insediamento scientifico e osservatorio), Bluewater (comunità costiera e centro di ricerca marina).
+- **Economia:** Dedicata all'estrazione di risorse, alla ricerca scientifica, all'agricoltura ad alta efficienza e al turismo, sfruttando la bellezza unica dell'ambiente lunare.
+- **Cultura e Società:** La vita su Pavonis Haven è profondamente influenzata dalla vicinanza al pianeta principale e dalle sfide poste dalla sua atmosfera densa e gravità elevata, promuovendo valori di resilienza e innovazione.
+- **Relazioni con l'Unione di Sol:** Pavonis Haven è vista come un esempio di adattabilità umana e di gestione sostenibile di ambienti extraterrestri, mantenendo stretti legami con l'Unione per lo scambio di conoscenze e risorse.
+- **Curiosità:** "La Danza dei Giganti," un fenomeno naturale in cui la luce riflessa dal pianeta principale illumina il cielo notturno di Pavonis Haven, creando scenari di straordinaria bellezza.
+
+#### Note su Fauna e Flora:
+- **Specie Notevoli:** Adattamenti unici alla vita in condizioni di alta pressione atmosferica e gravità, incluse varietà di piante in grado di fiorire in queste condizioni estreme e piccoli animali che hanno sviluppato forme di vita sotterranee.
+- **Conservazione e Biodiversità:** Programmi di conservazione mirano a proteggere gli ecosistemi unici della luna, con particolare attenzione alle zone acquatiche e alla biodiversità terrestre.
+
+#### Importanza Strategica o Scientifica:
+- **Ricerca e Sviluppo:** Pavonis Haven offre opportunità uniche per la ricerca in astrobiologia, geologia e studi ambientali, contribuendo alla comprensione della vita in condizioni estreme.
+- **Difesa e Sicurezza:** Le infrastrutture di difesa proteggono la luna dalle minacce esterne, garantendo la sicurezza dei suoi abitanti e delle sue risorse vitali.
+
+### Kappa Ceti
 
 **Nome del Sistema Stellare:** Kappa Ceti
 
@@ -580,7 +580,7 @@ Nel 2300, mantenere una comunicazione fluida e tempestiva tra i sistemi interste
 - **Atmosfera:** Spessa e pressurizzata, con una pressione atmosferica di 2.170 atmosfere terrestri, composta prevalentemente da azoto (79.7%) e ossigeno (20.0%).
 
 #### Abitabilità e Colonizzazione:
-- **Storia della Colonizzazione:** Verdant è stato colonizzato nel primo quarto del 24° secolo, principalmente per il suo potenziale agricolo e la biodiversità.
+- **Storia della Colonizzazione:** Verdant è stato colonizzato a metà del 24° secolo, principalmente per il suo potenziale agricolo e la biodiversità.
 - **Popolazione Attuale:** Circa 4 milioni, la maggior parte dei quali vive in città elevate o insediamenti costruiti su piattaforme sopra la fitta vegetazione.
 - **Principali Insediamenti:** Canopy City (centro amministrativo e di ricerca), Mistharbor (porto commerciale principale), Green Haven (comunità agricola avanzata).
 - **Economia:** Focalizzata sull'agricoltura sostenibile, biofarmaceutica, turismo ecologico e ricerca biologica.
