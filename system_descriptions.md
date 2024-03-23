@@ -8,48 +8,48 @@
 **Age:** 2.521 Billion Years  
 **Habitable Zone:** 1.029 - 1.826 AU
 
-### Planetary Bodies Summary
+#### Planetary Bodies Summary
 
 - **Number of Planets:** 6 (Rock, Venusian, Terrestrial, Ice, Gas Dwarf, Sub-Jovian)
 - **Habitable Planets:** Possibly 1 (Planet #3, a Terrestrial type with a thin, breathable atmosphere)
 - **Notable Moons:** 1 notable moon orbiting Planet #2, a Venusian type.
 
-### Highlighted Planets and Moons
+#### Highlighted Planets and Moons
 
-#### Planet 1: A Scorching Rock
+##### Planet 1: A Scorching Rock
 - **Type:** Rock
 - **Distance from Alpha Centauri A:** 0.374 AU
 - **Mass & Size:** 0.087 Earth Masses, 0.447 Earth Radii
 - **Atmosphere:** Airless
 - **Surface Conditions:** Extremely hot, tidally locked, with drastic temperature fluctuations.
 
-#### Planet 2: The Venusian Hell
+##### Planet 2: The Venusian Hell
 - **Type:** Venusian
 - **Distance from Alpha Centauri A:** 0.852 AU
 - **Mass & Size:** 3.161 Earth Masses, 1.448 Earth Radii
 - **Atmosphere:** Thick, unbreathable, with a significant greenhouse effect.
 - **Surface Conditions:** Boiling oceans, high gravity, and extreme temperatures.
 
-#### Planet 3: A Glimmer of Habitability
+##### Planet 3: A Glimmer of Habitability
 - **Type:** Terrestrial
 - **Distance from Alpha Centauri A:** 1.241 AU
 - **Mass & Size:** 0.545 Earth Masses, 0.820 Earth Radii
 - **Atmosphere:** Thin, with nitrogen and oxygen.
 - **Surface Conditions:** Cool with a potential for liquid water, making it the prime candidate for habitability.
 
-#### Planet 6: A Sub-Jovian Giant
+##### Planet 6: A Sub-Jovian Giant
 - **Type:** Sub-Jovian
 - **Distance from Alpha Centauri A:** 2.464 AU
 - **Mass & Size:** 19.548 Earth Masses, 4.179 Earth Radii
 - **Atmosphere:** Composed of hydrogen, helium, and other gases.
 - **Surface Conditions:** Lacks a solid surface, with a complex atmosphere and potential for moons with exotic conditions.
 
-### System Characteristics
+#### System Characteristics
 - **Diversity:** The system features a range of planet types from rocky to gas giants, including a Venusian planet with extreme greenhouse effects and a potential habitable terrestrial planet.
 - **Potential for Exploration:** High, especially for Planet #3 with its cool, potentially habitable conditions and the sub-Jovian Planet #6 with its intriguing gas composition.
 - **Challenges:** Extreme temperatures, high radiation from the close proximity to Alpha Centauri A, and thick atmospheres on gas giants pose significant challenges.
 
-### Key Notes
+#### Key Notes
 - Alpha Centauri A presents a diverse system with a broad range of planetary environments. Planet #3 offers a tantalizing glimpse at potential habitability in a system dominated by more hostile worlds. The system's variety from the scorching surface of its inner planets to the cold gas giant realms farther out makes it a fascinating subject for exploration and study.
 
 ### Alpha Centauri B System Overview
@@ -60,48 +60,48 @@
 **Age:** 4.061 Billion Years  
 **Habitable Zone:** 0.546 - 0.968 AU
 
-### Planetary Bodies Summary
+#### Planetary Bodies Summary
 
 - **Number of Planets:** 4 (Rock, Terrestrial, Gas Dwarf, Ice)
 - **Habitable Planets:** 1 (Planet #2, a Terrestrial type with a breathable atmosphere)
 - **Notable Moons:** 1 minor moon orbiting Planet #3, a Gas Dwarf.
 
-### Highlighted Planets and Moons
+#### Highlighted Planets and Moons
 
-#### Planet 1: A Rocky Challenge
+##### Planet 1: A Rocky Challenge
 - **Type:** Rock
 - **Distance from Alpha Centauri B:** 0.356 AU
 - **Mass & Size:** 0.152 Earth Masses, 0.538 Earth Radii
 - **Atmosphere:** Airless
 - **Surface Conditions:** Hot with extreme day-night temperature variations, resonantly spin-locked.
 
-#### Planet 2: Oasis of Life
+##### Planet 2: Oasis of Life
 - **Type:** Terrestrial
 - **Distance from Alpha Centauri B:** 0.685 AU
 - **Mass & Size:** 1.114 Earth Masses, 1.036 Earth Radii
 - **Atmosphere:** Breathable, with nitrogen and oxygen.
 - **Surface Conditions:** Temperate climate, abundant water bodies, making it the system's crown jewel for habitability.
 
-#### Planet 3: A Gas Dwarf with a Tiny Moon
+##### Planet 3: A Gas Dwarf with a Tiny Moon
 - **Type:** Gas Dwarf
 - **Distance from Alpha Centauri B:** 1.520 AU
 - **Mass & Size:** 4.358 Earth Masses, 1.603 Earth Radii
 - **Atmosphere:** Thick, with a variety of gases.
 - **Surface Conditions:** Lacks a solid surface; surrounded by a tiny, rock moon (3.1) that's cold and airless.
 
-#### Planet 4: Frozen World
+##### Planet 4: Frozen World
 - **Type:** Ice
 - **Distance from Alpha Centauri B:** 2.174 AU
 - **Mass & Size:** 1.735 Earth Masses, 1.196 Earth Radii
 - **Atmosphere:** Thick, retains heat poorly.
 - **Surface Conditions:** Entirely covered in ice, with extremely low temperatures and a high gravitational pull.
 
-### System Characteristics
+#### System Characteristics
 - **Diversity:** The system offers a variety of celestial bodies, from a potentially habitable terrestrial planet to an ice-covered world and a gas dwarf with its own moon.
 - **Potential for Exploration:** High, with the terrestrial Planet #2 being a prime target for colonization efforts due to its Earth-like conditions.
 - **Challenges:** Varied conditions across the planets, from extreme heat and cold to the challenges of exploring a gas dwarf and its moon.
 
-### Key Notes
+#### Key Notes
 - Alpha Centauri B's system is a fascinating mix of extremes, from the scorching rock of Planet #1 to the icy surfaces of Planet #4. The highlight is undoubtedly Planet #2, offering conditions most similar to Earth, presenting an intriguing prospect for future exploration and perhaps even colonization. This system embodies the diversity and wonder of the cosmos, inviting adventurers and scientists alike to uncover its secrets.
 
 ### Tau Ceti System Overview
@@ -112,39 +112,39 @@
 **Age:** 2.974 Billion Years  
 **Habitable Zone:** 0.625 - 1.109 AU
 
-### Planetary Bodies Summary
+#### Planetary Bodies Summary
 
 - **Number of Planets:** 14 (Including Sub-Jovians and Jovians)
 - **Habitable Planets:** 1 (Planet #4)
 - **Notable Moons:** Multiple, with varying conditions from icy to airless.
 
-### Highlighted Planets
+#### Highlighted Planets
 
-#### Planet 4: The Habitable World
+##### Planet 4: The Habitable World
 - **Type:** Terrestrial
 - **Distance from Tau Ceti:** 0.785 AU
 - **Mass & Size:** Similar to Earth
 - **Atmosphere:** Breathable (Nitrogen, Oxygen)
 - **Surface Conditions:** Temperate, with vast oceans and diverse ecosystems.
 
-#### Planet 6: The Gas Giant with Moons
+##### Planet 6: The Gas Giant with Moons
 - **Type:** Sub-Jovian
 - **Distance from Tau Ceti:** 2.244 AU
 - **Mass & Size:** 11.606 Earth Masses, 3.713 Earth Radii
 - **Notable Moon:** Ice Moon (6.1) with thin atmosphere and icy surface.
 
-#### Planet 9: The Jovian Behemoth
+##### Planet 9: The Jovian Behemoth
 - **Type:** Jovian
 - **Distance from Tau Ceti:** 6.246 AU
 - **Mass & Size:** 23.527 Earth Masses, 4.969 Earth Radii
 - **Remarkable for:** Its massive size and significant dust and gas composition.
 
-### System Characteristics
+#### System Characteristics
 - **Diversity:** A mix of terrestrial, icy, and gaseous planets with various moons.
 - **Potential for Exploration:** High, especially the habitable planet (Planet #4) and interesting moons orbiting gas giants.
 - **Challenges:** Varying surface conditions, distances, and atmospheres offer unique challenges for colonization and exploration.
 
-### Key Notes
+#### Key Notes
 - The Tau Ceti system provides a rich backdrop for adventure, with a habitable world ripe for exploration and gas giants surrounded by intriguing moons. Whether it's scientific research, colonization, or simply the thrill of discovery, Tau Ceti beckons as a beacon of potential in the vastness of space.
 
 ### Epsilon Eridani System Overview
@@ -155,48 +155,48 @@
 **Age:** 1.485 Billion Years  
 **Habitable Zone:** 0.475 - 0.842 AU
 
-### Planetary Bodies Summary
+#### Planetary Bodies Summary
 
 - **Number of Planets:** 10 (Including a mix of Rock, Terrestrial, Jovian, and Sub-Jovian types)
 - **Habitable Planets:** 1 (Planet #4, a Terrestrial type with a thin, breathable atmosphere)
 - **Notable Moons:** Minor rock moons, particularly Moon #10.1 orbiting Planet #10.
 
-### Highlighted Planets and Moons
+#### Highlighted Planets and Moons
 
-#### Planet 4: A Chilly Haven
+##### Planet 4: A Chilly Haven
 - **Type:** Terrestrial
 - **Distance from Epsilon Eridani:** 0.569 AU
 - **Mass & Size:** 0.486 Earth Masses, 0.790 Earth Radii
 - **Atmosphere:** Thin, with oxygen and nitrogen.
 - **Surface Conditions:** Cool, with low gravity and a potential for liquid water, representing the system's best shot at habitability.
 
-#### Planet 6: The Gas Giant Behemoth
+##### Planet 6: The Gas Giant Behemoth
 - **Type:** Jovian
 - **Distance from Epsilon Eridani:** 3.300 AU
 - **Mass & Size:** 848.157 Earth Masses, 13.717 Earth Radii
 - **Atmosphere:** Thick, with a complex mix of gases.
 - **Surface Conditions:** No solid surface, extreme pressures, and temperatures within its massive atmosphere.
 
-#### Planet 9: The Distant Sub-Jovian
+##### Planet 9: The Distant Sub-Jovian
 - **Type:** Sub-Jovian
 - **Distance from Epsilon Eridani:** 22.508 AU
 - **Mass & Size:** 2.171 Earth Masses, 2.824 Earth Radii
 - **Atmosphere:** Likely contains lighter gases and elements.
 - **Surface Conditions:** Lacks a solid surface, colder due to its distance from the star.
 
-#### Moon #10.1: A Cold, Rocky Satellite
+##### Moon #10.1: A Cold, Rocky Satellite
 - **Type:** Rock
 - **Orbiting:** Planet #10 at 46.542 AU
 - **Mass & Size:** 0.090 Earth Masses, 0.606 Earth Radii
 - **Atmosphere:** Airless
 - **Surface Conditions:** Extremely cold, rocky terrain, and low gravity.
 
-### System Characteristics
+#### System Characteristics
 - **Diversity:** Epsilon Eridani features a diverse array of planets from hot, airless rocks close to the star to cold Jovians in the outer system, and a potential habitable terrestrial world.
 - **Potential for Exploration:** The terrestrial Planet #4 offers a compelling target for detailed study and possible future colonization, given its breathable atmosphere and liquid water potential.
 - **Challenges:** The system's planets present a range of environments, from the scorching surfaces of the inner rocky planets to the extreme conditions of the gas giants and the frigid outer rock planets and moons.
 
-### Key Notes
+#### Key Notes
 - Epsilon Eridani stands out for its relatively young age and the diversity of its planetary bodies. Planet #4 provides a particularly intriguing prospect for life or future human activity, given its more Earth-like conditions. The system's gas giants and distant rock planets offer a wealth of opportunities for scientific discovery, from studying complex atmospheric phenomena to understanding the conditions of celestial bodies far from their host star.
 
 ### 61 Cygni A System Overview
