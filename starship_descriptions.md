@@ -51,7 +51,7 @@
 ```
 ## HCS Stellar Voyager
 
-![](_img/HSC Stellar Voyager.webp)
+![](/_img/HCS Stellar Voyager.webp)
 
 La HCS Stellar Voyager rappresenta una pietra miliare nella storia dell'esplorazione interstellare dell'umanità. Progettata e costruita nei cantieri navali di High Orbit Dynamics su Luna, la Stellar Voyager è stata varata nel 2245 come parte dell'iniziativa "Pathfinders" dell'Unione di Sol, con l'obiettivo di esplorare e mappare i confini più remoti della galassia conosciuta. La sua missione è di fungere da nave da esplorazione, laboratorio mobile, e, se necessario, come avamposto temporaneo per le operazioni umane nello spazio profondo.
 
