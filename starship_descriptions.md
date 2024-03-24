@@ -59,9 +59,7 @@ La Stellar Voyager è dotata di una suite avanzata di strumenti scientifici per 
 
 Le sue missioni di esplorazione hanno portato a scoperte rivoluzionarie riguardanti sistemi stellari precedentemente inesplorati, compresa la mappatura di nuovi "stargate" e l'identificazione di pianeti potenzialmente abitabili per future colonizzazioni umane. Queste imprese hanno non solo espanso la comprensione dell'umanità dell'universo ma hanno anche aperto nuove vie per l'espansione interstellare e la collaborazione scientifica galattica.
 
-### Specifiche
-
-| | |
+| | Specifiche |
 |---|---|
 | **Produttore** | High Orbit Dynamics |
 | **Classificazione** | Nave da Esplorazione Interstellare |
@@ -70,3 +68,26 @@ Le sue missioni di esplorazione hanno portato a scoperte rivoluzionarie riguarda
 | **Difese** | Scudo energetico multiphase per protezione da radiazioni cosmiche e attacchi balistici, sistema avanzato di occultamento per operazioni stealth |
 
 La HCS Stellar Voyager rimane uno dei simboli più potenti del desiderio intrinseco dell'umanità di esplorare l'ignoto. Le sue missioni hanno ispirato generazioni di scienziati, ingegneri e cittadini dell'Unione di Sol, ricordando a tutti che i confini dell'esplorazione sono limitati solo dalla nostra immaginazione e dalla nostra volontà di perseguirli. Con ogni nuova scoperta, la Voyager continua a svolgere un ruolo cruciale nel modellare il futuro dell'umanità tra le stelle.
+
+## GCS Pathfinder
+
+La GCS Pathfinder rappresenta una pietra miliare nell'ingegneria spaziale, concepita e costruita dalla Galactic Core Systems, un consorzio di aziende leader nel settore aerospaziale. Questo modello di nave, lanciato nel 2245, ha segnato l'inizio di una nuova era di esplorazione interstellare grazie alla sua capacità di operare in congiunzione con i "stargate", portali spaziali che permettono viaggi istantanei attraverso vasti tratti dell'universo.
+
+La Pathfinder è classificata come un Incrociatore Stargate, progettata per fungere da avanguardia nell'esplorazione di nuovi mondi e nell'espansione dell'Unione di Sol. Con un equipaggio di 200 persone, questa nave è equipaggiata per missioni di lungo raggio, dotata di laboratori scientifici, droni esplorativi e una baia per shuttle modulari. La sua struttura robusta e i sistemi avanzati la rendono capace di attraversare i stargate e operare in ambienti spaziali ostili.
+
+Il design della Pathfinder unisce estetica e funzionalità, con linee pulite che racchiudono una tecnologia avanzata. La sua siluetta imponente è immediatamente riconoscibile, simbolo di progresso tecnologico e di audacia umana.
+
+|  | Specifiche |
+|---|---|
+| Produttore | Galactic Core Systems |
+| Classificazione | Incrociatore Stargate |
+| Propulsione | Motori FTL di quarta generazione per viaggio interstellare, propulsori a ionizzazione per manovre spaziali, sistema di integrazione con stargate |
+| Armamenti | Cannone a particelle ad alta energia, batterie di missili a lungo raggio, sistemi di difesa punto-per-punto |
+| Difese | Scudi energetici multistrato, armatura composita avanzata, sistemi di camuffamento olografico |
+
+Il GCS Pathfinder è dotato di una suite di propulsione ibrida che le consente di viaggiare alla velocità della luce (FTL) per le esplorazioni autonome, oltre a integrarsi perfettamente con i "stargate" per gli spostamenti istantanei. Questa capacità dualistica garantisce una versatilità operativa senza precedenti.
+
+Per quanto riguarda l'armamento, il Pathfinder è stato progettato per la deterrenza e la difesa. Il suo cannone a particelle può incenerire asteroidi o navi nemiche, mentre i missili offrono un'opzione di attacco a lungo raggio. Le sue difese sono state attentamente calibrate per proteggere la nave e il suo equipaggio dai pericoli dello spazio profondo, dalle radiazioni ai detriti spaziali, fino a eventuali aggressioni esterne.
+
+Il GCS Pathfinder non è solo un capolavoro tecnologico; è un simbolo di ciò che l'umanità può raggiungere. Ogni missione porta nuove scoperte, spingendo i confini della nostra conoscenza sempre più lontano, verso l'infinito sconosciuto.
+
