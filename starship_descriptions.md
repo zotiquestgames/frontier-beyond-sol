@@ -91,3 +91,26 @@ Per quanto riguarda l'armamento, il Pathfinder è stato progettato per la deterr
 
 Il GCS Pathfinder non è solo un capolavoro tecnologico; è un simbolo di ciò che l'umanità può raggiungere. Ogni missione porta nuove scoperte, spingendo i confini della nostra conoscenza sempre più lontano, verso l'infinito sconosciuto.
 
+## Nome Modello Nave: Orion Heavy Lifter
+
+L'Orion Heavy Lifter è il cavallo di battaglia delle flotte mercantili e minerarie interstellari, progettato e costruito dalla AstroMech Deep Space Division. Questo vascello da carico multifunzione, introdotto per la prima volta nel 2260, ha rivoluzionato il trasporto di merci e risorse su vasta scala tra i sistemi stellari dell'Unione di Sol. La sua versatilità e robustezza lo rendono inestimabile per le operazioni commerciali, la logistica di supporto e le missioni di estrazione mineraria.
+
+Dotato di una serie di moduli intercambiabili, l'Orion può essere configurato per una varietà di missioni, dall'import/export di beni di consumo e materiali industriali, alla raccolta e al trasporto di risorse minerarie estratte da asteroidi e corpi celesti. La sua struttura modulare consente anche la facile installazione di attrezzature specializzate per operazioni di estrazione, analisi e processamento in loco.
+
+### Specifiche
+
+| | Specifiche |
+|---|---|
+| Produttore | AstroMech Deep Space Division |
+| Classificazione | Cargo Spaziale Multifunzione |
+| Propulsione | Motori FTL standard per viaggi interstellari, propulsori ionici per manovre precise, sistema di aggancio e rilascio rapido per moduli cargo/minerari |
+| Armamenti | Sistemi di difesa laser di basso livello per detriti spaziali e piccole minacce, droni di sicurezza per protezione da pirateria spaziale |
+| Difese | Scudo energetico di base per protezione ambientale, armatura reattiva composita per resistenza agli impatti e micro-meteoriti |
+
+Grazie ai suoi motori FTL standard, l'Orion Heavy Lifter può effettuare viaggi interstellari con carichi massivi, mantenendo tempi di trasporto competitivi. I suoi propulsori ionici assicurano precisione nelle manovre in vicinanza di stazioni spaziali, portali stellari e campi asteroidali.
+
+Nonostante la sua funzione primaria non sia il combattimento, l'Orion è equipaggiato con sistemi di difesa laser per neutralizzare minacce come detriti spaziali e piccoli asteroidi. I droni di sicurezza possono essere dispiegati per deterrenza contro tentativi di pirateria.
+
+Le difese dell'Orion includono uno scudo energetico progettato per fornire protezione ambientale durante il viaggio attraverso spazi interstellari ostili, così come un'armatura composita che offre resistenza agli impatti e ai micro-meteoriti, assicurando la sicurezza del carico in tutte le condizioni.
+
+L'Orion Heavy Lifter non è semplicemente una nave da carico; è una piattaforma logistica che facilita l'espansione e il sostegno delle attività umane nello spazio profondo. Con la sua capacità di adattarsi rapidamente a una varietà di ruoli, dall'esplorazione mineraria al trasporto pesante, l'Orion rappresenta un pilastro fondamentale nell'infrastruttura commerciale e industriale dell'Unione di Sol.
