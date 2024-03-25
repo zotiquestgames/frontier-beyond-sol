@@ -1,3 +1,18 @@
+```
+## Nome Modello Nave [es. AAF 212 Hornet]
+
+[Storia e descrizione del modello di nave, 500 parole circa]
+
+| | Specifiche |
+|---|---|
+| Produttore | |
+| Classificazione | |
+| Propulsione | |
+| Armamenti | |
+| Difese | | 
+```
+
+```
 ### [System Name] System Overview
 
 **Star:** [Star Name]  
@@ -30,4 +45,4 @@
 
 ### Key Notes
 - [1-2 sentences summarizing the appeal or unique aspects of the system, e.g., a system ripe for adventure, with mysteries to uncover and diverse worlds to explore.]
-
+```
