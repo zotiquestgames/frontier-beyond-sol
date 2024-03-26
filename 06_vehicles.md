@@ -16,4 +16,3 @@
 
 - **Gas Mining Skimmer:** The Gas Mining Skimmer is a specialized vehicle designed for operations on gas giant planets or moons with dense atmospheric envelopes. It features advanced propulsion systems, aerodynamic designs, and specialized equipment for collecting and processing gaseous resources from the planet's atmosphere. This vehicle enables the extraction and utilization of valuable gases and compounds, contributing to the resource requirements of interstellar colonies and research facilities.
 
-

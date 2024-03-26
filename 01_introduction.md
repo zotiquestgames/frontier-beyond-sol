@@ -1,10 +1,10 @@
 # What is Frontier: Beyond Sol
 
-_Frontier: Beyond Sol_ (FBS) is a roleplaying game in which you will define an imagined space bounded by rules. Actions and events occur through procedure-driven player interaction. This facilitates an emergent shared narrative.
+_Frontier: Beyond Sol_ is a roleplaying game in which you will define an imagined space bounded by rules. Actions and events occur through procedure-driven player interaction. This facilitates an emergent shared narrative.
 
 Put plainly, players will assume the roles of characters in a fictional setting. The characters will act according to the rules of the game that will guarantee their success or failure. The outcome of actions will have an effect on the narrative that emerges.
 
-A game of FBS takes place as a conversation between the Referee and the other players.
+A game of _Frontier: Beyond Sol_ takes place as a conversation between the Referee and the other players.
 
 - The Referee sets up the situation, describes the environment and setting, moves the dialogue and actions of the Non-Playing Characters.
 - The Players move in the imagined space of the game through their Playing Character, describing their actions and narrating their conversations. It is up to each player to decide whether to act out their Character or play them impersonally. Players should also ask questions of clarification to the Referee.
@@ -30,7 +30,7 @@ It is important that everyone at the table feels comfortable and has the followi
 
 ## A word about “realism”
 
-In playing Frontier: Beyond Sol, it is important to embrace a sense of realism that remains consistent with the game's setting, backgrounds, equipment, and accompanying illustrations. This hard sci-fi universe is designed to inspire players and immerse them in a believable and captivating experience. While it is not mandatory to have prior knowledge of the specific science fiction genre or to read the sources of inspiration, doing so can deepen the appreciation for the game's intricacies. While true "realism" is impossible in a fictional game, it is crucial to avoid indulging in absurdities and instead strive for consistency with the established setting and adhere to general principles of physics. By embracing this approach, players can engage in an authentic and immersive gaming experience that respects the established rules and allows for a compelling and plausible narrative to unfold.
+In playing *Frontier: Beyond Sol*, it is important to embrace a sense of realism that remains consistent with the game's setting, backgrounds, equipment, and accompanying illustrations. This hard sci-fi universe is designed to inspire players and immerse them in a believable and captivating experience. While it is not mandatory to have prior knowledge of the specific science fiction genre or to read the sources of inspiration, doing so can deepen the appreciation for the game's intricacies. While true "realism" is impossible in a fictional game, it is crucial to avoid indulging in absurdities and instead strive for consistency with the established setting and adhere to general principles of physics. By embracing this approach, players can engage in an authentic and immersive gaming experience that respects the established rules and allows for a compelling and plausible narrative to unfold.
 
 ## Safety Tools
 

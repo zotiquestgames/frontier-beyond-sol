@@ -32,12 +32,11 @@ Athletics, Close Quarters Combat, Computers, Cyber-Ops, Demolitions, Engineering
 
 Customize details to fit the setting. Here are some options fitting a hard sci-fi space crew:
 
-Here are 20 entry tables for each category:
-
 ### Male Names
 
-| 1  | Jake   |
+|||
 |--- |---     |
+| 1  | Jake   |
 | 2  | Aaron  |
 | 3  | David  |  
 | 4  | Nathan |
@@ -60,8 +59,9 @@ Here are 20 entry tables for each category:
 
 ### Female Names  
 
-| 1  | Emily  |
+|||
 |--- |---     |
+| 1  | Emily  |
 | 2  | Jessica| 
 | 3  | Sarah  |
 | 4  | Samantha|
@@ -84,8 +84,9 @@ Here are 20 entry tables for each category:
 
 ### Neutral Names
 
-| 1  | Alex   |
+|||
 |--- |---     |
+| 1  | Alex   |
 | 2  | Riley  |
 | 3  | Avery  |
 | 4  | Jordan | 
@@ -108,8 +109,9 @@ Here are 20 entry tables for each category:
 
 ### Surname
 
+|||
+|--- |---     |
 | 1  | Johnson|
-|--- |---     | 
 | 2  | Williams|
 | 3  | Jones  |
 | 4  | Brown  |
@@ -132,8 +134,9 @@ Here are 20 entry tables for each category:
 
 ### Nickname  
 
-| 1  | Ace    |
+|||
 |--- |---     |
+| 1  | Ace    |
 | 2  | Blaze  |
 | 3  | Comet  | 
 | 4  | Dash   |
@@ -156,8 +159,9 @@ Here are 20 entry tables for each category:
 
 ### Demeanor
 
+|||
+|--- |---     |
 | 1  | Audacious  |
-|--- |---         |
 | 2  | Calculating|
 | 3  | Careful    |
 | 4  | Competitive|
@@ -180,8 +184,9 @@ Here are 20 entry tables for each category:
 
 ### Quirks
 
+|||
+|--- |---     |
 | 1  | Caffeine Addiction  |
-|--- |---                  |
 | 2  | Conspiracy Theorist |
 | 3  | Junk Food Cravings  |
 | 4  | Avid Gamer          |

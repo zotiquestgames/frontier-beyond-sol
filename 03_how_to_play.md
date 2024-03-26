@@ -13,7 +13,7 @@ In all other cases, the action is automatically successful.
 When a character attempts an action with significant risk, the player rolls a skill die to determine the outcome. The default is a d6. 
 
 - If the character has applicable skills or talents, they roll a bigger die like d8 or d10 to represent competence. 
-- Conversely, if _hindered _by injuries or obstacles may warrant a smaller die like d4 to show impairment.
+- Conversely, if _hindered_ by injuries or obstacles may warrant a smaller die like d4 to show impairment.
 
 The player can also roll bonus dice based on circumstances:
 
@@ -82,3 +82,4 @@ To inject randomness and chaos, the referee can occasionally test for bad luck b
 When the written rules don't adequately cover a situation, the referee improvises rulings in the moment to keep the game moving. If any rulings seem unsatisfactory, the group should discuss them on a break and revise them collaboratively. 
 
 The referee portrays the world and inhabitants surrounding the player characters. By sharing narrative power while guiding pacing and monitoring safety, the referee enables the group to collectively build an exciting and satisfying story.
+
