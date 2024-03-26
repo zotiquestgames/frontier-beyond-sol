@@ -1,4 +1,4 @@
-# Inspirational Media
+# Inspirations
 
 Books:
 - The Alliance-Union universe novels by C.J. Cherryh (Downbelow Station, Merchanter's Luck, etc.)

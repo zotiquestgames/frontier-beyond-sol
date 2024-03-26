@@ -1,9 +1,8 @@
 # Starships
 
-
 **Starships** are equipped with basic versions of these key functions. Advanced upgrades cost ₡10 each from shipyards. In emergencies, crew pick actions to perform or assist with.
 
-**COMMS:** Subspace radio and tight-beam communicators. Upgrades: Quantum encryption, higher bandwidth transceivers.
+**COMMS:** Radio and tight-beam communicators. Upgrades: Quantum encryption, higher bandwidth transceivers.
 
 **EMBARKATION:** Basic personnel shuttles and escape pods. Upgrades: Additional heavy shuttlecraft, armored boarding torpedoes.  
 
@@ -15,31 +14,13 @@
 
 **POWER:** Fusion reactor with backup battery arrays. Upgrades: Anti-matter injection, redundant reactor loops.   
 
-**PROPULSION:** Fusion torch engines and maneuvering thrusters. Upgrades: Ion/Plasma drives, warp coils, hyperdrive motivators.
+**PROPULSION:** Fusion torch engines and maneuvering thrusters. Upgrades: Ion/Plasma drives, warp coils, jumpdrive motivators.
 
-**DEFENSES:** Basic shield projectors and armor plating. Upgrades: Ablative hull armor, interceptor decoys/flares.
+**DEFENSES:** Armor plating. Upgrades: Ablative hull armor, interceptor decoys/flares.
 
-**ARMAMENTS:** None standard. Upgrades: Phase cannons, plasma torpedoes, mass driver batteries.
+**ARMAMENTS:** None standard. Upgrades: Point-defense lasers, missile launchers, railguns.
 
 Effective starship combat capabilities depend heavily on the upgrades implemented. Wise captains balance offense, defense and support upgrades for well-rounded performance.
-
-**Starships** have basic versions of these functions; upgrades cost ₡10 each. In an emergency, players pick an action to perform or _help_ with.
-
-**COMMS:** Radio transmitter. Upgrades: Tighter encryption, faster data burst.
-
-**ESCAPE CRAFT:** Pod per person. Upgrade: Additional shuttles.
-
-**HULL:** Aeroshell for re-entry. Upgrades: Reinforced armor, solar shielding.
-
-**LIFE SUPPORT:** Basic rations and breathing air. Upgrades: Extended mission endurance, hydroponics.
-
-**NAVIGATION:** Onboard computers. Upgrades: Deep space scanners, autopilot.
-
-**POWER:** Fuel cells and batteries. Upgrades: RTG or fission generator, more redundancy.
-
-**PROPULSION:** Main engine and RCS thrusters. Upgrades: Faster acceleration, more delta-V.
-
-**WEAPONS:** None standard. Upgrades: Point-defense lasers, missile launchers, railguns.
 
 ## Starship Types and Classes
 

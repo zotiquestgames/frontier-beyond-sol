@@ -1,4 +1,5 @@
 * [Home](/)
+* [Preface](/00_preface.md)
 * [Introduction](/01_introduction.md)       
 * [Characters](/02_characters.md)      
 * [How to play](/03_how_to_play.md)	       
