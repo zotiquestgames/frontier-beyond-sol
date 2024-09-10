@@ -6,7 +6,7 @@
 * [Interstellar Travel](/04_interstellar_traveller.md)
 * [Enviromental Hazards](/05_enviromental_hazards.md)  
 * [Vehicles](/06_vehicles.md)  
-* [Starships](/07_starshipd.md)
+* [Starships](/07_starships.md)
 * [Shipyard](/08_shipyard.md)
 * [The Setting](/09_setting.md)
 * [The Sol Union](/10_sol_union.md)
