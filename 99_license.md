@@ -1,6 +1,6 @@
 # License
 
-(CC) 2024 Roberto Bisceglie
+© 2024 Roberto Bisceglie
 
 The original 24XX SRD is by Jason Tocci license under Creative Commons Attribution 4.0 International License.
 
