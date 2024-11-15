@@ -1,5 +1,13 @@
 # Setting
 
+By the late 21st century, humanity had outgrown its cradle. The solar system became our new frontier, its planets and moons transformed into battlegrounds of politics, innovation, and survival. What began as a struggle for autonomy among colonies evolved into the foundation of the Sol Union, a fragile unity in the face of the unknown.  
+
+The early experiments with wormholes cracked the door to interstellar exploration, but it was decades before the courage and technology existed to walk through it. As humanity reached new stars, it carried with it old tensions: the balance between control and freedom, preservation and exploitation. The colonies of the "frontier" grew restless, and the systems closer to Sol wrestled with their own evolving identity.  
+
+When alien ruins were discovered in 2295, they shattered the illusion that humanity was alone. Though their builders were long gone, the ruins whispered of civilizations far older and more advanced. This revelation lit a fire beneath humanity’s ambitions, pushing us further into the void—not just to settle, but to understand.  
+
+From a fragile beginning to an expanding web of stargates and alliances, this era defined what it meant to be human in a universe where the stars were no longer out of reach.
+
 ## Chronology
 
 ### 2090-2124: The Era of Solar Exploration
