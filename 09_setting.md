@@ -1,4 +1,4 @@
-# Setting
+# The Age of Expansion
 
 By the late 21st century, humanity had outgrown its cradle. The solar system became our new frontier, its planets and moons transformed into battlegrounds of politics, innovation, and survival. What began as a struggle for autonomy among colonies evolved into the foundation of the Sol Union, a fragile unity in the face of the unknown.  
 
