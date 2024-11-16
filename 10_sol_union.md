@@ -1,4 +1,4 @@
-# General Overview of the Sol Union
+# The Sol Union: General Overview
 
 ### Foundation
 The Sol Union was formally established in 2155, sanctioning the union of the major Earth powers and space colonies under a single governmental entity. This was the result of decades of collaboration and negotiations, aimed at creating a structure capable of managing the challenges and opportunities of interstellar exploration and colonization.
