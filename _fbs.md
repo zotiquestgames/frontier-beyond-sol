@@ -1,24 +1,24 @@
 # Frontier: Beyond Sol
 
-_Under the ghostly glow of SZ Ursae Majoris’ seventh planet, a cold martian giant, the small, stealthy vessel *Nimbus* held its position, nearly indistinguishable from the surrounding space debris. Inside, a team of Sol Union operatives prepared for a mission that tread the line between diplomacy and covert action in the uncharted reaches of space._
+Under the ghostly glow of SZ Ursae Majoris’ seventh planet, a cold martian giant, the small, stealthy vessel *Nimbus* held its position, nearly indistinguishable from the surrounding space debris. Inside, a team of Sol Union operatives prepared for a mission that tread the line between diplomacy and covert action in the uncharted reaches of space.
 
-_“Visuals up. We’re going in silent, but ready for anything,” Captain Elena Reyes instructed, her voice calm but carrying an undercurrent of anticipation. The *Nimbus* was a shadow against the planet’s icy rings, ready to deploy its team to a hidden base suspected of harboring technology that could shift the power dynamics within the Union._
+“Visuals up. We’re going in silent, but ready for anything,” Captain Elena Reyes instructed, her voice calm but carrying an undercurrent of anticipation. The *Nimbus* was a shadow against the planet’s icy rings, ready to deploy its team to a hidden base suspected of harboring technology that could shift the power dynamics within the Union.
 
-_Zan, her second-in-command, scanned the data streaming on his screen. “Approach vector locked. We’re ghosting through their scanners.”_
+Zan, her second-in-command, scanned the data streaming on his screen. “Approach vector locked. We’re ghosting through their scanners.”
 
-_In the dim light of the command deck, Ila, their communications and tech expert, piped up, “Jamming signals ready. We’ll be in and out before they know it.”_
+In the dim light of the command deck, Ila, their communications and tech expert, piped up, “Jamming signals ready. We’ll be in and out before they know it.”
 
-_Elena nodded, turning to the rest of her crew. “This isn’t just about the tech. It’s about sending a message. We do this right, we could be paving the way for a new era of cooperation — or confrontation.”_
+Elena nodded, turning to the rest of her crew. “This isn’t just about the tech. It’s about sending a message. We do this right, we could be paving the way for a new era of cooperation — or confrontation.”
 
-_Tarek, the team’s engineer, adjusted his gear, a mix of excitement and focus on his face. “Let’s make sure it’s cooperation then. I didn’t tweak these suits for nothing.”_
+Tarek, the team’s engineer, adjusted his gear, a mix of excitement and focus on his face. “Let’s make sure it’s cooperation then. I didn’t tweak these suits for nothing.”
 
-_A soft chuckle ran through the crew, easing the tension. Lian, who had been studying the planet’s atmospheric readings, added, “Remember, we’re not just operatives. We’re ambassadors. Every action reflects on the Sol Union.”_
+A soft chuckle ran through the crew, easing the tension. Lian, who had been studying the planet’s atmospheric readings, added, “Remember, we’re not just operatives. We’re ambassadors. Every action reflects on the Sol Union.”
 
-_As the *Nimbus* neared the drop point, Elena shared a final glance with her team. “We all know the stakes. Let’s show them what the Sol Union stands for.”_
+As the *Nimbus* neared the drop point, Elena shared a final glance with her team. “We all know the stakes. Let’s show them what the Sol Union stands for.”
 
-_The operatives moved towards the airlock, their suits equipped with the latest in stealth and environmental technology. As the outer door opened, revealing the vast, silent expanse of space, Zan muttered under his breath, a hint of humor in his voice, “Ambassadors with style, at least.”_
+The operatives moved towards the airlock, their suits equipped with the latest in stealth and environmental technology. As the outer door opened, revealing the vast, silent expanse of space, Zan muttered under his breath, a hint of humor in his voice, “Ambassadors with style, at least.”
 
-_One by one, they stepped into the void, their figures swallowed by the darkness as they made their silent approach to the hidden base, a speck of light against the infinite canvas of space._
+One by one, they stepped into the void, their figures swallowed by the darkness as they made their silent approach to the hidden base, a speck of light against the infinite canvas of space.
 
 # What is Frontier: Beyond Sol
 
@@ -66,7 +66,7 @@ It is important to familiarize yourself with these tools and techniques and to u
 
 Playable characters are the players’ gateway to the game universe in the year 2400. By assuming their role, players will move around dictating their intentions and actions in the worlds of the Sol Union.
 
-**1\) First choose the role you want to take on from:**
+**1) First choose the role you want to take on from:**
 
 **EXPLORER:** Skilled in Piloting (d8) and Science (d8). Take a scout ship, instruments, and survival gear (bulky).
 
@@ -88,7 +88,7 @@ Playable characters are the players’ gateway to the game universe in the year 
 
 **ROCKHOPPER:** Skilled in Engineering (d8) and Resources (d8). Take a mining suit, portable drill, scanners, and a prospector shuttle (bulky).
 
-**2\) Pick 3 more skill increases (from no skill-\>d8-\>d10-\>d12):**
+**2) Pick 3 more skill increases (from no skill-\>d8-\>d10-\>d12):**
 
 Athletics, Close Quarters Combat, Computers, Cyber-Ops, Demolitions, Engineering, Environmental Suit, Exo-Suit Operation, Firearms, G-Zero Maneuvering, Gravities, Hacking, Heavy Machinery, Hyperspace Navigation, Jumpgate Operation, Leadership, Linguistics, Medicine, Navigation, Negotiation, Piloting, Planetside Survival, Prospecting, Psi-Ops, Resources, Science (sub-fields like Physics, Biology, Xenology, etc.), Sensors, Stealth, Streetwise, Tactics, Zero-G Training
 
@@ -422,8 +422,6 @@ Roll 2d6 to determine a random encounter:
 
 Interstellar voyages demand exceptional astrogation skills, quick reactions and courage to overcome navigation perils and strange encounters lurking in the cosmic void between stars.
 
-Here is a potential chapter entitled “Travel Time and Fuel Consumption” that considers realistic interplanetary travel and the use of jumpgate technology in this setting:
-
 ## Travel Time and Fuel Consumption
 
 Interstellar travel in this universe requires careful planning and resource management. Two main methods exist - conventional interplanetary travel within star systems, and utilization of the rare and precious jumpgate technology to traverse between neighboring systems.
@@ -451,31 +449,31 @@ Key limitations: - Only a few dozen jumpgates exist across inhabited space - Max
 
 Given the scarcity of jumpgates, most interstellar travel still relies on protracted conventional voyages at sub-light speeds. Even with gate access, in-system travel requires months of careful planning. Jumpgates are highly strategic assets, but do not fully alleviate the challenges and perils of interstellar exploration and resource logistics in this universe.
 
-# Environmental Hazards
+## Environmental Hazards
 
 Environmental Hazards play a significant role in *Frontier: Beyond Sol*, emphasizing the harsh realities and challenges of space colonization. Characters will encounter a range of hazards that pose risks to their well-being and mission success. These hazards include radiation exposure, microgravity environments, extreme temperatures, and the scarcity of resources. Mechanisms are in place to address these challenges and ensure the characters’ survival and progress in the game.
 
-## Radiation Exposure
+### Radiation Exposure
 
 Space is filled with various forms of radiation that can be harmful to humans and equipment. Characters must navigate through regions with higher radiation levels cautiously, utilize radiation shielding materials and equipment to minimize exposure, and monitor radiation levels to avoid long-term health effects. The Referee may introduce radiation events or zones that require characters to make decisions regarding their routes, resource allocation for shielding, or even engaging in special missions to repair or secure radiation shielding on structures or spacecraft.
 
-## Microgravity Environments
+### Microgravity Environments
 
 In microgravity conditions, characters experience weightlessness, which can affect their physical capabilities and equipment. Characters must adapt to the challenges of moving, performing tasks, and manipulating objects in a microgravity environment. They may require specialized training or equipment, such as magnetic boots or handheld propulsion devices, to maintain stability and maneuver effectively. The Referee can introduce skill checks or mechanics to simulate the unique physics of microgravity, adding an additional layer of complexity to character actions and decision-making.
 
-## Extreme Temperatures
+### Extreme Temperatures
 
 The vastness of space brings extreme temperature variations, from freezing cold to scorching heat. Characters must prepare for these extreme temperatures by wearing appropriate environmental suits, utilizing temperature regulation systems, and ensuring proper insulation in their habitats and vehicles. Failure to manage temperature extremes can lead to equipment malfunctions, damage to life support systems, or even life-threatening conditions for characters. The Referee can introduce mechanics for monitoring temperature levels, making temperature-related skill checks, or incorporating events where characters must deal with unexpected temperature fluctuations.
 
-## Scarcity of Resources
+### Scarcity of Resources
 
 Resources in space are limited, and characters must face the challenges of managing and rationing essential supplies such as oxygen, water, food, and energy. The scarcity of resources adds an additional layer of tension and decision-making to the game. Characters may need to engage in resource acquisition missions, establish mining operations, or trade with other factions to secure the necessary supplies for survival and mission objectives. The Referee can implement resource management mechanics, encounters related to resource scarcity, or events that test characters’ ability to make tough choices regarding resource allocation.
 
-## Environmental Suits and Scientific Equipment
+### Environmental Suits and Scientific Equipment
 
 Environmental suits provide protection against the harsh space environments, including temperature extremes, radiation, and micrometeoroids. Characters must have access to and maintain environmental suits to venture outside habitats or spacecraft. Additionally, scientific equipment such as spectrometers, telescopes, or microscopes allow characters to gather valuable data, conduct experiments, and make discoveries. These tools are essential for scientific research and can provide insights into the environment, resources, and potential threats.
 
-# Vehicles
+## Vehicles
 
   - **Interstellar Shuttle:** The Interstellar Shuttle is a versatile small spacecraft designed for transportation between planets, moons, and space stations within a single star system. It features advanced propulsion and life support systems, allowing for efficient travel and comfortable accommodation for passengers and light cargo. The Shuttle serves as a vital link in the transportation infrastructure of colonies, facilitating the movement of personnel, supplies, and resources.
 
@@ -599,7 +597,7 @@ In addition to ship-to-ship combat, characters may engage in boarding actions, a
 
 Space combat can have long-lasting consequences, damaging ship systems and potentially causing critical failures. Characters must deal with the aftermath of combat, including repairing their ships, tending to injured crew members, and managing limited resources in the hostile environment of space.
 
-# Shipyard
+## Shipyard
 
 This section showcases the diverse classes of starships that ply the cosmic sea, each designed to face the myriad challenges of space travel and the unique demands of their missions. Whether you’re delving into the unknown aboard an Explorer, conducting vital research in a Mobile Orbital Laboratory, or defending the frontiers of human space on a Stellar Defender, these ships are your home, your protection, and your means to adventure among the stars.
 
@@ -729,7 +727,15 @@ Agile medical ships, offering high-quality medical services to remote areas, ens
 
 Massive ships designed as mobile safe havens, capable of evacuating populations from disaster-stricken planets to safety. - **COMMS:** Quantum Encryption - **EMBARKATION:** Armored Boarding Torpedoes - **HULL:** Radiation Shielding - **LIFE SUPPORT:** Cryogenic Stasis Chambers - **SENSORS:** Gravimetric Amplifiers - **POWER:** Anti-Matter Injection - **PROPULSION:** Warp Coils - **DEFENSES:** Interceptor Decoys - **ARMAMENTS:** Railguns
 
-# Setting
+# The Age of Expansion
+
+By the late 21st century, humanity had outgrown its cradle. The solar system became our new frontier, its planets and moons transformed into battlegrounds of politics, innovation, and survival. What began as a struggle for autonomy among colonies evolved into the foundation of the Sol Union, a fragile unity in the face of the unknown.
+
+The early experiments with wormholes cracked the door to interstellar exploration, but it was decades before the courage and technology existed to walk through it. As humanity reached new stars, it carried with it old tensions: the balance between control and freedom, preservation and exploitation. The colonies of the “frontier” grew restless, and the systems closer to Sol wrestled with their own evolving identity.
+
+When alien ruins were discovered in 2295, they shattered the illusion that humanity was alone. Though their builders were long gone, the ruins whispered of civilizations far older and more advanced. This revelation lit a fire beneath humanity’s ambitions, pushing us further into the void—not just to settle, but to understand.
+
+From a fragile beginning to an expanding web of stargates and alliances, this era defined what it meant to be human in a universe where the stars were no longer out of reach.
 
 ## Chronology
 
@@ -857,7 +863,7 @@ Communities and families have adapted to realities such as long-distance communi
 
 In the Sol Union of 2400, technological innovation is driven by principles of sustainability, efficiency, and harmonious integration with human and extraterrestrial life. Optimistic visions of the future have materialized in advanced technologies that significantly improve interstellar life.
 
-# General Overview of the Sol Union
+# The Sol Union: General Overview
 
 ### Foundation
 
@@ -1369,186 +1375,168 @@ This generator allows players to create unique missions within the interstellar 
 
 Roll 1d6 to get a job offer. Spend 1₡ to re-roll.
 
-|      |                                           |
-| ---- | ----------------------------------------- |
-| 1-2: | No contracts available currently.         |
-| 3-4: | A risky or low-paying mission is offered. |
-| 5-6: | Choose between two available contracts.   |
+1-2: No contracts available currently. 3-4: A risky or low-paying mission is offered. 5-6: Choose between two available contracts.
 
 ## Mission Table
 
-|     |                             |
-| --- | --------------------------- |
-| 1.  | Freight Transport           |
-| 2.  | Space Station Repair        |
-| 3.  | Planetary Survey            |
-| 4.  | Establish Outpost           |
-| 5.  | Resource Extraction         |
-| 6.  | Investigate Anomaly         |
-| 7.  | Specimen Acquisition        |
-| 8.  | Star System Mapping         |
-| 9.  | Field Test Prototype        |
-| 10. | Medical Deployment          |
-| 11. | Search and Rescue           |
-| 12. | Asset Escort                |
-| 13. | Enforce Quarantine          |
-| 14. | Defensive Operation         |
-| 15. | Disable Pirate Base         |
-| 16. | Corporate Sabotage          |
-| 17. | Data Infiltration           |
-| 18. | Fugitive Capture            |
-| 19. | Artifact Recovery           |
-| 20. | Navigational Hazard Removal |
+1.  Freight Transport
+2.  Space Station Repair  
+3.  Planetary Survey
+4.  Establish Outpost
+5.  Resource Extraction
+6.  Investigate Anomaly
+7.  Specimen Acquisition  
+8.  Star System Mapping
+9.  Field Test Prototype
+10. Medical Deployment
+11. Search and Rescue
+12. Asset Escort
+13. Enforce Quarantine
+14. Defensive Operation
+15. Disable Pirate Base
+16. Corporate Sabotage
+17. Data Infiltration
+18. Fugitive Capture
+19. Artifact Recovery
+20. Navigational Hazard Removal
 
 ## Location
 
-|     |                    |
-| --- | ------------------ |
-| 1.  | Frontier Colony    |
-| 2.  | Asteroid Belt      |
-| 3.  | Orbital Habitat    |
-| 4.  | Moon Base          |
-| 5.  | Terrestrial Colony |
-| 6.  | Mining Outpost     |
-| 7.  | Deep Space Lab     |
-| 8.  | Alien Ruin Site    |
-| 9.  | Derelict Freighter |
-| 10. | Comet/Asteroid     |
-| 11. | Gas Giant Moon     |
-| 12. | Kuiper Belt Object |
-| 13. | Gas Giant Storm    |
-| 14. | Radiation Belt     |
-| 15. | Ion Storm Region   |
-| 16. | Neutron Star Study |
-| 17. | Dwarf Planet       |
-| 18. | Oort Cloud Object  |
-| 19. | Stellar Nebula     |
-| 20. | Volcanic World     |
+1.  Frontier Colony  
+2.  Asteroid Belt
+3.  Orbital Habitat
+4.  Moon Base
+5.  Terrestrial Colony
+6.  Mining Outpost
+7.  Deep Space Lab  
+8.  Alien Ruin Site
+9.  Derelict Freighter
+10. Comet/Asteroid
+11. Gas Giant Moon
+12. Kuiper Belt Object  
+13. Gas Giant Storm
+14. Radiation Belt  
+15. Ion Storm Region
+16. Neutron Star Study
+17. Dwarf Planet
+18. Oort Cloud Object
+19. Stellar Nebula
+20. Volcanic World
 
 ## Client Table
 
-|     |                                  |
-| --- | -------------------------------- |
-| 1.  | Allied Terraformers Unlimited    |
-| 2.  | Kyushi Technical Union           |
-| 3.  | Kuzaren Jumpgate Constructors    |
-| 4.  | AnthroVenture Xenologists        |
-| 5.  | Martian Colonial Administration  |
-| 6.  | Lunar Development Syndicate      |
-| 7.  | Asteroid Belt Miner’s Union      |
-| 8.  | Spatial Hazard Mitigation Agency |
-| 9.  | Vanguard Xenobiology Institute   |
-| 10. | Terraforming Solutions Group     |
-| 11. | Deep Frontier Explorers Society  |
-| 12. | Lunar Scientific Consortium      |
-| 13. | SunHarvest Energy Syndicate      |
-| 14. | Diplomatic Security Corps        |
-| 15. | Shipwrights Engineering Guild    |
-| 16. | Asteroid Miner’s Coalition       |
-| 17. | Galactic Comm Uplink Union       |
-| 18. | System Defense Forces            |
-| 19. | Hydroponic Farmers Cooperative   |
-| 20. | Pan-Galactic Peacekeeper Corps   |
+1.  Allied Terraformers Unlimited
+2.  Kyushi Technical Union
+3.  Kuzaren Jumpgate Constructors
+4.  AnthroVenture Xenologists
+5.  Martian Colonial Administration
+6.  Lunar Development Syndicate  
+7.  Asteroid Belt Miner’s Union  
+8.  Spatial Hazard Mitigation Agency
+9.  Vanguard Xenobiology Institute
+10. Terraforming Solutions Group
+11. Deep Frontier Explorers Society
+12. Lunar Scientific Consortium
+13. SunHarvest Energy Syndicate
+14. Diplomatic Security Corps  
+15. Shipwrights Engineering Guild
+16. Asteroid Miner’s Coalition
+17. Galactic Comm Uplink Union
+18. System Defense Forces
+19. Hydroponic Farmers Cooperative
+20. Pan-Galactic Peacekeeper Corps
 
 ## Complication
 
-|     |                                     |
-| --- | ----------------------------------- |
-| 1.  | Critical Equipment Failure          |
-| 2.  | Hostile Alien Environment           |
-| 3.  | Enigmatic Xenotechnology            |
-| 4.  | Rival Corporate Interference        |
-| 5.  | Exotic Radiation/Energy Source      |
-| 6.  | Crewmember Medical Emergency        |
-| 7.  | Subspace Communications Blackout    |
-| 8.  | Life Support System Malfunction     |
-| 9.  | Crew Insurrection/Sabotage          |
-| 10. | Hostile Xenobiological Entity       |
-| 11. | Unstable Wormhole/Spacetime Anomaly |
-| 12. | Psychologically Acute Crewmate      |
-| 13. | Pandemic/Bioweapon Protocols        |
-| 14. | Protected Asset Goes Rogue          |
-| 15. | Factional/Jurisdictional Disputes   |
-| 16. | Unethical Experimentation Orders    |
-| 17. | Sentient Alien Test Subject         |
-| 18. | Unexpected First Contact Event      |
-| 19. | Hidden Corporate Interests          |
-| 20. | Distress Beacon is Bait             |
+1.  Critical Equipment Failure  
+2.  Hostile Alien Environment
+3.  Enigmatic Xenotechnology
+4.  Rival Corporate Interference
+5.  Exotic Radiation/Energy Source  
+6.  Crewmember Medical Emergency
+7.  Subspace Communications Blackout
+8.  Life Support System Malfunction
+9.  Crew Insurrection/Sabotage
+10. Hostile Xenobiological Entity
+11. Unstable Wormhole/Spacetime Anomaly
+12. Psychologically Acute Crewmate
+13. Pandemic/Bioweapon Protocols  
+14. Protected Asset Goes Rogue
+15. Factional/Jurisdictional Disputes
+16. Unethical Experimentation Orders
+17. Sentient Alien Test Subject  
+18. Unexpected First Contact Event
+19. Hidden Corporate Interests
+20. Distress Beacon is Bait
 
 ## Hazards
 
-|     |                                   |
-| --- | --------------------------------- |
-| 1.  | Equipment Malfunctions            |
-| 2.  | Unusual Spacetime Distortions     |
-| 3.  | Hazardous Planetary Environments  |
-| 4.  | Experimental Warp/Hyperdrive Tech |
-| 5.  | Inscrutable Alien Relics/Ruins    |
-| 6.  | Interstellar Smuggler Activity    |
-| 7.  | Pulsar Radiation/Ion Storms       |
-| 8.  | Hostile Alien Organisms           |
-| 9.  | Deranged Crew Psychosis           |
-| 10. | Asset/Client Betrayal             |
-| 11. | Black Ops Interference            |
-| 12. | Xenobiological Contamination      |
-| 13. | Corporate Espionage Ploy          |
-| 14. | Desperate Civilian Refugees       |
-| 15. | Artificial Singularity            |
-| 16. | Pirate Marauder Ambush            |
-| 17. | Rogue AI Uprising                 |
-| 18. | Enigmatic Signal Source           |
-| 19. | Wartime Allegiances               |
-| 20. | Uncontrolled Test Subjects        |
+1.  Equipment Malfunctions
+2.  Unusual Spacetime Distortions  
+3.  Hazardous Planetary Environments
+4.  Experimental Warp/Hyperdrive Tech
+5.  Inscrutable Alien Relics/Ruins
+6.  Interstellar Smuggler Activity
+7.  Pulsar Radiation/Ion Storms
+8.  Hostile Alien Organisms
+9.  Deranged Crew Psychosis
+10. Asset/Client Betrayal  
+11. Black Ops Interference  
+12. Xenobiological Contamination
+13. Corporate Espionage Ploy
+14. Desperate Civilian Refugees
+15. Artificial Singularity  
+16. Pirate Marauder Ambush
+17. Rogue AI Uprising  
+18. Enigmatic Signal Source
+19. Wartime Allegiances  
+20. Uncontrolled Test Subjects
 
 ## Mission Reward
 
-|     |                                    |
-| --- | ---------------------------------- |
-| 1.  | Currency/Financial Compensation    |
-| 2.  | Scientific/Xenoarchaeological Data |
-| 3.  | System-Wide Renown/Accolades       |
-| 4.  | Promotion/Guild Rank Advancement   |
-| 5.  | Coveted Alien/Precursor Technology |
-| 6.  | Raw Material/Energy Resources      |
-| 7.  | Political Influence/Favors         |
-| 8.  | Established Outpost/Colony Rights  |
-| 9.  | First Contact Cultural Exchange    |
-| 10. | Historic Astronomical Discovery    |
-| 11. | Alliances/Client Relationships     |
-| 12. | Setback for Rivals/Competitors     |
-| 13. | Civilian Lives Preserved           |
-| 14. | New Areas of Knowledge             |
-| 15. | Habitable World Claim Established  |
-| 16. | Secure Trade Route Mapping         |
-| 17. | Novel Lifeform Samples             |
-| 18. | Plague/Pathogen Cure Developed     |
-| 19. | Advanced Prototype Weapon          |
-| 20. | Ancient Mystery Revelation         |
+1.  Currency/Financial Compensation
+2.  Scientific/Xenoarchaeological Data  
+3.  System-Wide Renown/Accolades  
+4.  Promotion/Guild Rank Advancement
+5.  Coveted Alien/Precursor Technology
+6.  Raw Material/Energy Resources
+7.  Political Influence/Favors
+8.  Established Outpost/Colony Rights
+9.  First Contact Cultural Exchange
+10. Historic Astronomical Discovery  
+11. Alliances/Client Relationships
+12. Setback for Rivals/Competitors
+13. Civilian Lives Preserved
+14. New Areas of Knowledge
+15. Habitable World Claim Established  
+16. Secure Trade Route Mapping
+17. Novel Lifeform Samples
+18. Plague/Pathogen Cure Developed
+19. Advanced Prototype Weapon
+20. Ancient Mystery Revelation
 
 ## Contact
 
-|     |                                   |
-| --- | --------------------------------- |
-| 1.  | Grizzled Star Captain Mentor      |
-| 2.  | Cocky Test Pilot Mercenary        |
-| 3.  | Inscrutable Megacorp Agent        |
-| 4.  | Suspicious Xenoarchaeologist      |
-| 5.  | Zealous Terraforming Cultist      |
-| 6.  | Desperate Colony Leader           |
-| 7.  | Brilliant but Unstable Engineer   |
-| 8.  | Enigmatic Alien Ambassador        |
-| 9.  | Eccentric Starship Designer       |
-| 10. | Ruthless Space Privateer          |
-| 11. | Idealistic Environmental Activist |
-| 12. | Paranoid System Defense Hacker    |
-| 13. | Oblivious Bureaucrat              |
-| 14. | Duplicitous Corporate Spy         |
-| 15. | War-Weary Field Medic             |
-| 16. | Unlikely Alien Ally               |
-| 17. | Former Crewmate Friend/Rival      |
-| 18. | Disillusioned Military Defector   |
-| 19. | Mad Scientist Inventor            |
-| 20. | Rogue AI Persona                  |
+1.  Grizzled Star Captain Mentor  
+2.  Cocky Test Pilot Mercenary
+3.  Inscrutable Megacorp Agent
+4.  Suspicious Xenoarchaeologist  
+5.  Zealous Terraforming Cultist
+6.  Desperate Colony Leader
+7.  Brilliant but Unstable Engineer
+8.  Enigmatic Alien Ambassador  
+9.  Eccentric Starship Designer
+10. Ruthless Space Privateer
+11. Idealistic Environmental Activist
+12. Paranoid System Defense Hacker  
+13. Oblivious Bureaucrat  
+14. Duplicitous Corporate Spy
+15. War-Weary Field Medic
+16. Unlikely Alien Ally
+17. Former Crewmate Friend/Rival
+18. Disillusioned Military Defector
+19. Mad Scientist Inventor  
+20. Rogue AI Persona
 
 # Inspirations
 
@@ -1563,6 +1551,1104 @@ Inspirational Sources: - Spacecraft/starship design by Chris Foss, Ron Miller, J
 Key Themes: - Realistic depictions of interstellar spacecraft/station design - Complex webs of interstellar politics/trade/cultural factions  
 \- Plausible scientific theories like wormholes/jumpgates - Influence of mega-corporations and merchanter clans - Gritty, grounded stories of traders, mercenaries, colonists - Alien species dynamics and first contact scenarios - Realistic effects of interstellar travel times and communication delays
 
+# Landmark Starships
+
+## HCS Stellar Voyager
+
+The HCS Stellar Voyager represents a milestone in humanity’s interstellar exploration history. Designed and built in the High Orbit Dynamics shipyards on the Moon, the Stellar Voyager was launched in 2245 as part of the “Pathfinders” initiative by the Sol Union, with the goal of exploring and mapping the farthest boundaries of the known galaxy. Its mission is to serve as an exploration vessel, a mobile laboratory, and, if necessary, as a temporary outpost for human operations in deep space.
+
+The Stellar Voyager is equipped with an advanced suite of scientific instruments for astrophysical analysis, extraterrestrial biology, and planetary geology. Its design incorporates the latest propulsion and defense technologies, making it capable of traveling interstellar distances with unprecedented energy efficiency. One of the Voyager’s distinctive features is its expandable habitat module, which can accommodate a crew of up to 100 people on missions lasting several years.
+
+Its exploration missions have led to groundbreaking discoveries about previously unexplored stellar systems, including the mapping of new “jumpgates” and the identification of planets potentially habitable for future human colonization. These feats have not only expanded humanity’s understanding of the universe but have also opened new pathways for interstellar expansion and galactic scientific collaboration.
+
+|                    | **Specifications**                                                                                                                 |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Manufacturer**   | High Orbit Dynamics                                                                                                                |
+| **Classification** | Interstellar Exploration Vessel                                                                                                    |
+| **Propulsion**     | Advanced fusion engines combined with a wormhole generator for FTL (Faster Than Light) jumps                                       |
+| **Armaments**      | Non-lethal energy-based defensive systems and countermeasures for asteroids and space debris                                       |
+| **Defenses**       | Multiphase energy shield for protection from cosmic radiation and ballistic attacks, advanced stealth system for covert operations |
+
+The HCS Stellar Voyager remains one of the most potent symbols of humanity’s inherent desire to explore the unknown. Its missions have inspired generations of scientists, engineers, and citizens of the Sol Union, reminding everyone that the boundaries of exploration are limited only by our imagination and our willingness to pursue them. With every new discovery, the Voyager continues to play a crucial role in shaping the future of humanity among the stars.
+
+## GCS Pathfinder
+
+The GCS Pathfinder represents a milestone in space engineering, conceived and built by Galactic Core Systems, a consortium of leading aerospace companies. This model of the ship, launched in 2245, marked the beginning of a new era of interstellar exploration thanks to its ability to operate in conjunction with “jumpgates,” spatial portals that allow instant travel across vast stretches of the universe.
+
+The Pathfinder is classified as a Stargate Cruiser, designed to serve as the vanguard in exploring new worlds and expanding the Sol Union. With a crew of 200 people, this ship is equipped for long-range missions, featuring scientific laboratories, exploratory drones, and a modular shuttle bay. Its robust structure and advanced systems make it capable of traversing jumpgates and operating in hostile space environments.
+
+The design of the Pathfinder combines aesthetics and functionality, with clean lines enclosing advanced technology. Its imposing silhouette is immediately recognizable, a symbol of technological progress and human audacity.
+
+|                    | **Specifications**                                                                                                           |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Manufacturer**   | Galactic Core Systems                                                                                                        |
+| **Classification** | Stargate Cruiser                                                                                                             |
+| **Propulsion**     | Fourth-generation FTL engines for interstellar travel, ionization thrusters for space maneuvers, jumpgate integration system |
+| **Armaments**      | High-energy particle cannon, long-range missile batteries, point-defense systems                                             |
+| **Defenses**       | Multilayer energy shields, advanced composite armor, holographic camouflage systems                                          |
+
+The GCS Pathfinder is equipped with a hybrid propulsion suite that allows it to travel at light speed (FTL) for autonomous explorations, in addition to seamlessly integrating with “jumpgates” for instantaneous travel. This dualistic capability ensures unprecedented operational versatility.
+
+Regarding armaments, the Pathfinder is designed for deterrence and defense. Its particle cannon can incinerate asteroids or enemy ships, while missiles provide a long-range attack option. Its defenses have been carefully calibrated to protect the ship and its crew from deep space dangers, from radiation to space debris, to potential external aggressions.
+
+The GCS Pathfinder is not just a technological masterpiece; it’s a symbol of what humanity can achieve. Every mission brings new discoveries, pushing the boundaries of our knowledge further and further into the unknown.
+
+## Orion Heavy Lifter
+
+The Orion Heavy Lifter is the workhorse of interstellar merchant and mining fleets, designed and built by the AstroMech Deep Space Division. This multifunctional cargo vessel, introduced for the first time in 2260, has revolutionized the transport of goods and resources on a large scale between the Sol Union’s stellar systems. Its versatility and robustness make it invaluable for commercial operations, support logistics, and mining missions.
+
+Equipped with a range of interchangeable modules, the Orion can be configured for a variety of missions, from the import/export of consumer goods and industrial materials to the collection and transport of mineral resources extracted from asteroids and celestial bodies. Its modular structure also allows for easy installation of specialized equipment for extraction, analysis, and on-site processing operations.
+
+|                    | **Specifications**                                                                                                                                |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Manufacturer**   | AstroMech Deep Space Division                                                                                                                     |
+| **Classification** | Multifunctional Space Cargo                                                                                                                       |
+| **Propulsion**     | Standard FTL engines for interstellar travel, ionic thrusters for precise maneuvers, quick release and attachment system for cargo/mining modules |
+| **Armaments**      | Low-level laser defense systems for space debris and small threats, security drones for protection against space piracy                           |
+| **Defenses**       | Basic energy shield for environmental protection, composite reactive armor for impact resistance and micro-meteorites                             |
+
+Thanks to its standard FTL engines, the Orion Heavy Lifter can carry out interstellar journeys with massive loads, maintaining competitive transport times. Its ionic thrusters ensure precision in maneuvers near space stations, stargates, and asteroid fields.
+
+Although its primary function is not combat, the Orion is equipped with laser defense systems to neutralize threats like space debris and small asteroids. Security drones can be deployed for deterrence against piracy attempts.
+
+The Orion’s defenses include an energy shield designed to provide environmental protection during travel through hostile interstellar spaces, as well as composite armor offering resistance to impacts and micro-meteorites, ensuring the safety of the cargo under all conditions.
+
+The Orion Heavy Lifter is not merely a cargo ship; it’s a logistical platform that facilitates the expansion and support of human activities in deep space. With its ability to rapidly adapt to a variety of roles, from mining exploration to heavy transport, the Orion represents a foundational pillar in the commercial and industrial infrastructure of the Sol Union.
+
+## Celestia Discovery Lab
+
+The Celestia Discovery Lab represents the pinnacle of innovation in scientific ships, designed by the Stellar Research Corporation. This mobile orbital laboratory, commissioned in 2275, is a cutting-edge platform for interstellar research, equipped with the most advanced laboratories for conducting in-depth studies on spatial phenomena, extraterrestrial biology, and emerging technologies.
+
+With its ability to operate independently for extended periods or as essential support for broader exploration and colonization missions, the Celestia Discovery Lab is an invaluable resource for advancing science and human understanding of the universe.
+
+|                    | **Specifications**                                                                                                                                                |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Manufacturer**   | Stellar Research Corporation                                                                                                                                      |
+| **Classification** | Mobile Orbital Laboratory                                                                                                                                         |
+| **Propulsion**     | Advanced ionic propulsion for precise maneuverability, next-generation FTL drive for interstellar relocations                                                     |
+| **Armaments**      | Not applicable                                                                                                                                                    |
+| **Defenses**       | Energy shields for protection from radiation and high-energy particles, antimissile system for debris and micrometeorites, cloaking field for discreet operations |
+
+The Celestia Discovery Lab’s propulsion capabilities ensure both the maneuverability needed to navigate near interesting spatial phenomena and the speed to travel between stellar systems in reduced times, thanks to its innovative FTL drive.
+
+While armaments are not part of the standard configuration of the ship, given its non-combat nature, the Celestia is equipped with sophisticated defenses. Energy shields protect the crew and sensitive equipment from cosmic radiation and high-energy particles, common in extreme space environments. The antimissile system and cloaking field ensure that the ship can conduct its research without interference, protecting it from space debris and ensuring discretion during sensitive operations.
+
+At the heart of the Celestia Discovery Lab are its laboratories, which include facilities for research in astrophysics, extraterrestrial biology, chemistry, alien ecology, and engineering. These highly technological spaces allow scientists to conduct complex experiments, analyze samples collected in situ, and develop new technologies based on emerging discoveries.
+
+The ship is also equipped with a wide range of external scientific instrumentation, including high-definition telescopes, spectrometers, radars for mapping planetary surfaces, and multidimensional sensors, allowing for the collection of valuable data on the surrounding space environment.
+
+The Celestia Discovery Lab is not just a ship; it is a symbol of humanity’s relentless quest for knowledge, designed to push the limits of our understanding of the universe and open new frontiers in space science.
+
+## Guardian of Sol
+
+The Guardian of Sol represents the milestone of stellar defense in the Sol Union, developed by the United Defense Spacecraft Corp. This heavily armed battleship, first launched in 2280, is designed with a single purpose in mind: to ensure the safety of inhabited stellar systems and vital trade routes against threats from space pirates and any other form of interstellar aggression.
+
+|                    | **Specifications**                                                                                                                                   |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Manufacturer**   | United Defense Spacecraft Corp                                                                                                                       |
+| **Classification** | Stellar Defender                                                                                                                                     |
+| **Propulsion**     | Advanced FTL engines for rapid interceptions, reaction thrusters for tactical maneuvers in combat                                                    |
+| **Armaments**      | High-power laser cannon batteries, gravitational pulse missiles, antimatter torpedo silos, short-range air defense systems for missile interceptions |
+| **Defenses**       | Multilayer energy shields, reinforced anti-impact armor, advanced electronic countermeasure systems                                                  |
+
+The propulsion of the Guardian of Sol combines the speed needed to promptly respond to threats anywhere in the Union with the capability to execute complex and tactical maneuvers in combat situations, making it a formidable adversary.
+
+The Guardian of Sol’s armament is among the most advanced available, comprising a wide array of offensive systems to confront threats at various distances. Laser cannon batteries provide devastating firepower against long-distance targets, while gravitational pulse missiles and antimatter torpedoes offer solutions for heavily armored objectives. Air defense systems ensure protection against enemy missiles and fighters.
+
+In terms of defenses, the Guardian of Sol employs multilayer energy shields that can absorb and dissipate vast amounts of energy, protecting the ship from direct attacks. Reinforced armor provides a second line of defense against projectiles and fragments, while advanced electronic countermeasure systems can disorient and neutralize electronically guided attacks.
+
+The Guardian of Sol is more than just a warship; it is a mobile deterrent, a demonstration of the Sol Union’s strength and commitment to protecting its citizens and interests in the vast and often dangerous interstellar theater. This battleship, along with its sister ships, serves as a bulwark against forces that threaten the peace and security of the Union, ensuring that commerce, exploration, and colonization can continue unimpeded.
+
+## Swift Messenger
+
+The Swift Messenger is one of the most significant achievements of the Velocity Starcraft Corp. in the field of rapid transports and interstellar couriers. Launched in the year 2290, this Stellar Clipper was designed with the goal of ensuring ultra-fast deliveries, crucial communications transmissions, and immediate rescue interventions across the vast spaces of the Sol Union and beyond.
+
+|                    | **Specifications**                                                                                                     |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| **Manufacturer**   | Velocity Starcraft Corp                                                                                                |
+| **Classification** | Stellar Clipper                                                                                                        |
+| **Propulsion**     | Latest generation FTL drive for rapid interstellar jumps, sub-light thrusters for precise maneuvers in confined spaces |
+| **Armaments**      | Minimal defense equipment: short-range laser cannons for self-defense                                                  |
+| **Defenses**       | Light energy shields, advanced evasion and dodging system, cloaking technology for discreet operations                 |
+
+The Swift Messenger is renowned for its extraordinary speed and agility, thanks to a propulsion system that combines advanced FTL drives for interstellar jumps with sub-light thrusters for quick and precise maneuvers in more confined contexts, such as crowded stellar systems or asteroid fields.
+
+Although not designed as a combat vessel, the Swift Messenger is equipped with basic armaments to ensure the safety of its cargo and crew during more perilous missions. These consist mainly of short-range laser cannons, ideal for warding off space pirates or neutralizing minor threats.
+
+The ship’s defenses are equally sophisticated, with light but effective energy shields against low-caliber attacks and an advanced evasion and dodging system that maximizes the ship’s maneuverability. Additionally, the cloaking technology allows the Swift Messenger to carry out operations discreetly when secrecy is paramount.
+
+The Swift Messenger has become a symbol of reliability and efficiency for critical missions requiring the utmost speed. Its capabilities make it the preferred choice for transporting valuable goods, sensitive documents, or providing immediate assistance in emergency situations, solidifying its reputation as one of the fastest and most reliable stellar clippers in service within the Sol Union.
+
+## Horizon Seeker
+
+The Horizon Seeker is the pinnacle of innovation in exploratory fields, designed and built by the Frontier Exploration Corp. This Frontier Scout was launched in 2298, with the primary goal of charting and exploring new worlds in the uncharted frontier regions of the Sol Union. Small, agile, and optimized for rapid reconnaissance missions, the Horizon Seeker is a fundamental element in interstellar exploration operations.
+
+|                    | **Specifications**                                                                                       |
+| ------------------ | -------------------------------------------------------------------------------------------------------- |
+| **Manufacturer**   | Frontier Exploration Corp                                                                                |
+| **Classification** | Frontier Scout                                                                                           |
+| **Propulsion**     | Compact FTL engine for quick jumps, high-efficiency ionic thrusters for orbital maneuvers and approaches |
+| **Armaments**      | Light equipment for self-defense, including pulse cannons and point-defense systems                      |
+| **Defenses**       | Adaptive energy shield, cloaking system for discreet exploration operations                              |
+
+Equipped with a compact FTL engine, the Horizon Seeker can perform interstellar jumps with surprising energy efficiency, allowing it to reach distant stellar systems quickly. Upon reaching orbit, high-efficiency ionic thrusters ensure precise maneuvers for detailed planet observation and landing.
+
+Though not intended for combat, the Horizon Seeker possesses a basic arsenal for protecting the crew and onboard equipment against potential threats. Pulse cannons and point-defense systems offer sufficient self-defense capabilities to deter occasional hostile encounters.
+
+To maximize the safety and effectiveness of exploration missions, the Horizon Seeker is equipped with adaptive energy shields, which can be configured to maximize protection against various types of attacks. The cloaking system, a crucial feature for a frontier scout, allows the ship to conduct orbital surveys or land on new worlds undetected.
+
+The Horizon Seeker has marked a new chapter in the exploration of frontier regions, becoming an indispensable tool for mapping the unknown. Its missions have led to the discovery of habitable worlds, valuable resources, and unknown cosmic phenomena, significantly contributing to the expansion of human knowledge of deep space. With its combination of agility, survivability, and advanced instrumentation, the Horizon Seeker continues to be at the forefront of interstellar exploration, pushing the boundaries of the unknown further and further.
+
+## Genesis Voyager
+
+The Genesis Voyager represents a milestone in colony ship engineering, developed by the Galactic Habitat Corp. in the late 23rd century. These Interstellar Arks were conceived to tackle one of humanity’s most ambitious challenges: transporting thousands of individuals, along with the essential infrastructure, to new worlds within and beyond the Sol Union, serving as temporary or permanent bases for emerging colonies.
+
+|                    | **Specifications**                                                                                                                   |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Manufacturer**   | Galactic Habitat Corp                                                                                                                |
+| **Classification** | Interstellar Ark                                                                                                                     |
+| **Propulsion**     | Latest generation FTL engine for long-range interstellar travel, sub-light propulsion units for precise maneuvers in stellar systems |
+| **Armaments**      | Antimissile and pulse laser defense system for protection from space debris and minor threats                                        |
+| **Defenses**       | Multiple force fields for protection from cosmic radiation and impacts, advanced structural integrity system                         |
+
+The Genesis Voyager is designed to offer a complete and self-sufficient solution for space colonization. Capable of housing up to 50,000 people, along with flora, fauna, and the materials necessary for establishing a new civilization, these ships are true arks of life.
+
+Equipped with the latest generation FTL engine, the Genesis Voyager is able to traverse unthinkable interstellar distances that were previously unimaginable, opening humanity to an era of unprecedented colonization. Sub-light propulsion units allow for precise maneuvers for orbit entry and landing on new worlds.
+
+Although not designed for combat, the ship is equipped with an antimissile and pulse laser defense system to fend off potential threats and ensure the safety of its passengers and vital onboard resources. Defenses also include multiple force fields, providing comprehensive protection from cosmic radiation and debris impacts, ensuring maximum safety for the crew and biological cargo.
+
+The structure of the Genesis Voyager is conceived to serve as the foundation for the first infrastructure of a new colony. Upon reaching the destination planet, sections of the ship can be converted into living modules, scientific laboratories, and agricultural facilities, providing an immediate start for colonization and sustainable development of the new world.
+
+The launch of the Genesis Voyager marked the beginning of a new era in space exploration and colonization, proving that humanity not only aspires to reach the stars but also intends to call them home. With its ability to transform distant worlds into new frontiers for human life, the Genesis Voyager has become a symbol of humanity’s indomitable spirit of exploration.
+
+## Lifeline Guardian
+
+The Lifeline Guardian is the centerpiece of interstellar medical operations, developed by the United Health Space Division. These Stellar Hospitals represent a revolution in space medicine, combining speed, efficiency, and advanced healing capabilities. Launched in 2285, the Lifeline Guardian’s mission is to provide emergency medical care, long-term support, and biomedical research services to remote colonies and deep space missions.
+
+|                    | **Specifications**                                                                                                                                        |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Manufacturer**   | United Health Space Division                                                                                                                              |
+| **Classification** | Stellar Hospital                                                                                                                                          |
+| **Propulsion**     | FTL drive for rapid interventions over vast distances, high-precision maneuvering systems for delicate operations near space stations or celestial bodies |
+| **Armaments**      | Not applicable                                                                                                                                            |
+| **Defenses**       | Advanced protective shields to ensure safe operations in conflict zones, radiation mitigation systems to protect patients and staff                       |
+
+The Lifeline Guardian is equipped with state-of-the-art medical facilities, including automated surgical units, research labs for developing cures and treatments, and intensive care units. Its capacity to accommodate up to 2,000 patients enables it to provide a wide range of medical services, from routine care to emergency surgery and rehabilitation.
+
+The FTL propulsion of the Lifeline Guardian allows it to quickly reach crisis areas, ensuring that medical care can be delivered where and when it is most needed. High-precision maneuvering systems ensure that the ship can operate safely even in the tightest spaces, allowing docking at space stations or entering low orbits around planets to maximize the reach of its rescue operations.
+
+As it is not a combat vessel, the Lifeline Guardian does not have armaments. However, it is equipped with advanced protective shields to operate safely even in conflict zones, ensuring that it can complete its missions without interruption. Additionally, radiation mitigation systems are crucial for protecting patients and staff from cosmic radiation and environmental hazards.
+
+With its commitment to providing excellent medical care and its leading role in space medical research, the Lifeline Guardian has saved countless lives and improved the quality of healthcare available in space communities. Its presence has become a beacon of hope in the most remote and dangerous regions of space, symbolizing humanity’s commitment to the care and wellbeing of its members, wherever they may be.
+
+# Settled system of the Sol Union
+
+## Alpha Centauri A System Overview
+
+**Star:** Alpha Centauri A  
+**Mass:** 1.09 Solar Masses  
+**Luminosity:** 1.60 Solar Luminosity  
+**Age:** 2.521 Billion Years  
+**Habitable Zone:** 1.029 - 1.826 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 6 (Rock, Venusian, Terrestrial, Ice, Gas Dwarf, Sub-Jovian)
+  - **Habitable Planets:** Possibly 1 (Planet \#3, a Terrestrial type with a thin, breathable atmosphere)
+  - **Notable Moons:** 1 notable moon orbiting Planet \#2, a Venusian type.
+
+### Highlighted Planets and Moons
+
+#### Planet 1: A Scorching Rock
+
+  - **Type:** Rock
+  - **Distance from Alpha Centauri A:** 0.374 AU
+  - **Mass & Size:** 0.087 Earth Masses, 0.447 Earth Radii
+  - **Atmosphere:** Airless
+  - **Surface Conditions:** Extremely hot, tidally locked, with drastic temperature fluctuations.
+
+#### Planet 2: The Venusian Hell
+
+  - **Type:** Venusian
+  - **Distance from Alpha Centauri A:** 0.852 AU
+  - **Mass & Size:** 3.161 Earth Masses, 1.448 Earth Radii
+  - **Atmosphere:** Thick, unbreathable, with a significant greenhouse effect.
+  - **Surface Conditions:** Boiling oceans, high gravity, and extreme temperatures.
+
+#### Planet 3: A Glimmer of Habitability
+
+  - **Type:** Terrestrial
+  - **Distance from Alpha Centauri A:** 1.241 AU
+  - **Mass & Size:** 0.545 Earth Masses, 0.820 Earth Radii
+  - **Atmosphere:** Thin, with nitrogen and oxygen.
+  - **Surface Conditions:** Cool with a potential for liquid water, making it the prime candidate for habitability.
+
+#### Planet 6: A Sub-Jovian Giant
+
+  - **Type:** Sub-Jovian
+  - **Distance from Alpha Centauri A:** 2.464 AU
+  - **Mass & Size:** 19.548 Earth Masses, 4.179 Earth Radii
+  - **Atmosphere:** Composed of hydrogen, helium, and other gases.
+  - **Surface Conditions:** Lacks a solid surface, with a complex atmosphere and potential for moons with exotic conditions.
+
+### System Characteristics
+
+  - **Diversity:** The system features a range of planet types from rocky to gas giants, including a Venusian planet with extreme greenhouse effects and a potential habitable terrestrial planet.
+  - **Potential for Exploration:** High, especially for Planet \#3 with its cool, potentially habitable conditions and the sub-Jovian Planet \#6 with its intriguing gas composition.
+  - **Challenges:** Extreme temperatures, high radiation from the close proximity to Alpha Centauri A, and thick atmospheres on gas giants pose significant challenges.
+
+### Key Notes
+
+  - Alpha Centauri A presents a diverse system with a broad range of planetary environments. Planet \#3 offers a tantalizing glimpse at potential habitability in a system dominated by more hostile worlds. The system’s variety from the scorching surface of its inner planets to the cold gas giant realms farther out makes it a fascinating subject for exploration and study.
+
+## Alpha Centauri B System Overview
+
+**Star:** Alpha Centauri B  
+**Mass:** 0.90 Solar Masses  
+**Luminosity:** 0.45 Solar Luminosity  
+**Age:** 4.061 Billion Years  
+**Habitable Zone:** 0.546 - 0.968 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 4 (Rock, Terrestrial, Gas Dwarf, Ice)
+  - **Habitable Planets:** 1 (Planet \#2, a Terrestrial type with a breathable atmosphere)
+  - **Notable Moons:** 1 minor moon orbiting Planet \#3, a Gas Dwarf.
+
+### Highlighted Planets and Moons
+
+#### Planet 1: A Rocky Challenge
+
+  - **Type:** Rock
+  - **Distance from Alpha Centauri B:** 0.356 AU
+  - **Mass & Size:** 0.152 Earth Masses, 0.538 Earth Radii
+  - **Atmosphere:** Airless
+  - **Surface Conditions:** Hot with extreme day-night temperature variations, resonantly spin-locked.
+
+#### Planet 2: Oasis of Life
+
+  - **Type:** Terrestrial
+  - **Distance from Alpha Centauri B:** 0.685 AU
+  - **Mass & Size:** 1.114 Earth Masses, 1.036 Earth Radii
+  - **Atmosphere:** Breathable, with nitrogen and oxygen.
+  - **Surface Conditions:** Temperate climate, abundant water bodies, making it the system’s crown jewel for habitability.
+
+#### Planet 3: A Gas Dwarf with a Tiny Moon
+
+  - **Type:** Gas Dwarf
+  - **Distance from Alpha Centauri B:** 1.520 AU
+  - **Mass & Size:** 4.358 Earth Masses, 1.603 Earth Radii
+  - **Atmosphere:** Thick, with a variety of gases.
+  - **Surface Conditions:** Lacks a solid surface; surrounded by a tiny, rock moon (3.1) that’s cold and airless.
+
+#### Planet 4: Frozen World
+
+  - **Type:** Ice
+  - **Distance from Alpha Centauri B:** 2.174 AU
+  - **Mass & Size:** 1.735 Earth Masses, 1.196 Earth Radii
+  - **Atmosphere:** Thick, retains heat poorly.
+  - **Surface Conditions:** Entirely covered in ice, with extremely low temperatures and a high gravitational pull.
+
+### System Characteristics
+
+  - **Diversity:** The system offers a variety of celestial bodies, from a potentially habitable terrestrial planet to an ice-covered world and a gas dwarf with its own moon.
+  - **Potential for Exploration:** High, with the terrestrial Planet \#2 being a prime target for colonization efforts due to its Earth-like conditions.
+  - **Challenges:** Varied conditions across the planets, from extreme heat and cold to the challenges of exploring a gas dwarf and its moon.
+
+### Key Notes
+
+  - Alpha Centauri B’s system is a fascinating mix of extremes, from the scorching rock of Planet \#1 to the icy surfaces of Planet \#4. The highlight is undoubtedly Planet \#2, offering conditions most similar to Earth, presenting an intriguing prospect for future exploration and perhaps even colonization. This system embodies the diversity and wonder of the cosmos, inviting adventurers and scientists alike to uncover its secrets.
+
+## Tau Ceti System Overview
+
+**Star:** Tau Ceti  
+**Mass:** 0.82 Solar Masses  
+**Luminosity:** 0.59 Solar Luminosity  
+**Age:** 2.974 Billion Years  
+**Habitable Zone:** 0.625 - 1.109 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 14 (Including Sub-Jovians and Jovians)
+  - **Habitable Planets:** 1 (Planet \#4)
+  - **Notable Moons:** Multiple, with varying conditions from icy to airless.
+
+### Highlighted Planets
+
+#### Planet 4: The Habitable World
+
+  - **Type:** Terrestrial
+  - **Distance from Tau Ceti:** 0.785 AU
+  - **Mass & Size:** Similar to Earth
+  - **Atmosphere:** Breathable (Nitrogen, Oxygen)
+  - **Surface Conditions:** Temperate, with vast oceans and diverse ecosystems.
+
+#### Planet 6: The Gas Giant with Moons
+
+  - **Type:** Sub-Jovian
+  - **Distance from Tau Ceti:** 2.244 AU
+  - **Mass & Size:** 11.606 Earth Masses, 3.713 Earth Radii
+  - **Notable Moon:** Ice Moon (6.1) with thin atmosphere and icy surface.
+
+#### Planet 9: The Jovian Behemoth
+
+  - **Type:** Jovian
+  - **Distance from Tau Ceti:** 6.246 AU
+  - **Mass & Size:** 23.527 Earth Masses, 4.969 Earth Radii
+  - **Remarkable for:** Its massive size and significant dust and gas composition.
+
+### System Characteristics
+
+  - **Diversity:** A mix of terrestrial, icy, and gaseous planets with various moons.
+  - **Potential for Exploration:** High, especially the habitable planet (Planet \#4) and interesting moons orbiting gas giants.
+  - **Challenges:** Varying surface conditions, distances, and atmospheres offer unique challenges for colonization and exploration.
+
+### Key Notes
+
+  - The Tau Ceti system provides a rich backdrop for adventure, with a habitable world ripe for exploration and gas giants surrounded by intriguing moons. Whether it’s scientific research, colonization, or simply the thrill of discovery, Tau Ceti beckons as a beacon of potential in the vastness of space.
+
+## Epsilon Eridani System Overview
+
+**Star:** Epsilon Eridani  
+**Mass:** 0.85 Solar Masses  
+**Luminosity:** 0.34 Solar Luminosity  
+**Age:** 1.485 Billion Years  
+**Habitable Zone:** 0.475 - 0.842 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 10 (Including a mix of Rock, Terrestrial, Jovian, and Sub-Jovian types)
+  - **Habitable Planets:** 1 (Planet \#4, a Terrestrial type with a thin, breathable atmosphere)
+  - **Notable Moons:** Minor rock moons, particularly Moon \#10.1 orbiting Planet \#10.
+
+### Highlighted Planets and Moons
+
+#### Planet 4: A Chilly Haven
+
+  - **Type:** Terrestrial
+  - **Distance from Epsilon Eridani:** 0.569 AU
+  - **Mass & Size:** 0.486 Earth Masses, 0.790 Earth Radii
+  - **Atmosphere:** Thin, with oxygen and nitrogen.
+  - **Surface Conditions:** Cool, with low gravity and a potential for liquid water, representing the system’s best shot at habitability.
+
+#### Planet 6: The Gas Giant Behemoth
+
+  - **Type:** Jovian
+  - **Distance from Epsilon Eridani:** 3.300 AU
+  - **Mass & Size:** 848.157 Earth Masses, 13.717 Earth Radii
+  - **Atmosphere:** Thick, with a complex mix of gases.
+  - **Surface Conditions:** No solid surface, extreme pressures, and temperatures within its massive atmosphere.
+
+#### Planet 9: The Distant Sub-Jovian
+
+  - **Type:** Sub-Jovian
+  - **Distance from Epsilon Eridani:** 22.508 AU
+  - **Mass & Size:** 2.171 Earth Masses, 2.824 Earth Radii
+  - **Atmosphere:** Likely contains lighter gases and elements.
+  - **Surface Conditions:** Lacks a solid surface, colder due to its distance from the star.
+
+#### Moon \#10.1: A Cold, Rocky Satellite
+
+  - **Type:** Rock
+  - **Orbiting:** Planet \#10 at 46.542 AU
+  - **Mass & Size:** 0.090 Earth Masses, 0.606 Earth Radii
+  - **Atmosphere:** Airless
+  - **Surface Conditions:** Extremely cold, rocky terrain, and low gravity.
+
+### System Characteristics
+
+  - **Diversity:** Epsilon Eridani features a diverse array of planets from hot, airless rocks close to the star to cold Jovians in the outer system, and a potential habitable terrestrial world.
+  - **Potential for Exploration:** The terrestrial Planet \#4 offers a compelling target for detailed study and possible future colonization, given its breathable atmosphere and liquid water potential.
+  - **Challenges:** The system’s planets present a range of environments, from the scorching surfaces of the inner rocky planets to the extreme conditions of the gas giants and the frigid outer rock planets and moons.
+
+### Key Notes
+
+  - Epsilon Eridani stands out for its relatively young age and the diversity of its planetary bodies. Planet \#4 provides a particularly intriguing prospect for life or future human activity, given its more Earth-like conditions. The system’s gas giants and distant rock planets offer a wealth of opportunities for scientific discovery, from studying complex atmospheric phenomena to understanding the conditions of celestial bodies far from their host star.
+
+## 61 Cygni A System Overview
+
+**Star:** 61 Cygni A  
+**Mass:** 0.59 Solar Masses  
+**Luminosity:** 0.09 Solar Luminosity  
+**Age:** 3.905 Billion Years  
+**Habitable Zone:** 0.237 - 0.421 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 10 (Including Rock, Ice, Martian, and a Jovian type)
+  - **Habitable Planets:** None identified with conditions suitable for Earth-like life; several planets and moons have thin atmospheres or are airless.
+  - **Notable Moons:** Numerous, including moons orbiting planets 2, 3, 4, 5, and 8.
+
+### Highlighted Planets and Moons
+
+#### Planet 1: The Cold Rock
+
+  - **Type:** Rock
+  - **Distance from 61 Cygni A:** 0.278 AU
+  - **Mass & Size:** 0.050 Earth Masses, 0.372 Earth Radii
+  - **Atmosphere:** Airless
+  - **Surface Conditions:** Cold, with a tidally locked face, offering a stark contrast in temperature extremes.
+
+#### Planet 4: Icy World with Moons
+
+  - **Type:** Ice
+  - **Distance from 61 Cygni A:** 1.032 AU
+  - **Mass & Size:** 0.264 Earth Masses, 0.646 Earth Radii
+  - **Atmosphere:** Thin
+  - **Surface Conditions:** Extremely cold, primarily icy surface with a couple of moons, suggesting a complex orbital system.
+
+#### Planet 9: The Gas Giant
+
+  - **Type:** Jovian
+  - **Distance from 61 Cygni A:** 7.951 AU
+  - **Mass & Size:** 181.397 Earth Masses, 9.972 Earth Radii
+  - **Atmosphere:** Likely rich in hydrogen and helium.
+  - **Surface Conditions:** No solid surface, potentially featuring dynamic atmospheric phenomena and a complex system of moons.
+
+#### Moon 9.1: A Martian Satellite
+
+  - **Type:** Martian
+  - **Orbiting:** Planet 9
+  - **Mass & Size:** 1.985 Earth Masses, 1.657 Earth Radii
+  - **Atmosphere:** Thin, unbreathable
+  - **Surface Conditions:** Cold and arid, with an icy composition, representative of the diverse and challenging environments in this star system.
+
+### System Characteristics
+
+  - **Diversity:** The 61 Cygni A system is home to a wide array of celestial bodies, from cold, rocky planets near the star to icy worlds and a significant gas giant with its own moons in the outer reaches.
+  - **Potential for Exploration:** While not immediately habitable, the system’s planets and moons offer diverse geological and atmospheric conditions for scientific study.
+  - **Challenges:** The absence of a thick, breathable atmosphere on any of the planets and the extreme conditions ranging from cold, icy surfaces to the intense atmosphere of the gas giant present significant challenges for exploration.
+
+### Key Notes
+
+  - 61 Cygni A’s planetary system presents a microcosm of the diversity found in the galaxy, from its barren rock worlds to the icy reaches and the dominating presence of a large gas giant. The system’s moons, especially those orbiting the gas giant, add layers of complexity and intrigue, making it a fascinating target for future astronomical observations and potentially robotic missions to explore the outer solar system’s analogs.
+
+## 40 Eridani A System Overview
+
+**Star:** 40 Eridani A  
+**Mass:** 0.75 Solar Masses  
+**Luminosity:** 0.38 Solar Luminosity  
+**Age:** 2.018 Billion Years  
+**Habitable Zone:** 0.502 - 0.890 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 16 (Including Rock, Ice, Martian, Jovian, and a Gas Dwarf)
+  - **Habitable Planets:** 1 (Planet \#3, a Terrestrial type with a breathable atmosphere)
+  - **Notable Moons:** Numerous, particularly around planets 13, 15, and 16, featuring cold, airless moons.
+
+### Highlighted Planets and Moons
+
+#### Planet 3: Habitable Haven
+
+  - **Type:** Terrestrial
+  - **Distance from 40 Eridani A:** 0.590 AU
+  - **Mass & Size:** 0.649 Earth Masses, 0.868 Earth Radii
+  - **Atmosphere:** Breathable, with nitrogen and oxygen.
+  - **Surface Conditions:** Mild climate, with substantial water bodies, marking it as a prime target for exploration and potentially habitable.
+
+#### Planet 10: Majestic Gas Giant
+
+  - **Type:** Jovian
+  - **Distance from 40 Eridani A:** 6.213 AU
+  - **Mass & Size:** 274.394 Earth Masses, 10.356 Earth Radii
+  - **Atmosphere:** Likely rich in hydrogen and helium, with dynamic weather systems.
+  - **Surface Conditions:** Lacks a solid surface, suggesting interesting atmospheric and possibly magnetic phenomena for study.
+
+#### Planet 7: Mini Neptune
+
+  - **Type:** Gas Dwarf
+  - **Distance from 40 Eridani A:** 2.134 AU
+  - **Mass & Size:** 3.941 Earth Masses, 2.748 Earth Radii
+  - **Atmosphere:** Dense, with potential for intriguing atmospheric chemistry.
+  - **Surface Conditions:** No solid surface; a dense atmosphere could host exotic clouds and winds.
+
+### Moon 13.1: A Cold Rock in the Outer System
+
+  - **Type:** Rock
+  - **Orbiting:** Planet 13
+  - **Mass & Size:** 0.009 Earth Masses, 0.285 Earth Radii
+  - **Atmosphere:** Airless
+  - **Surface Conditions:** Extremely cold, highlighting the diverse and harsh environments found in the outer reaches of this star system.
+
+### System Characteristics
+
+  - **Diversity:** The 40 Eridani A system showcases a wide range of planetary types, from hot, airless rocks closer to the star, to a potentially habitable terrestrial planet, and on to cold icy worlds and gas giants in the outer system.
+  - **Potential for Exploration:** High, especially for Planet \#3 due to its Earth-like conditions. The gas giants and their moons also offer valuable scientific opportunities to study the dynamics of more complex atmospheric and gravitational interactions.
+  - **Challenges:** The variety of environments, from the scorching surfaces of the inner rocky planets to the freezing, airless moons of the outer system, presents significant challenges for exploration and potential colonization.
+
+### Key Notes
+
+  - 40 Eridani A’s system is a vibrant example of cosmic diversity, featuring a rare gem in its habitable zone. The outer gas giants and their moons extend the realm of curiosity, offering a snapshot of the dynamic processes that govern planetary and satellite formation. This star system is a miniature galaxy in itself, representing the potential for life, the history of planetary development, and the boundless mysteries of space awaiting discovery.
+
+## Eta Cassiopeiae A System Overview
+
+**Star:** Eta Cassiopeiae A  
+**Mass:** 0.91 Solar Masses  
+**Luminosity:** 1.15 Solar Luminosity  
+**Age:** 5.642 Billion Years  
+**Habitable Zone:** 0.871 - 1.544 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 7 (Including Rock, Terrestrial, Ice, Sub-Jovian, and Jovian types)
+  - **Notable Moons:** 1 minor moon orbiting the Jovian planet.
+  - **Habitable Planets:** 1 (Planet \#3, a Terrestrial type with a breathable atmosphere and mild climate).
+
+### Highlighted Planets and Moons
+
+#### Planet 3: A Habitable Wonder
+
+  - **Type:** Terrestrial
+  - **Distance from Eta Cassiopeiae A:** 1.217 AU
+  - **Mass & Size:** 0.874 Earth Masses, 0.957 Earth Radii
+  - **Atmosphere:** Breathable, with nitrogen and oxygen.
+  - **Surface Conditions:** Slightly cooler than Earth, with ample liquid water, making it a prime candidate for life or human colonization.
+
+#### Planet 7: The Gas Giant Behemoth
+
+  - **Type:** Jovian
+  - **Distance from Eta Cassiopeiae A:** 6.935 AU
+  - **Mass & Size:** 1353.712 Earth Masses, 15.900 Earth Radii
+  - **Atmosphere:** Likely rich in hydrogen and helium with complex weather patterns.
+  - **Surface Conditions:** Gas giants do not have a solid surface, but its massive size and potential moons make it an interesting object for scientific study.
+
+#### Moon 7.1: Ice Moon of the Giant
+
+  - **Type:** Ice
+  - **Orbiting:** Planet 7
+  - **Mass & Size:** 0.787 Earth Masses, 1.233 Earth Radii
+  - **Atmosphere:** Thin, possibly containing water vapor.
+  - **Surface Conditions:** Extremely cold with icy surfaces, potentially harboring subsurface oceans.
+
+#### Planet 4: An Icy Outpost
+
+  - **Type:** Ice
+  - **Distance from Eta Cassiopeiae A:** 1.897 AU
+  - **Mass & Size:** 2.002 Earth Masses, 1.252 Earth Radii
+  - **Atmosphere:** Thick, could have greenhouse gases.
+  - **Surface Conditions:** Covered in ice with potentially dynamic weather patterns, offering insights into cryovolcanism and ice dynamics.
+
+### System Characteristics
+
+  - **Diversity:** The Eta Cassiopeiae A system boasts a range of planetary bodies from hot, tidally locked rocks near the star, through potentially habitable terrestrial planets, to cold icy worlds and massive gas giants further out.
+  - **Potential for Exploration:** High, with Planet \#3’s Earth-like conditions providing a tantalizing target for future missions, potentially hosting life or serving as a future human outpost.
+  - **Challenges:** The system presents varied challenges for exploration, from the intense heat of the closer rocky planets to the extreme cold and atmospheric pressures of the outer ice worlds and gas giants.
+
+### Key Notes
+
+  - Eta Cassiopeiae A’s system is a treasure trove of celestial diversity, offering a broad spectrum of scientific and exploration opportunities. At its heart lies a world that whispers the possibility of life beyond our own, surrounded by a cast of celestial bodies each holding their own secrets. This system stands as a beacon for the curious and the brave, representing the dual nature of space exploration: the search for knowledge and the quest for a new home among the stars.
+
+## 82 Eridani System Overview
+
+**Star:** 82 Eridani  
+**Mass:** 0.97 Solar Masses  
+**Luminosity:** 0.65 Solar Luminosity  
+**Age:** 3.626 Billion Years  
+**Habitable Zone:** 0.656 - 1.164 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 11 (Including Rock, Terrestrial, Ice, Sub-Jovian, and Jovian types)
+  - **Notable Moons:** Multiple moons, including one orbiting a Jovian planet and a cluster of moons around the outer rock planet \#11.
+  - **Habitable Planets:** 1 (Planet \#4, a Terrestrial type with a breathable atmosphere and comfortable climate).
+
+### Highlighted Planets and Moons
+
+#### Planet 4: A New Earth
+
+  - **Type:** Terrestrial
+  - **Distance from 82 Eridani:** 0.822 AU
+  - **Mass & Size:** 1.698 Earth Masses, 1.187 Earth Radii
+  - **Atmosphere:** Thick, likely with nitrogen and oxygen.
+  - **Surface Conditions:** Moderate climate with a vast liquid water presence, suggesting potential habitability.
+
+#### Planet 7: A Giant Among Giants
+
+  - **Type:** Jovian
+  - **Distance from 82 Eridani:** 7.361 AU
+  - **Mass & Size:** 991.590 Earth Masses, 14.940 Earth Radii
+  - **Atmosphere:** Dense with hydrogen and helium; possibly features complex storm systems.
+  - **Surface Conditions:** As a gas giant, it has no solid surface, but its massive size and significant moon suggest a complex system worth exploring.
+
+#### Moon 10.1: A Frigid Companion
+
+  - **Type:** Rock
+  - **Orbiting:** Planet 10
+  - **Mass & Size:** 0.041 Earth Masses, 0.466 Earth Radii
+  - **Atmosphere:** None; airless.
+  - **Surface Conditions:** Extremely cold and barren, presenting challenges for exploration but also opportunities for studying the solar system’s formation.
+
+### System Characteristics
+
+  - **Diversity:** The 82 Eridani system offers a broad spectrum of planetary bodies, from scorching, tidally locked rocks to freezing ice worlds, gas giants, and a potentially habitable terrestrial planet.
+  - **Potential for Exploration:** High, with particular interest in the Earth-like Planet \#4 and the moons of the gas giants for their potential to harbor water or exotic forms of life.
+  - **Challenges:** Varying gravity, atmospheric pressures, and temperatures across the system pose significant challenges to exploration and potential colonization efforts.
+
+### Key Notes
+
+  - The presence of a potentially habitable planet within the habitable zone of 82 Eridani makes this system a prime candidate for future exploration missions.
+  - The diverse range of planetary environments from hot to icy, including massive gas giants with their own moons, offers numerous opportunities for scientific discovery and understanding the dynamics of planetary systems.
+  - With its relatively close proximity and the variety of celestial bodies it hosts, 82 Eridani stands as a microcosm of the vast potential for discovery within our galaxy. The system’s rich assortment of planets and moons serves as a call to explore, promising insights into the possibilities of life beyond Earth and the future of humanity in the cosmos.
+
+## Delta Pavonis System Overview
+
+**Star:** Delta Pavonis  
+**Mass:** 0.98 Solar Masses  
+**Luminosity:** 1.20 Solar Luminosity  
+**Age:** 4.713 Billion Years  
+**Habitable Zone:** 0.891 - 1.581 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 13 (Including Rock, Water, Ice, Sub-Jovian, and Jovian types)
+  - **Notable Moons:** Several, including one orbiting a Water planet and another orbiting a Sub-Jovian planet.
+  - **Habitable Planets:** 1 (Moon \#3.1, a Terrestrial type with a breathable atmosphere).
+
+### Highlighted Planets and Moons
+
+#### Planet 3: A Unique Water World
+
+  - **Type:** Water
+  - **Distance from Delta Pavonis:** 1.164 AU
+  - **Mass & Size:** 3.011 Earth Masses, 1.426 Earth Radii
+  - **Atmosphere:** Unbreathably thick with nitrogen and helium.
+  - **Surface Conditions:** A rare, planet-wide ocean with a warm climate, making it an intriguing subject for the study of extraterrestrial life.
+
+### Moon 3.1: Potentially Habitable
+
+  - **Type:** Terrestrial
+  - **Orbiting:** Planet 3
+  - **Mass & Size:** 1.648 Earth Masses, 1.176 Earth Radii
+  - **Atmosphere:** Thick, breathable atmosphere with nitrogen and oxygen.
+  - **Surface Conditions:** Moderate climate with potential for liquid water, making it a prime candidate for habitability.
+
+#### Planet 7: A Gas Giant with Secrets
+
+  - **Type:** Jovian
+  - **Distance from Delta Pavonis:** 6.077 AU
+  - **Mass & Size:** 81.636 Earth Masses, 6.919 Earth Radii
+  - **Atmosphere:** Likely a mix of hydrogen, helium, and possibly complex organic compounds.
+  - **Surface Conditions:** As a gas giant, it doesn’t have a solid surface, but its large size and potential moons make it an interesting target for exploration.
+
+### System Characteristics
+
+  - **Diversity:** The Delta Pavonis system boasts a wide range of planetary types, from hot, barren rocks to a water world, icy planets, and massive gas giants.
+  - **Potential for Exploration:** High, especially the water planet and its habitable moon, which offer fascinating opportunities for discovering extraterrestrial life and understanding planet formation.
+  - **Challenges:** The varied conditions across the system, including extreme temperatures and varying atmospheric compositions, pose significant challenges to exploration and potential colonization.
+
+### Key Notes
+
+  - The presence of a water planet within the habitable zone, along with its potentially habitable moon, positions the Delta Pavonis system as a compelling destination for future space missions aimed at finding life beyond Earth.
+  - The system’s variety, from the inner hot rocks to the outer cold icy bodies and the massive gas giants in between, provides a broad spectrum for scientific study, including planetary formation, atmospheres, and potential for life.
+  - With its relatively close proximity and the array of celestial bodies it hosts, Delta Pavonis epitomizes the diverse opportunities for discovery and exploration that lie within our galaxy. The system beckons as a beacon for the quest to understand the cosmos and our place within it, highlighting the endless possibilities that await in the vast expanse of space.
+
+## Beta Hydri System Overview
+
+**Star:** Beta Hydri  
+**Mass:** 1.10 Solar Masses  
+**Luminosity:** 3.60 Solar Luminosity  
+**Age:** 3.021 Billion Years  
+**Habitable Zone:** 1.544 - 2.739 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 13 (Including Rock, Venusian, Terrestrial, Sub-Jovian, and Jovian types)
+  - **Notable Moons:** Multiple, including moons orbiting a Terrestrial planet and Jovian planets.
+  - **Habitable Planets:** 1 (Planet 6, a Terrestrial type with a breathable atmosphere).
+
+### Highlighted Planets and Moons
+
+#### Planet 6: Oasis in the Light of Beta Hydri
+
+  - **Type:** Terrestrial
+  - **Distance from Beta Hydri:** 1.731 AU
+  - **Mass & Size:** 1.033 Earth Masses, 1.011 Earth Radii
+  - **Atmosphere:** Breathable, with nitrogen and oxygen.
+  - **Surface Conditions:** Warm climate suitable for liquid water and potential habitability.
+
+#### Moon 6.1: Tiny Witness
+
+  - **Type:** Rock
+  - **Orbiting:** Planet 6
+  - **Mass & Size:** Negligible mass, 0.079 Earth Radii
+  - **Surface Conditions:** Cold, airless surface with significant day-night temperature variations.
+
+#### Planet 7: The Behemoth
+
+  - **Type:** Jovian
+  - **Distance from Beta Hydri:** 2.627 AU
+  - **Mass & Size:** 212.374 Earth Masses, 8.145 Earth Radii
+  - **Atmosphere:** Likely dominated by hydrogen and helium, with the potential for complex atmospheric phenomena.
+
+### System Characteristics
+
+  - **Diversity:** Beta Hydri’s system showcases a broad spectrum of planetary types, from scorching rocks close to the star to a potentially habitable terrestrial planet and beyond to massive gas giants.
+  - **Potential for Exploration:** The terrestrial Planet 6 and its moon present particularly interesting targets for exploration due to the breathable atmosphere and suitable temperatures for liquid water.
+  - **Challenges:** The extreme conditions on many of the system’s planets and moons, including high radiation levels, vast temperature ranges, and intense atmospheric pressures, pose significant challenges for exploration and potential colonization.
+
+### Key Notes
+
+  - Beta Hydri’s system, rich in diversity and potential, stands out as a beacon for exploration and the search for life beyond Earth. Planet 6, with conditions potentially favorable for life, beckons as a key interest for future missions.
+  - The array of celestial bodies, from the inner rocky planets to the outer gas giants and their moons, provides a comprehensive laboratory for studying planetary formation, atmospheric dynamics, and the potential for life in various environments.
+  - As Beta Hydri nears the end of its main sequence phase, the system serves as a reminder of the evolving nature of stars and their planets, highlighting the importance of understanding stellar lifecycles and their impact on orbiting planets.
+
+## Pi3 Orionis A System Overview
+
+**Star:** Pi3 Orionis A  
+**Mass:** 1.30 Solar Masses  
+**Luminosity:** 3.00  
+**Age:** 1.681 billion years  
+**Habitable Zone:** 1.410 - 2.500 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 13 (Including Rock, Venusian, Ice, Sub-Jovian, and Jovian types)
+  - **Notable Moons:** Multiple, including moons orbiting Sub-Jovian and Jovian planets.
+  - **Habitable Prospects:** Limited, with a notable ice planet within the outer edge of the habitable zone but lacking in substantial atmosphere for human habitability.
+
+### Highlighted Planets and Moons
+
+#### Planet 6: A Frozen Mystery
+
+  - **Type:** Ice
+  - **Distance from Pi3 Orionis A:** 2.011 AU
+  - **Mass & Size:** 0.823 Earth Masses, 0.939 Earth Radii
+  - **Atmosphere:** Thin, primarily Nitrogen and Oxygen.
+  - **Surface Conditions:** Cold and icy, with a barren landscape.
+
+#### Planet 9: The Gargantuan
+
+  - **Type:** Jovian
+  - **Distance from Pi3 Orionis A:** 6.454 AU
+  - **Mass & Size:** 1363.698 Earth Masses, 15.215 Earth Radii
+  - **Atmosphere:** Thick with gases, potentially harboring intense atmospheric storms.
+  - **Noteworthy:** This planet’s massive size and extensive atmosphere make it a standout in the Pi3 Orionis A system.
+
+### System Characteristics
+
+  - **Diversity:** The system exhibits a wide variety of planetary types, showcasing the complex processes that govern planetary formation and evolution.
+  - **Potential for Exploration:** The varied nature of the planets and moons offers numerous opportunities for scientific study, particularly in understanding atmospheric composition and potential subsurface oceans on ice planets.
+  - **Challenges:** The significant distances between planets and their varying harsh conditions pose logistical and technological challenges for exploration.
+
+### Key Notes
+
+  - The Pi3 Orionis A system provides a rich tapestry of celestial bodies for observation and study. From scorching hot rocky planets to frigid ice worlds and massive gas giants, the system’s diversity offers insights into the myriad ways in which planets and moons can form around a star slightly more massive than our Sun.
+  - The presence of an ice planet within the outer reaches of the habitable zone invites speculation about the possibility of subsurface oceans and the potential for microbial life in such extreme conditions.
+  - The giant planet 9, with its massive size and atmospheric depth, stands as a monument to the power of gravitational accumulation in the cosmos, offering a prime target for studies of gas giant formation and atmospheric dynamics.
+
+### Concluding Thoughts
+
+  - The Pi3 Orionis A system, with its array of planets and moons, serves as a cosmic laboratory for studying the formation, composition, and potential habitability of extraterrestrial worlds. While direct habitability for humans seems unlikely given the current understanding of these planets, the system remains a valuable subject for ongoing and future astronomical research.
+
+## Chara System Overview
+
+**Star:** Chara  
+**Mass:** 1.07 Solar Masses  
+**Luminosity:** 1.20  
+**Age:** 1.432 billion years  
+**Habitable Zone:** 0.891 - 1.581 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 13 (Including Rock, Terrestrial, Sub-Jovian, Ice, and Jovian types)
+  - **Notable Moons:** Multiple, including moons around Sub-Jovian and Jovian planets.
+  - **Habitable Prospects:** A terrestrial planet within the habitable zone with conditions potentially suitable for life.
+
+### Highlighted Planets and Moons
+
+#### Planet 5: A Glimmer of Life?
+
+  - **Type:** Terrestrial
+  - **Distance from Chara:** 1.185 AU
+  - **Mass & Size:** 1.428 Earth Masses, 1.123 Earth Radii
+  - **Atmosphere:** Earth-like, breathable.
+  - **Surface Conditions:** Temperate climate, with a hydrosphere covering 75.2% of the surface.
+
+#### Planet 9: The Behemoth
+
+  - **Type:** Jovian
+  - **Distance from Chara:** 11.025 AU
+  - **Mass & Size:** 762.876 Earth Masses, 13.953 Earth Radii
+  - **Atmosphere:** Thick, primarily composed of hydrogen and helium.
+  - **Noteworthy:** Its massive size and extensive gas atmosphere mark it as a prime candidate for studying gas giant dynamics.
+
+### System Characteristics
+
+  - **Diversity:** The Chara system showcases a variety of planet types from rocky bodies close to the star to icy worlds and massive gas giants further away.
+  - **Potential for Exploration:** The terrestrial planet within the habitable zone offers a tantalizing target for the search for life beyond Earth.
+  - **Challenges:** The vast distances and extreme conditions of the outer planets present significant challenges for exploration missions.
+
+### Key Notes
+
+  - The Chara system’s diversity, from its habitable terrestrial planet to its ice worlds and gas giants, provides a wide field for astronomical study and the search for life.
+  - The terrestrial planet within the habitable zone, with its Earth-like atmosphere and extensive hydrosphere, is particularly interesting for the potential it holds for supporting life.
+  - The presence of massive gas giants, including a planet over 700 times the mass of Earth, highlights the varied processes that can occur within a planetary system around a star not dissimilar to our own Sun.
+
+## Chi1 Orionis A System Overview
+
+**Star:** Chi1 Orionis A  
+**Mass:** 1.00 Solar Mass  
+**Luminosity:** 1.08  
+**Age:** 2.355 billion years  
+**Habitable Zone:** 0.846 - 1.500 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 4 main planets (Rock and Terrestrial types) with notable moons.
+  - **Habitable Prospects:** Two terrestrial planets within the habitable zone showing potential for life-supporting conditions.
+  - **Unique Features:** A system with tidally locked planets close to the star and a rich diversity of terrestrial bodies.
+
+### Highlighted Planets and Moons
+
+#### Planet 4: An Earth Plus
+
+  - **Type:** Terrestrial
+  - **Distance from Chi1 Orionis A:** 0.956 AU
+  - **Mass & Size:** 2.252 Earth Masses, 1.300 Earth Radii
+  - **Atmosphere:** High-G, hot, with a thick atmosphere.
+  - **Surface Conditions:** Extremely high surface pressure and temperature with a significant hydrosphere.
+
+#### Moon 4.1: The Comfortable Cousin
+
+  - **Type:** Terrestrial
+  - **Parent Planet:** Planet 4
+  - **Mass & Size:** 1.375 Earth Masses, 1.109 Earth Radii
+  - **Atmosphere:** Warm, cloudy, with breathable air.
+  - **Surface Conditions:** More temperate than its parent planet, with extensive cloud cover and large bodies of water.
+
+### System Characteristics
+
+  - **Diversity:** Chi1 Orionis A hosts a compact system of rocky planets and terrestrial worlds, with a range of surface conditions from hot, airless moons to potentially habitable terrestrial bodies.
+  - **Exploration Potential:** The terrestrial planets, especially Moon 4.1 with its Earth-like conditions, present intriguing targets for future exploration and study.
+  - **Scientific Interest:** The unique atmospheric conditions of Planet 4 and its moon offer valuable data on atmospheric science, habitability, and planetary evolution.
+
+### Key Notes
+
+  - The Chi1 Orionis A system provides a fascinating glimpse into the variety of planetary conditions that can exist around a star similar to our Sun.
+  - The potentially habitable conditions on Moon 4.1, alongside its parent planet’s extreme environment, underscore the diverse outcomes of planetary formation and evolution.
+  - The presence of multiple tidally locked planets and moons close to the star highlights the dynamic and varied nature of orbital mechanics and its impact on surface conditions.
+
+### Kappa Ceti System Overview
+
+**Star:** Kappa Ceti  
+**Mass:** 1.00 Solar Mass  
+**Luminosity:** 0.85  
+**Age:** 2.122 billion years  
+**Habitable Zone:** 0.750 - 1.331 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 14 main planets, including Rock, Terrestrial, Ice, Martian, Jovian, and Sub-Jovian types, with several moons.
+  - **Habitable Prospects:** Planet 4 and its moon offer conditions that could potentially support life.
+  - **Unique Features:** The system boasts a variety of planetary types, ranging from hot, airless rock planets to cold, icy bodies, and gas giants.
+
+### Highlighted Planets and Moons
+
+#### Planet 4: A Terrestrial Haven
+
+  - **Type:** Terrestrial
+  - **Distance from Kappa Ceti:** 0.861 AU
+  - **Mass & Size:** 1.473 Earth Masses, 1.134 Earth Radii
+  - **Atmosphere:** Warm, wet, with a thick breathable atmosphere.
+  - **Surface Conditions:** Ideal temperatures with extensive cloud cover, suggesting a significant hydrosphere.
+
+#### Moon 4.1: A Lesser Earth
+
+  - **Type:** Terrestrial
+  - **Parent Planet:** Planet 4
+  - **Mass & Size:** 1.375 Earth Masses, 1.109 Earth Radii
+  - **Atmosphere:** Warm, cloudy, with breathable air.
+  - **Surface Conditions:** Temperate climate, potentially rich in water resources, resembling Earth-like conditions.
+
+### System Characteristics
+
+  - **Diversity:** Kappa Ceti hosts a wide range of planetary environments, from intensely hot worlds near the star to icy bodies and gas giants in the outer system.
+  - **Exploration Potential:** The terrestrial planet and its moon within the habitable zone are prime candidates for further study regarding habitability and potential for life.
+  - **Scientific Interest:** The Jovian planets and their diverse moon systems provide ample opportunities for studying planetary formation, atmospheric dynamics, and potential satellite habitability.
+
+### Key Notes
+
+  - Kappa Ceti’s system offers a fascinating snapshot of cosmic diversity, hosting planets and moons across a broad spectrum of conditions.
+  - The potentially habitable conditions on Planet 4 and its moon underscore the importance of the habitable zone and atmospheric composition in the search for life beyond Earth.
+  - The presence of icy, Martian, and gas giant bodies further out from the star highlights the variety of planetary formation outcomes within a single system.
+
+## Delta Eridani System Overview
+
+**Star:** Delta Eridani  
+**Mass:** 1.37 Solar Masses  
+**Luminosity:** 4.48  
+**Age:** 3.066 billion years  
+**Habitable Zone:** 1.722 - 3.054 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 7 main planets, including Venusian, Rock, Jovian, Martian, and Sub-Jovian types, with several moons.
+  - **Habitable Prospects:** The system lacks a clear habitable planet but features a range of extreme environments for study.
+  - **Unique Features:** The system includes a Venusian planet with a boiling ocean and a vast range of Jovian planets, showcasing a significant diversity in planetary types.
+
+### Highlighted Planets and Moons
+
+#### Planet 1: A Venusian Inferno
+
+  - **Type:** Venusian
+  - **Distance from Delta Eridani:** 1.163 AU
+  - **Mass & Size:** 2.370 Earth Masses, 1.381 Earth Radii
+  - **Atmosphere:** Extremely thick and poisonous, with temperatures capable of melting lead.
+  - **Surface Conditions:** Boiling oceans (if any liquid remains), covered entirely by dense clouds.
+
+#### Moon 1.1: The Temperate Moon
+
+  - **Type:** Rock
+  - **Parent Planet:** Planet 1
+  - **Mass & Size:** 1.102 Earth Masses, 1.032 Earth Radii
+  - **Atmosphere:** Airless, but with more temperate conditions compared to its parent planet.
+  - **Surface Conditions:** Extreme temperature variations between day and night.
+
+### System Characteristics
+
+  - **Diversity:** Delta Eridani hosts a mixture of hot, cold, and gas giant planets, offering a comprehensive look into planetary formation and atmospheric composition.
+  - **Exploration Potential:** While not immediately habitable, the unique conditions of the planets and moons could offer valuable insights into planetary science.
+  - **Scientific Interest:** The Jovian planets, with their varying sizes and compositions, provide an ideal laboratory for studying gas giant formation and the potential for moons with subsurface oceans.
+
+### Key Notes
+
+  - Delta Eridani’s system is a prime example of stellar evolution impacting planetary environments, with a star nearing the end of its main sequence phase.
+  - The Venusian planet and its relatively temperate moon present an intriguing contrast, potentially offering clues to planetary evolution under intense stellar radiation.
+  - The array of Jovian planets, ranging from smaller gas giants to massive worlds, underscores the diversity of planetary systems and the dynamic processes that shape them.
+
+## Gliese 445 System Overview
+
+**Star:** Gliese 445  
+**Mass:** 0.20 Solar Masses  
+**Luminosity:** Essentially null  
+**Age:** 1.554 billion years  
+**Habitable Zone:** 0.049 - 0.086 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 11 main planets, with several moons, encompassing types such as Rock, 1Face, Martian, and Sub-Jovian.
+  - **Habitable Prospects:** None of the planets fall within the star’s habitable ecosphere radius, and all display extreme conditions, ranging from cold, icy surfaces to airless environments.
+  - **Unique Features:** The system features a variety of Martian-type planets with unbreathably thin atmospheres, showcasing a diversity in cold, arid conditions across the outer solar system.
+
+### Highlighted Planets and Moons
+
+#### Planet 5: The Largest Martian World
+
+  - **Type:** Martian
+  - **Distance from Gliese 445:** 1.236 AU
+  - **Mass & Size:** 0.926 Earth Masses, 1.299 Earth Radii
+  - **Atmosphere:** Thin, unbreathable atmosphere with icy, arid conditions.
+  - **Surface Conditions:** Extremely cold temperatures, showcasing the variety of Martian worlds within the system.
+
+#### Moon 5.1: A Rocky Companion
+
+  - **Type:** Rock
+  - **Parent Planet:** Planet 5
+  - **Mass & Size:** 0.148 Earth Masses, 0.713 Earth Radii
+  - **Atmosphere:** Airless, maintaining extremely cold surface temperatures.
+  - **Surface Conditions:** A notable example of a rock moon with conditions differing slightly from its parent planet, offering an interesting contrast within the system.
+
+### System Characteristics
+
+  - **Diversity:** Gliese 445 hosts a range of cold, largely uninhabitable worlds, from tiny rock planets to larger Martian types, highlighting the diversity possible even around low-mass stars.
+  - **Exploration Potential:** The system’s variety of cold planets and moons could offer insights into planetary formation and the conditions that prevail in systems orbiting low-mass stars.
+  - **Scientific Interest:** The presence of multiple Martian-type planets provides a rich field for studying the atmospheres and geologies of cold, arid worlds, potentially informing our understanding of similar conditions within our own solar system.
+
+### Key Notes
+
+  - Gliese 445’s system lacks a habitable zone due to the star’s low luminosity, focusing interest on the nature of cold, airless, or icy worlds.
+  - The wide range of Martian-type planets suggests a commonality of cold, arid conditions in systems orbiting low-mass stars, providing a stark contrast to the warmer, more volatile-rich worlds found in systems with more luminous stars.
+  - The exploration of Gliese 445’s planets and moons could yield valuable data on the outer limits of planetary habitability and the diversity of environments that can exist around the universe’s more common low-mass stars.
+
+### Gliese 226 System Overview
+
+**Star:** Gliese 226  
+**Mass:** 0.20 Solar Masses  
+**Luminosity:** Essentially null  
+**Age:** 5.258 billion years  
+**Habitable Zone:** 0.049 - 0.086 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 12 main planets, with several moons, including types such as Rock, 1Face, and Martian.
+  - **Habitable Prospects:** No planets fall within the habitable zone, showcasing a variety of extreme conditions, from cold, icy surfaces to airless environments and thin atmospheres.
+  - **Unique Features:** The system is diverse, with several Martian-type planets exhibiting unbreathably thin atmospheres and a mix of cold, arid conditions across different orbits.
+
+### Highlighted Planets and Moons
+
+#### Planet 8: The Cold Giant
+
+  - **Type:** Martian
+  - **Distance from Gliese 226:** 2.257 AU
+  - **Mass & Size:** 2.602 Earth Masses, 1.804 Earth Radii
+  - **Atmosphere:** Thin, unbreathable with icy, arid conditions.
+  - **Surface Conditions:** Exceptionally cold, indicative of the Martian worlds’ range within the system.
+
+#### Moon 7.1: A Rocky Satellite
+
+  - **Type:** Rock
+  - **Parent Planet:** Planet 7
+  - **Mass & Size:** 0.122 Earth Masses, 0.668 Earth Radii
+  - **Atmosphere:** Airless, maintaining extremely cold temperatures.
+  - **Surface Conditions:** Showcases the variance in conditions even among moons within this cold system.
+
+### System Characteristics
+
+  - **Diversity:** Gliese 226 hosts a range of cold, largely uninhabitable worlds, from small rocky planets to larger Martian types, highlighting the diversity around low-mass stars.
+  - **Exploration Potential:** The system’s variety of cold planets and moons offers insights into planetary formation and conditions prevailing around low-luminosity stars.
+  - **Scientific Interest:** The presence of multiple Martian-type planets with thin atmospheres provides a field for studying the geologies and potential cryovolcanism or subsurface ice.
+
+### Key Notes
+
+  - Gliese 226’s system lacks a habitable zone due to the star’s low luminosity, underscoring the nature of cold, airless, or icy worlds prevalent here.
+  - The range of Martian-type planets suggests a commonality of cold, arid conditions in systems orbiting low-mass stars, contrasting with warmer, volatile-rich worlds around more luminous stars.
+  - Exploring Gliese 226’s planets and moons could yield data on the limits of planetary habitability and the diversity of environments around the universe’s more common low-mass stars.
+
+### SZ Ursae Majoris System Overview
+
+**Star:** SZ Ursae Majoris  
+**Mass:** 0.20 Solar Masses  
+**Luminosity:** Practically null  
+**Age:** 5.071 billion years  
+**Habitable Zone:** 0.049 - 0.086 AU
+
+### Planetary Bodies Summary
+
+  - **Number of Planets:** 12 primary planets, alongside moons, categorized mainly as 1Face, Rock, and Martian types.
+  - **Habitable Prospects:** The system lacks planets within the traditional habitable zone, presenting a diverse range of environmental conditions, from icy, airless worlds to those with thin, unbreathable atmospheres.
+  - **Unique Features:** The system’s diversity is evident in the various planet types and conditions, from resonant spin-locked bodies to cold, Martian worlds with thin atmospheres.
+
+### Highlighted Planets and Moons
+
+#### Planet 7: The Cold Martian Giant
+
+  - **Type:** Martian
+  - **Distance from SZ Ursae Majoris:** 1.474 AU
+  - **Mass & Size:** 1.199 Earth Masses, 1.411 Earth Radii
+  - **Atmosphere:** Thin, unbreathable with cold, arid conditions.
+  - **Surface Conditions:** A representative of the Martian-type planets within this system, demonstrating the cold, arid conditions prevalent around low-mass stars.
+
+#### Moon 8.1: A Martian Companion
+
+  - **Type:** Martian
+  - **Parent Planet:** Planet 8
+  - **Mass & Size:** 0.766 Earth Masses, 1.222 Earth Radii
+  - **Atmosphere:** Thin, unbreathable, maintaining cold conditions.
+  - **Surface Conditions:** Highlights the variance in moon conditions, sharing characteristics with its parent planet but on a slightly smaller scale.
+
+### System Characteristics
+
+  - **Diversity:** SZ Ursae Majoris houses a collection of cold, mainly uninhabitable worlds, ranging from smaller rocky planets to larger Martian types, emphasizing the diversity around low-mass stars.
+  - **Exploration Potential:** The variety of cold planets and moons offers a window into planetary formation and environmental conditions surrounding low-luminosity stars.
+  - **Scientific Interest:** The Martian-type planets with thin atmospheres present an interesting study for geology and potential subsurface ice, providing insights into the formation and evolution of similar celestial bodies.
+
+### Key Notes
+
+  - The system’s lack of habitable-zone planets underscores the nature of cold, airless, or icy worlds prevalent around SZ Ursae Majoris.
+  - The assortment of Martian-type planets suggests a commonality of cold, arid conditions in systems orbiting low-mass stars, contrasting with warmer, volatile-rich worlds around more luminous stars.
+  - Exploring SZ Ursae Majoris’s planets and moons could provide valuable data on planetary habitability limits and the diversity of environments in the universe, particularly around the most common types of stars in our galaxy.
+
 # License
 
 © 2024 Roberto Bisceglie
@@ -1571,4 +2657,8 @@ The original 24XX SRD is by Jason Tocci license under Creative Commons Attributi
 
 Cover and internal illustrations are generated with DALL-E
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+*Frontier: Beyond Sol* is the direct sequel to *Sol: Beyond Earth*
+
+CC BY-SA 4.0
