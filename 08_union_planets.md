@@ -1,4 +1,4 @@
-# The Systems of the Union
+# Inhabited Planets of the Union
 
 ## Chronology of Planetary Colonization
 
