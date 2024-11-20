@@ -1,5 +1,7 @@
 # Landmark Starships
 
+Space ships show how far we've come as humans - they represent our need to explore, create, and survive. These aren't just complex machines; they show what we can achieve when we combine bold ideas with advanced technology. Whether it's small scout ships mapping new areas or massive colony ships carrying people to new homes, each one pushes what's possible with modern tech while showing how determined we are to explore. Let's look at some of these amazing ships and what makes them special in our ongoing mission to explore space.
+
 ## HCS Stellar Voyager
 
 The HCS Stellar Voyager represents a milestone in humanity's interstellar exploration history. Designed and built in the High Orbit Dynamics shipyards on the Moon, the Stellar Voyager was launched in 2245 as part of the "Pathfinders" initiative by the Sol Union, with the goal of exploring and mapping the farthest boundaries of the known galaxy. Its mission is to serve as an exploration vessel, a mobile laboratory, and, if necessary, as a temporary outpost for human operations in deep space.

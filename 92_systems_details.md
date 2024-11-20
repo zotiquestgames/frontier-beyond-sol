@@ -1,4 +1,6 @@
-# Settled system of the Sol Union
+# Sistems Detail
+
+Each solar system is different, with planets moving in unique patterns around their stars. In this section, we'll explore the star systems where humans are starting to venture. These systems are incredibly varied - you'll find everything from scorching hot planets to frozen ice worlds, and from Mars-like deserts to the rare planets that might actually support life. By studying these space environments, we're not just learning cool science - we're also finding places where we might one day live, while better understanding where we fit in this massive universe.
 
 ## Alpha Centauri A System Overview
 
