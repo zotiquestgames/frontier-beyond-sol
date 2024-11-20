@@ -51,6 +51,7 @@
 ### Main Planet
 
 **Name:** Alpha
+
 - **Planet Type:** Terrestrial
 - **Distance from Main Star:** 1.241 AU (about 1.9E+08 km)
 - **Surface Environment:** Cool climate with few clouds and a thin but breathable atmosphere, composed mainly of nitrogen (N2) and oxygen (O2). The planet features a range of temperatures that varies significantly between day and night.
@@ -84,6 +85,7 @@
 ### Main Planet
 
 **Planet Name:** Aqua
+
 - **Planet Type:** Terrestrial
 - **Distance from Main Star:** 0.685 AU (about 1E+08 km)
 - **Surface Environment:** Predominantly aquatic, with an oxygen-rich and nitrogen atmosphere. The climate is moderate with temperatures pleasantly oscillating between day and night.
@@ -117,6 +119,7 @@
 ### Main Planet
 
 **Planet Name:** Tau Ceti Prime
+
 - **Planet Type:** Terrestrial
 - **Distance from Main Star:** 0.785 AU (about 1.2E+08 km)
 - **Surface Environment:** With an oxygen-rich and nitrogen atmosphere, the planet is characterized by a moderate climate, with vast expanses of water covering 86.9% of the surface and abundant cloud cover.
@@ -156,6 +159,7 @@
 ### Main Planet
 
 **Name:** Eridani Aqua
+
 - **Planet Type:** Terrestrial
 - **Distance from Main Star:** 0.590 AU (about 8.8E+07 km)
 - **Surface Environment:** The planet has a temperate climate with an even distribution of oceans and land masses. The breathable atmosphere and abundant precipitation support a wide range of ecosystems.
@@ -189,6 +193,7 @@
 ### Main Planet
 
 **Name:** Frost
+
 - **Planet Type:** Terrestrial
 - **Distance from Main Star:** 0.569 AU (about 8.5E+07 km)
 - **Surface Environment:** Cold climate with few clouds and a thin but breathable atmosphere, mainly composed of oxygen (O2) and nitrogen (N2). Characterized by vast ice stretches and temperate regions milder during the day.
@@ -222,6 +227,7 @@
 ### Main Planet
 
 **Name:** Cassiopeia Prime
+
 - **Planet Type:** Terrestrial
 - **Distance from Main Star:** 1.217 AU (about 1.8E+08 km)
 - **Surface Environment:** The planet features a generally cold climate with few clouds, but the breathable atmosphere and temperate zones allow for a wide range of ecosystems.
@@ -255,6 +261,7 @@
 ### Main Planet
 
 **Name:** Eridani Oceanus
+
 - **Planet Type:** Terrestrial
 - **Distance from Main Star:** 0.822 AU (about 1.2E+08 km)
 - **Surface Environment:** A water-rich world with a dense, humid atmosphere, characterized by a significantly higher gravity than Earth. The surface is dominated by deep oceans, with few islands and archipelagos emerging.
@@ -288,6 +295,7 @@
 ### Main Planet
 
 **Name:** Nova Terra
+
 - **Planet Type:** Terrestrial, Earth-like
 - **Distance from Main Star:** 1.185 AU (about 1.8E+08 km)
 - **Surface Environment:** A planet sharing many characteristics with Earth, including extensive water bodies and a variety of biomes. The surface features temperate temperatures supporting a wide range of biodiversity.
@@ -321,6 +329,7 @@
 ### Main Planet
 
 **Name:** Hydra
+
 - **Planet Type:** Terrestrial
 - **Distance from Main Star:** 1.731 AU (about 2.6E+08 km)
 - **Surface Environment:** Featuring a warm climate and breathable atmosphere, Hydra showcases a wide variety of biomes, from lush tropical forests to vast savannahs and temperate deserts.
@@ -354,6 +363,7 @@
 ### Main Planet:
 
 **Moon Name:** Haven
+
 - **Planet Type:** Terrestrial (moon of a larger oceanic planet with a toxic atmosphere)
 - **Distance from Main Star:** 1.164 AU (about 1.7E+08 km)
 - **Surface Environment:** With a thick, nitrogen-rich atmosphere, Pavonis Haven offers temperate climatic conditions and slightly higher gravity than Earth. The surface varies between vast plateaus, deep valleys, and abundant water presence.
@@ -387,6 +397,7 @@
 ### Main Planet:
 
 **Name:** Verdant
+
 - **Planet Type:** Terrestrial
 - **Distance from Main Star:** 0.861 AU (about 1.3E+08 km)
 - **Surface Environment:** The planet is characterized by a warm and humid climate, with a dense atmosphere rich in oxygen and nitrogen. The surface is dominated by vast tropical forests, warmed oceans, and a constant cloud cover.
@@ -420,6 +431,7 @@
 ### Main Planet:
 
 **Name:** Orionis Refuge
+
 - **Planet Type:** Terrestrial (moon of a giant planet)
 - **Distance from Main Star:** 0.956 AU (about 1.4E+08 km)
 - **Surface Environment:** Characterized by a warm climate with persistent cloud cover, Orionis Refuge offers a welcoming habitat with vast forests, lush oceans, and a dense, breathable atmosphere.

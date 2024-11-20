@@ -83,3 +83,107 @@ When the written rules don't adequately cover a situation, the referee improvise
 
 The referee portrays the world and inhabitants surrounding the player characters. By sharing narrative power while guiding pacing and monitoring safety, the referee enables the group to collectively build an exciting and satisfying story.
 
+## Playing Solo
+
+In a solo role-playing game, use these steps to guide your scenes:
+
+1. **Set Expectations:** Think about your character's traits, goals, and motivations. Picture their action and how the game world might respond.  
+2. **Test Expectations:** If you're unsure how the world reacts, ask the oracle a "Yes" or "No" question to gauge possible outcomes—advantages or setbacks.  
+3. **Interpret the Outcome:** Compare the oracle's answer to your expectations. If it matches, proceed as planned. If it doesn't, think about how the unexpected result could shift the scene or story.  
+
+Testing your assumptions keeps the game engaging and opens up fresh story possibilities.
+
+When deciding outcomes for actions beyond your character's control or answering questions about the game world or NPC (Non-Player Character) reactions, try one of these methods:
+
+1. **Draw a Conclusion:** Choose the answer that’s the most interesting or logical.  
+2. **Ask a Closed Question:** Estimate the odds of a "Yes," then roll on the table below for the answer.  
+3. **Choose Between Two Options:** Imagine two possible outcomes, mark one as "likely," and roll to see if it’s true. If not, go with the other option.  
+4. **Spark an Idea:** Brainstorm or use a random prompt.
+
+### Asking Questions
+
+For closed questions (with a "Yes" or "No" answer), follow these steps:
+
+1. Roll a die based on the likelihood:
+
+| Likelihood         | Die to Roll |
+|--------------------|-------------|
+| Very Unlikely      | 1d4         |
+| Unlikely           | 1d6         |
+| Uncertain          | 1d6         |
+| Likely             | 1d10        |
+| Very Likely        | 1d12        |
+
+2. Interpret the roll:  
+   - **1-2 No, and...**: What you expected doesn’t happen, and things get worse.  
+   - **3-4 Yes, but...**: What you expected happens, but with a complication.  
+   - **5+ Yes, and...**: What you expected happens, plus something even better!  
+
+3. Think about the answer in the context of your question and the situation. Does it fit? Does it inspire you?  
+4. If you’ve got your answer, great! Play it out. If you need more details, use the Sparks tables for inspiration.  
+5. If you’re still stuck, try rolling again, exploring a different Spark, or trust your instincts to move forward.
+
+For open-ended questions, skip the oracle and roll directly on the Sparks tables. Let the results guide your imagination.
+
+### Sparks
+
+Use these tables to spark adventure ideas for *Frontier: Beyond Sol*. Combine an Action with a Theme to generate prompts like:  
+
+- **"Investigate a signal in an uncharted star system."**  
+- **"Defend an outpost from a hostile faction."**  
+- **"Chart a stargate route through a debris field."**  
+- **"Retrieve an ancient alien artifact buried in a ruin."**  
+
+
+#### Action
+
+| D20 | Action        |  
+|------|---------------|  
+| 1    | Chart         |  
+| 2    | Protect       |  
+| 3    | Explore       |  
+| 4    | Negotiate     |  
+| 5    | Retrieve      |  
+| 6    | Investigate   |  
+| 7    | Survey        |  
+| 8    | Defend        |  
+| 9    | Salvage       |  
+| 10   | Liberate      |  
+| 11   | Analyze       |  
+| 12   | Stop          |  
+| 13   | Escort        |  
+| 14   | Harvest       |  
+| 15   | Repair        |  
+| 16   | Decode        |  
+| 17   | Rebuild       |  
+| 18   | Discover      |  
+| 19   | Conceal       |  
+| 20   | Lead          |  
+
+#### Theme
+
+| D20 | Theme            |  
+|------|------------------|  
+| 1    | Stargate         |  
+| 2    | Colony           |  
+| 3    | Alien Ruin       |  
+| 4    | Relic            |  
+| 5    | Void             |  
+| 6    | Signal           |  
+| 7    | Anomaly          |  
+| 8    | Conflict         |  
+| 9    | Artifact         |  
+| 10   | Radiation        |  
+| 11   | Ecosystem        |  
+| 12   | Mutation         |  
+| 13   | Frontier         |  
+| 14   | Debris Field     |  
+| 15   | Outpost          |  
+| 16   | Secret           |  
+| 17   | Energy Source    |  
+| 18   | Distress Beacon  |  
+| 19   | Faction          |  
+| 20   | Shadow           |  
+
+
+
